@@ -6,7 +6,7 @@
         <SwitchPreference android:title="@string/home_settings_allow_rotate_title" android:key="user_settings_allow_auto_rotation" android:summary="@string/home_settings_allow_rotate_summary" android:defaultValue="@bool/autoRotate" />
     </PreferenceCategory>
     <PreferenceCategory android:title="@string/home_settings_icon_category" android:key="home_settings_icons_category">
-        <ListPreference android:entries="@array/home_settings_icon_size_labels" android:title="@string/home_settings_icon_size_title" android:key="user_settings_icon_size_mode" android:defaultValue="@string/icon_size_large" android:entryValues="@array/home_settings_icon_size_values" />
+        <ListPreference android:entries="@array/home_settings_icon_size_labels" android:title="@string/home_settings_icon_size_title" android:key="user_settings_icon_size_mode" android:defaultValue="@string/icon_size_small" android:entryValues="@array/home_settings_icon_size_values" />
         <Preference android:title="@string/home_settings_icon_pack_title" android:key="user_settings_set_icon_pack" android:summary="@string/home_settings_icon_pack_summary" />
         <SwitchPreference android:title="@string/home_settings_show_labels_in_stage_title" android:key="user_settings_show_stage_labels" android:summary="@string/home_settings_show_labels_in_stage_summary" android:defaultValue="@bool/enable_stage_icon_labels" />
         <SwitchPreference android:title="@string/home_settings_auto_pack_desktop_items" android:key="user_settings_auto_pack_desktop_items" android:summary="@string/home_settings_auto_pack_desktop_items_summary" android:defaultValue="@bool/default_auto_pack_desktop_items" />
