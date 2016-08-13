@@ -4,12 +4,12 @@
         <group>
             <groups type="activities">
                 <group>
-                    <setting key="name">com.sonyericsson.android.socialphonebook.DialerEntryActivity</setting>
-                    <setting key="package-name">com.sonyericsson.android.socialphonebook</setting>
+                    <setting key="name">.DialtactsActivity</setting>
+                    <setting key="package-name">com.android.dialer</setting>
                 </group>
                 <group>
-                    <setting key="name">com.sonyericsson.conversations.ui.ConversationListActivity</setting>
-                    <setting key="package-name">com.sonyericsson.conversations</setting>
+                    <setting key="name">.activities.PeopleActivity</setting>
+                    <setting key="package-name">com.android.contacts</setting>
                 </group>
             </groups>
             <groups type="internal-functions">
@@ -19,12 +19,12 @@
             </groups>
             <groups type="activities">
                 <group>
-                    <setting key="name">com.sonyericsson.android.socialphonebook.LaunchActivity</setting>
-                    <setting key="package-name">com.sonyericsson.android.socialphonebook</setting>
+                    <setting key="name">.ui.conversationlist.ConversationListActivity</setting>
+                    <setting key="package-name">com.android.messaging</setting>
                 </group>
                 <group>
-                    <setting key="name">com.sonyericsson.android.camera.CameraActivity</setting>
-                    <setting key="package-name">com.sonyericsson.android.camera</setting>
+                    <setting key="name">com.google.android.apps.chrome.Main</setting>
+                    <setting key="package-name">com.android.chrome</setting>
                 </group>
             </groups>
         </group>
