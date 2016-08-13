@@ -44,7 +44,7 @@
 
     new-array v1, v6, [Ljava/lang/String;
 
-    const-string v2, "Xperia Home"
+    const-string v2, "Oneofakind Home"
 
     aput-object v2, v1, v3
 

@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Подреждане на приложен.</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Искате ли да деинсталирате %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Деинст. на приложение</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">За да видите всички приложения, плъзнете наляво и изберете персонализиран или азбучен ред.</string>
     <string name="home_apptray_see_all_applications_txt">За да видите всички приложения, плъзнете надясно и изберете персонализиран или азбучен ред.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Деинсталиране</string>
@@ -162,7 +162,7 @@
     <string name="home_folder_dialog_create_new_txt">Създаване на нова папка</string>
     <string name="home_folder_dialog_folder_name_txt">Име на папката</string>
     <string name="home_folder_name_unused_apps_txt">Неизползвани приложения</string>
-    <string name="home_grid_size_change_notification_text">Началният екран на вашата Xperia™ бе надстроен към нова версия. Размерът на работния плот е променен и някои бързи клавиши и графични обекти бяха преместени заради новото оформление. Винаги можете да подредите по друг начин вашия работен плот спрямо вашите лични предпочитания.</string>
+    <string name="home_grid_size_change_notification_text">Началният екран на вашата Oneofakind™ бе надстроен към нова версия. Размерът на работния плот е променен и някои бързи клавиши и графични обекти бяха преместени заради новото оформление. Винаги можете да подредите по друг начин вашия работен плот спрямо вашите лични предпочитания.</string>
     <string name="home_grid_size_change_notification_title">Забележка</string>
     <string name="home_hint_my_applications_continue">Окей, разбрах!</string>
     <string name="home_hint_my_applications_info">Натиснете тук, за да прегледате своите приложения</string>
@@ -184,13 +184,13 @@
     <string name="home_mode_manual_setting">Класическо</string>
     <string name="home_mode_toggle_heading">Избор на оформление</string>
     <string name="home_no_uninstallable_apps_txt">Тези приложения не могат да се деинсталират</string>
-    <string name="home_permission_access_modify_configuration_description">Разрешава на приложенията да осъществяват достъп до текущата конфигурация на началния екран на Xperia™ и да я променят</string>
-    <string name="home_permission_access_modify_configuration_label">Осъществяване на достъп до и промяна на текущата конфигурация на началния екран на Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">Разрешава на приложенията да осъществяват достъп до текущата конфигурация на началния екран на Oneofakind™ и да я променят</string>
+    <string name="home_permission_access_modify_configuration_label">Осъществяване на достъп до и промяна на текущата конфигурация на началния екран на Oneofakind™</string>
     <string name="home_permission_install_widget_description">Разрешава на дадено приложение да добавя графични обекти без намеса от потребителя</string>
     <string name="home_permission_install_widget_label">Инсталиране на графични обекти</string>
-    <string name="home_permission_provider_insert_badge_description">Разрешава на приложенията да задават значки за известия на иконите на приложения в началния екран на Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Разрешава на приложенията да задават значки за известия на иконите на приложения в началния екран на Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">задаване на значки за приложения</string>
-    <string name="home_permission_provider_read_badge_description">Разрешава на приложенията да показват значки за известия на иконите на приложения в началния екран на Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Разрешава на приложенията да показват значки за известия на иконите на приложения в началния екран на Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">изтегляне на значки на приложения</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Може да премахвате графични обекти в безопасен режим</string>
     <string name="home_search_disclaimer_dialog_message">Ако се съгласите по-долу, Sony Mobile ще събере информация за употребата (използвани приложения и т.н.) и местоположението, за да персонализира препоръките. (ИД за реклама и местоположение на Android™ ще бъдат споделени с рекламните партньори). Sony Mobile ще разполага с вашите данни в съответствие с нашите <a href="http://sonymobile.com/privacy">правила за поверителност</a></string>
@@ -264,6 +264,6 @@
     <string name="settings_search_bar_dialog_title">Видим. лент. търсене</string>
     <string name="settings_search_bar_hide_button_text">Скриване</string>
     <string name="settings_search_bar_show_button_text">Покажи</string>
-    <string name="settings_search_bar_visible_sub_text">Изчистете данните за началния екран на Xperia™ в Настройки > Приложения, за да изведете отново лентата за търсене.</string>
+    <string name="settings_search_bar_visible_sub_text">Изчистете данните за началния екран на Oneofakind™ в Настройки > Приложения, за да изведете отново лентата за търсене.</string>
     <string name="settings_search_bar_visible_text">Показване на началния екран</string>
 </resources>

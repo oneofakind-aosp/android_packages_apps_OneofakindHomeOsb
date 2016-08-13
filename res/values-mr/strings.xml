@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">अनुप्रयोगांची विल्हेवारी लावा</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">%1$s विस्थापित करायचे?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">अनुप्रयोग विस्थापित करा</string>
-    <string name="home_application_name_txt">Xperia™ होम</string>
+    <string name="home_application_name_txt">Oneofakind™ होम</string>
     <string name="home_apptray_see_all_applications_bidi_txt">सर्व अनुप्रयोग पाहण्यासाठी डावीकडे बोट फिरवा आणि सानुकूल क्रम किंवा वर्णमाला यानुसार निवडा.</string>
     <string name="home_apptray_see_all_applications_txt">सर्व अनुप्रयोग पाहण्यासाठी, उजवीकडे बोट फिरवा आणि सानुकूल क्रम किंवा वर्णमाला यानुसार निवडा.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">विस्थापित करा</string>
@@ -112,7 +112,7 @@
     <string name="home_folder_dialog_create_new_txt">नवीन फोल्डर निर्माण करा</string>
     <string name="home_folder_dialog_folder_name_txt">फोल्डरचे नाव</string>
     <string name="home_folder_name_unused_apps_txt">न वापरलेले अनुप्रयोग</string>
-    <string name="home_grid_size_change_notification_text">आपले Xperia™ होम नवीन संस्करणावर उन्नत केले गेले आहे. डेस्कटॉप आकार बदलला गेला आहे आणि आपले शीघ्रमार्ग आणि संवादमाध्यमे काही नवीन आराखड्यामध्ये तंतोतंत बसवण्याकरिता हलविले गेले आहेत. आपण आपले व्यक्तिगत प्राधान्य जुळवण्यासाठी आपल्या डेस्कटॉपची पुनर्मांडणी करू शकता.</string>
+    <string name="home_grid_size_change_notification_text">आपले Oneofakind™ होम नवीन संस्करणावर उन्नत केले गेले आहे. डेस्कटॉप आकार बदलला गेला आहे आणि आपले शीघ्रमार्ग आणि संवादमाध्यमे काही नवीन आराखड्यामध्ये तंतोतंत बसवण्याकरिता हलविले गेले आहेत. आपण आपले व्यक्तिगत प्राधान्य जुळवण्यासाठी आपल्या डेस्कटॉपची पुनर्मांडणी करू शकता.</string>
     <string name="home_grid_size_change_notification_title">नोट</string>
     <string name="home_hint_my_applications_continue">ठीक आहे, मिळाले.</string>
     <string name="home_hint_my_applications_info">आपले अनुप्रयोग पाहण्यासाठी येथे टॅप करा</string>
@@ -134,13 +134,13 @@
     <string name="home_mode_manual_setting">क्लासिक</string>
     <string name="home_mode_toggle_heading">आराखडा पसंत करा</string>
     <string name="home_no_uninstallable_apps_txt">हे अनुप्रयोग विस्थापित करता येत नाहीत</string>
-    <string name="home_permission_access_modify_configuration_description">अनुप्रयोगामध्ये वर्तमान Xperia™ होम स्क्रीन जुळणीमध्ये प्रवेश करून बदल करण्याची परवानगी देतो</string>
-    <string name="home_permission_access_modify_configuration_label">वर्तमान Xperia™ होम स्क्रीन जुळणीमध्ये प्रवेश करून बदल करा</string>
+    <string name="home_permission_access_modify_configuration_description">अनुप्रयोगामध्ये वर्तमान Oneofakind™ होम स्क्रीन जुळणीमध्ये प्रवेश करून बदल करण्याची परवानगी देतो</string>
+    <string name="home_permission_access_modify_configuration_label">वर्तमान Oneofakind™ होम स्क्रीन जुळणीमध्ये प्रवेश करून बदल करा</string>
     <string name="home_permission_install_widget_description">उपभोगत्याच्या हस्तक्षेपाशिवाय अनुप्रयोगाला समाविष्ट करण्याची परवानगी देते</string>
     <string name="home_permission_install_widget_label">विजेट्स प्रस्थापित करा</string>
-    <string name="home_permission_provider_insert_badge_description">अनुप्रयोगाला त्याच्या Xperia™ होम अनुप्रयोग प्रतिरुपांवर सूचनापत्र बॅजेस सेट करण्याची परवानगी देतो</string>
+    <string name="home_permission_provider_insert_badge_description">अनुप्रयोगाला त्याच्या Oneofakind™ होम अनुप्रयोग प्रतिरुपांवर सूचनापत्र बॅजेस सेट करण्याची परवानगी देतो</string>
     <string name="home_permission_provider_insert_badge_label">अनुप्रयोगाचे बॅजेस सेट करा</string>
-    <string name="home_permission_provider_read_badge_description">अनुप्रयोगाला त्याच्या Xperia™ होम अनुप्रयोग प्रतिरुपांवर सूचनापत्र बॅजेस प्रदर्शित करण्याची परवानगी देतो</string>
+    <string name="home_permission_provider_read_badge_description">अनुप्रयोगाला त्याच्या Oneofakind™ होम अनुप्रयोग प्रतिरुपांवर सूचनापत्र बॅजेस प्रदर्शित करण्याची परवानगी देतो</string>
     <string name="home_permission_provider_read_badge_label">अनुप्रयोग बॅजेस मिळवा</string>
     <string name="home_safe_mode_remove_widget_toast_txt">आपण संवादमध्यम सुरक्षित मोडमध्ये काढून टाकू शकता</string>
     <string name="home_search_disclaimer_dialog_message">खालील बाबीशी आपण सहमत असल्यास वैयक्तिक शिफारशी करण्यासाठी Sony Mobile वापर माहिती (वापरलेले अनुप्रयोग इत्यादी) आणि स्थान डेटा संकलित करेल. (Android™ जाहिरात ID आणि स्थान जाहिरात भागीदारांसोबत शेअर केली जाईल). आमच्या <a href="http://sonymobile.com/privacy">गोपनीयता धोरण</a> नुसार Sony Mobile आपला डेटा हाताळेल</string>
@@ -214,6 +214,6 @@
     <string name="settings_search_bar_dialog_title">शोध पट्टी दृश्यमानता</string>
     <string name="settings_search_bar_hide_button_text">लपवा</string>
     <string name="settings_search_bar_show_button_text">दाखवा</string>
-    <string name="settings_search_bar_visible_sub_text">शोध पट्टी पुनर्प्राप्त करण्यासाठी सेटिंग्ज > अनुप्रयोग येथे जाऊन Xperia™ होम डेटा रिकामा करा.</string>
+    <string name="settings_search_bar_visible_sub_text">शोध पट्टी पुनर्प्राप्त करण्यासाठी सेटिंग्ज > अनुप्रयोग येथे जाऊन Oneofakind™ होम डेटा रिकामा करा.</string>
     <string name="settings_search_bar_visible_text">होम स्क्रीन वर दाखवा</string>
 </resources>

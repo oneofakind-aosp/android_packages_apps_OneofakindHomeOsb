@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Urutkeun aplikasi</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Pupus %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Pupus aplikasi</string>
-    <string name="home_application_name_txt">Layar Awal Xperia™</string>
+    <string name="home_application_name_txt">Layar Awal Oneofakind™</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Pikeun nempo kabeh aplikasi, gesek ka kenca jeung pilih urutan Kustom atawa Aksara.</string>
     <string name="home_apptray_see_all_applications_txt">Pikeun nempo kabeh aplikasi, gesek ka katuhu jeung pilih urutan Kustom atawa Aksara.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Pupus</string>
@@ -112,7 +112,7 @@ Catetn: éta bakal disimpen dina kartu SD."</string>
     <string name="home_folder_dialog_create_new_txt">Jieun polder anyar</string>
     <string name="home_folder_dialog_folder_name_txt">Ngaran polder</string>
     <string name="home_folder_name_unused_apps_txt">Aplikasi teu dipake</string>
-    <string name="home_grid_size_change_notification_text">Xperia™ Home tos diapgred ka versi nu anyar. Ukuran desktop tos dirobah jeung sababaraha potong kompas jeung widget tos dipindahkeun supados cocog tata perenah anyar. Anjeun tiasa nyusun deui desktop jangn kacocogan nu leuwih alus ka preferensi pribadi anjeun.</string>
+    <string name="home_grid_size_change_notification_text">Oneofakind™ Home tos diapgred ka versi nu anyar. Ukuran desktop tos dirobah jeung sababaraha potong kompas jeung widget tos dipindahkeun supados cocog tata perenah anyar. Anjeun tiasa nyusun deui desktop jangn kacocogan nu leuwih alus ka preferensi pribadi anjeun.</string>
     <string name="home_grid_size_change_notification_title">Catetan</string>
     <string name="home_hint_my_applications_continue">OKE, beunang!</string>
     <string name="home_hint_my_applications_info">Ketok didieu jang nempo aplikasi anjeun</string>
@@ -134,13 +134,13 @@ Catetn: éta bakal disimpen dina kartu SD."</string>
     <string name="home_mode_manual_setting">Klasik</string>
     <string name="home_mode_toggle_heading">Pilih tata perenah</string>
     <string name="home_no_uninstallable_apps_txt">Aplikasi ieu teu tiasa dipupus</string>
-    <string name="home_permission_access_modify_configuration_description">Idinan aplikasi jang ngakses jeung ngarobah konpigurasi layar utama Xperia™ nu ayeuna</string>
-    <string name="home_permission_access_modify_configuration_label">Akses jeung robah konpigurasi layar utama Xperia™ nu ayeuna</string>
+    <string name="home_permission_access_modify_configuration_description">Idinan aplikasi jang ngakses jeung ngarobah konpigurasi layar utama Oneofakind™ nu ayeuna</string>
+    <string name="home_permission_access_modify_configuration_label">Akses jeung robah konpigurasi layar utama Oneofakind™ nu ayeuna</string>
     <string name="home_permission_install_widget_description">Idinan aplikasi jang nambah widget tanpa dilampahkeun ku pamake</string>
     <string name="home_permission_install_widget_label">Pasang widget</string>
-    <string name="home_permission_provider_insert_badge_description">Idinan aplikasi jang nyetél béwara lambang dina ikon aplikasi Buruan Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Idinan aplikasi jang nyetél béwara lambang dina ikon aplikasi Buruan Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">setel lambang aplikasi</string>
-    <string name="home_permission_provider_read_badge_description">Idinan aplikasi jang mintonkeun béwara lambang ikon aplikasi Buruan Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Idinan aplikasi jang mintonkeun béwara lambang ikon aplikasi Buruan Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">meunangkeun lambang aplikasi</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Anjeun tiasa mupus widget dina modeu aman</string>
     <string name="home_search_disclaimer_dialog_message">Lamun anjeun satuju, Sony Mobile bakal ngumpulkeun inpo pamakéan (aplikasi anu dipaké jsb.) jeung lokasi jeung ngapribadikeun rékoméndasi. (ID iklan Android™ jeung lokasi bakal dibagikeun jeung mitra iklan). Sony Mobile bakal nyekel data anjeun dumasarkeun kana <a href="http://sonymobile.com/privacy">Kawijakan Privasi</a> kami</string>
@@ -214,6 +214,6 @@ Catetn: éta bakal disimpen dina kartu SD."</string>
     <string name="settings_search_bar_dialog_title">Visibilitas wagel teang</string>
     <string name="settings_search_bar_hide_button_text">Sumputkeun</string>
     <string name="settings_search_bar_show_button_text">Pinton</string>
-    <string name="settings_search_bar_visible_sub_text">Pupus data Xperia™ Home dina Setelan > Aplikasi jang mawa deui wagel Teang.</string>
+    <string name="settings_search_bar_visible_sub_text">Pupus data Oneofakind™ Home dina Setelan > Aplikasi jang mawa deui wagel Teang.</string>
     <string name="settings_search_bar_visible_text">Pinton dina layar Utama</string>
 </resources>

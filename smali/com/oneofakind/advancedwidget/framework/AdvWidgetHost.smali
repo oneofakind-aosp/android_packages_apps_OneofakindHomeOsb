@@ -1,5 +1,5 @@
-.class public abstract Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;
-.super Lcom/sonyericsson/advancedwidget/framework/Stub;
+.class public abstract Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;
+.super Lcom/oneofakind/advancedwidget/framework/Stub;
 .source "AdvWidgetHost.java"
 
 
@@ -13,7 +13,7 @@
 
     .prologue
     .line 19
-    invoke-direct {p0}, Lcom/sonyericsson/advancedwidget/framework/Stub;-><init>()V
+    invoke-direct {p0}, Lcom/oneofakind/advancedwidget/framework/Stub;-><init>()V
 
     return-void
 .end method
@@ -44,7 +44,7 @@
     check-cast p2, Landroid/view/View;
 
     .end local p2    # "params":Ljava/lang/Object;
-    invoke-virtual {p0, p2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;->addFullScreenEffect(Landroid/view/View;)V
+    invoke-virtual {p0, p2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;->addFullScreenEffect(Landroid/view/View;)V
 
     .line 101
     :goto_0
@@ -65,7 +65,7 @@
     check-cast p2, Landroid/view/View;
 
     .end local p2    # "params":Ljava/lang/Object;
-    invoke-virtual {p0, p2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;->removeFullScreenEffect(Landroid/view/View;)V
+    invoke-virtual {p0, p2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;->removeFullScreenEffect(Landroid/view/View;)V
 
     goto :goto_0
 
@@ -88,7 +88,7 @@
 
     move-result v1
 
-    invoke-virtual {p0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;->onConfigured(I)V
+    invoke-virtual {p0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;->onConfigured(I)V
 
     goto :goto_0
 
@@ -107,7 +107,7 @@
     check-cast p2, Ljava/util/UUID;
 
     .end local p2    # "params":Ljava/lang/Object;
-    iput-object p2, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;->mId:Ljava/util/UUID;
+    iput-object p2, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;->mId:Ljava/util/UUID;
 
     goto :goto_0
 
@@ -123,7 +123,7 @@
     if-eqz v1, :cond_4
 
     .line 98
-    invoke-virtual {p0}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;->getFrameworkVersion()I
+    invoke-virtual {p0}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;->getFrameworkVersion()I
 
     move-result v0
 
@@ -175,7 +175,7 @@
 
     .prologue
     .line 74
-    iget-object v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;->mId:Ljava/util/UUID;
+    iget-object v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;->mId:Ljava/util/UUID;
 
     return-object v0
 .end method

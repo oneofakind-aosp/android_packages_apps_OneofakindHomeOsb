@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Sorter apper</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Avinstallere %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Avinstaller app</string>
-    <string name="home_application_name_txt">Xperia™-startskjerm</string>
+    <string name="home_application_name_txt">Oneofakind™-startskjerm</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Du kan se alle appene ved å sveipe til venstre og velge Tilpasset rekkefølge eller Alfabetisk.</string>
     <string name="home_apptray_see_all_applications_txt">Du kan se alle appene ved å sveipe til høyre og velge Tilpasset rekkefølge eller Alfabetisk.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Avinstaller</string>
@@ -162,7 +162,7 @@ Merk: den vil fortsatt være lagret på SD-kortet."</string>
     <string name="home_folder_dialog_create_new_txt">Opprett ny mappe</string>
     <string name="home_folder_dialog_folder_name_txt">Mappenavn</string>
     <string name="home_folder_name_unused_apps_txt">Ubrukte apper</string>
-    <string name="home_grid_size_change_notification_text">Xperia™-hjem har blitt oppgradert til en ny versjon. Skrivebordsstørrelsen har blitt endret og enkelte snarveier og moduler har blitt flyttet for å passe den nye layouten. Du kan alltids omorganisere skrivebordet for å bedre passe dine personlige preferanser.</string>
+    <string name="home_grid_size_change_notification_text">Oneofakind™-hjem har blitt oppgradert til en ny versjon. Skrivebordsstørrelsen har blitt endret og enkelte snarveier og moduler har blitt flyttet for å passe den nye layouten. Du kan alltids omorganisere skrivebordet for å bedre passe dine personlige preferanser.</string>
     <string name="home_grid_size_change_notification_title">Merk</string>
     <string name="home_hint_my_applications_continue">OK, skjønner!</string>
     <string name="home_hint_my_applications_info">Trykk her for å vise appene</string>
@@ -184,13 +184,13 @@ Merk: den vil fortsatt være lagret på SD-kortet."</string>
     <string name="home_mode_manual_setting">Klassisk</string>
     <string name="home_mode_toggle_heading">Velg oppsett</string>
     <string name="home_no_uninstallable_apps_txt">Disse appene kan ikke avinstalleres</string>
-    <string name="home_permission_access_modify_configuration_description">Tillater en app å få tilgang til og endre gjeldende Xperia™-startskjermkonfigurasjon</string>
-    <string name="home_permission_access_modify_configuration_label">Tilgang til og endring av gjeldende Xperia™-startskjermkonfigurasjon</string>
+    <string name="home_permission_access_modify_configuration_description">Tillater en app å få tilgang til og endre gjeldende Oneofakind™-startskjermkonfigurasjon</string>
+    <string name="home_permission_access_modify_configuration_label">Tilgang til og endring av gjeldende Oneofakind™-startskjermkonfigurasjon</string>
     <string name="home_permission_install_widget_description">Lar en app legge til moduler uten brukermedvirkning</string>
     <string name="home_permission_install_widget_label">Installer moduler</string>
-    <string name="home_permission_provider_insert_badge_description">Lar en app angi varselmerker på sine appikoner på Xperia™-startskjermen</string>
+    <string name="home_permission_provider_insert_badge_description">Lar en app angi varselmerker på sine appikoner på Oneofakind™-startskjermen</string>
     <string name="home_permission_provider_insert_badge_label">angi appmerker</string>
-    <string name="home_permission_provider_read_badge_description">Lar en app vise varselmerker på sine appikoner på Xperia™-startskjermen</string>
+    <string name="home_permission_provider_read_badge_description">Lar en app vise varselmerker på sine appikoner på Oneofakind™-startskjermen</string>
     <string name="home_permission_provider_read_badge_label">hent appmerker</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Du kan fjerne moduler i sikker modus</string>
     <string name="home_search_disclaimer_dialog_message">Hvis du godtar nedenfor, vil Sony Mobile samle inn bruksinformasjon (apper brukt osv.) og sted for å persontilpasse anbefalinger. (Android™-reklame-ID og sted vil deles med reklamepartnere). Sony Mobile vil behandle dine data i henhold til vår <a href="http://sonymobile.com/privacy">personvernerklæring</a>.</string>
@@ -264,6 +264,6 @@ Merk: den vil fortsatt være lagret på SD-kortet."</string>
     <string name="settings_search_bar_dialog_title">Synlighet for søkelinje</string>
     <string name="settings_search_bar_hide_button_text">Skjul</string>
     <string name="settings_search_bar_show_button_text">Vis</string>
-    <string name="settings_search_bar_visible_sub_text">Slett Xperia™-startdata i Innstillinger > Apper for å få søkelinjen tilbake.</string>
+    <string name="settings_search_bar_visible_sub_text">Slett Oneofakind™-startdata i Innstillinger > Apper for å få søkelinjen tilbake.</string>
     <string name="settings_search_bar_visible_text">Vis på startskjermen</string>
 </resources>

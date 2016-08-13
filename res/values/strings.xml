@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Sort apps</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Uninstall %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Uninstall application</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">To see all applications, swipe left and select Custom order or Alphabetical.</string>
     <string name="home_apptray_see_all_applications_txt">To see all applications, swipe right and select Custom order or Alphabetical.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Uninstall</string>
@@ -162,7 +162,7 @@ Note: it will still be stored on the SD card."</string>
     <string name="home_folder_dialog_create_new_txt">Create new folder</string>
     <string name="home_folder_dialog_folder_name_txt">Folder name</string>
     <string name="home_folder_name_unused_apps_txt">Unused apps</string>
-    <string name="home_grid_size_change_notification_text">Your Xperia™ Home has been upgraded to a new version. The desktop size has been changed and some of your shortcuts and widgets have been moved to fit the new layout. You can always rearrange your desktop to better match your personal preferences.</string>
+    <string name="home_grid_size_change_notification_text">Your Oneofakind™ Home has been upgraded to a new version. The desktop size has been changed and some of your shortcuts and widgets have been moved to fit the new layout. You can always rearrange your desktop to better match your personal preferences.</string>
     <string name="home_grid_size_change_notification_title">Note</string>
     <string name="home_hint_my_applications_continue">OK, got it!</string>
     <string name="home_hint_my_applications_info">Tap here to view your applications</string>
@@ -184,13 +184,13 @@ Note: it will still be stored on the SD card."</string>
     <string name="home_mode_manual_setting">Classic</string>
     <string name="home_mode_toggle_heading">Choose layout</string>
     <string name="home_no_uninstallable_apps_txt">These apps cannot be uninstalled</string>
-    <string name="home_permission_access_modify_configuration_description">Allows an application to access and change current Xperia™ home screen configuration</string>
-    <string name="home_permission_access_modify_configuration_label">Access and change current Xperia™ home screen configuration</string>
+    <string name="home_permission_access_modify_configuration_description">Allows an application to access and change current Oneofakind™ home screen configuration</string>
+    <string name="home_permission_access_modify_configuration_label">Access and change current Oneofakind™ home screen configuration</string>
     <string name="home_permission_install_widget_description">Allows an application to add widgets without user intervention</string>
     <string name="home_permission_install_widget_label">Install widgets</string>
-    <string name="home_permission_provider_insert_badge_description">Allows an application to set notification badges on its Xperia™ Home application icons</string>
+    <string name="home_permission_provider_insert_badge_description">Allows an application to set notification badges on its Oneofakind™ Home application icons</string>
     <string name="home_permission_provider_insert_badge_label">set application badges</string>
-    <string name="home_permission_provider_read_badge_description">Allows an application to display notification badges on its Xperia™ Home application icons</string>
+    <string name="home_permission_provider_read_badge_description">Allows an application to display notification badges on its Oneofakind™ Home application icons</string>
     <string name="home_permission_provider_read_badge_label">get application badges</string>
     <string name="home_safe_mode_remove_widget_toast_txt">You can remove widgets in safe mode</string>
     <string name="home_search_disclaimer_dialog_message">If you agree below, Sony Mobile will collect usage info (apps used etc.) and location to personalize recommendations. (Android™ advertising ID and location will be shared with ad partners). Sony Mobile will handle your data according to our <a href="http://sonymobile.com/privacy">Privacy Policy</a></string>
@@ -264,7 +264,7 @@ Note: it will still be stored on the SD card."</string>
     <string name="settings_search_bar_dialog_title">Search bar visibility</string>
     <string name="settings_search_bar_hide_button_text">Hide</string>
     <string name="settings_search_bar_show_button_text">Show</string>
-    <string name="settings_search_bar_visible_sub_text">Clear Xperia™ Home data in Settings > Apps to bring back the Search bar.</string>
+    <string name="settings_search_bar_visible_sub_text">Clear Oneofakind™ Home data in Settings > Apps to bring back the Search bar.</string>
     <string name="settings_search_bar_visible_text">Show on Home screen</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>

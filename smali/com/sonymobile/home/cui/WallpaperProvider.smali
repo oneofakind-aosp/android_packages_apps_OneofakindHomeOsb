@@ -1088,12 +1088,12 @@
 
     .line 237
     .local v3, "wallpaperCategoryMap":Ljava/util/HashMap;, "Ljava/util/HashMap<Ljava/lang/String;Lcom/sonymobile/home/cui/CuiGridWallpaperItem;>;"
-    invoke-virtual {p0, v3}, Lcom/sonymobile/home/cui/WallpaperProvider;->getAllWallpaperPickerItemsExceptXperia(Ljava/util/Map;)Ljava/util/List;
+    invoke-virtual {p0, v3}, Lcom/sonymobile/home/cui/WallpaperProvider;->getAllWallpaperPickerItemsExceptOneofakind(Ljava/util/Map;)Ljava/util/List;
 
     move-result-object v1
 
     .line 241
-    .local v1, "allWallpaperPickersExceptXperia":Ljava/util/List;, "Ljava/util/List<Lcom/sonymobile/home/cui/CuiGridWallpaperItem;>;"
+    .local v1, "allWallpaperPickersExceptOneofakind":Ljava/util/List;, "Ljava/util/List<Lcom/sonymobile/home/cui/CuiGridWallpaperItem;>;"
     invoke-direct {p0, v3}, Lcom/sonymobile/home/cui/WallpaperProvider;->getPrioritizedWallpaperPickers(Ljava/util/Map;)Ljava/util/List;
 
     move-result-object v2
@@ -1121,7 +1121,7 @@
     return-object v0
 .end method
 
-.method public getAllWallpaperPickerItemsExceptXperia(Ljava/util/Map;)Ljava/util/List;
+.method public getAllWallpaperPickerItemsExceptOneofakind(Ljava/util/Map;)Ljava/util/List;
     .locals 19
     .annotation system Ldalvik/annotation/Signature;
         value = {

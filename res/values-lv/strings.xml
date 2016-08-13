@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Lietotņu kārtošana</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Vai atinstalēt lietotni %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Lietotnes atinstalēšana</string>
-    <string name="home_application_name_txt">Xperia™ sākums</string>
+    <string name="home_application_name_txt">Oneofakind™ sākums</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Lai skatītu visas lietotnes, švīkājiet pa kreisi un atlasiet Pielāgota secība vai Pēc alfabēta.</string>
     <string name="home_apptray_see_all_applications_txt">Lai skatītu visas lietotnes, švīkājiet pa labi un atlasiet Pielāgota secība vai Pēc alfabēta.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">"Atinstalēt "</string>
@@ -162,7 +162,7 @@ Piezīme. Tā joprojām tiks glabāta SD kartē."</string>
     <string name="home_folder_dialog_create_new_txt">Izveidot jaunu mapi</string>
     <string name="home_folder_dialog_folder_name_txt">Mapes nosaukums</string>
     <string name="home_folder_name_unused_apps_txt">Neizmantotās lietotnes</string>
-    <string name="home_grid_size_change_notification_text">Xperia™ ierīces sākuma ekrāns ir atjaunināts uz jaunu versiju. Ir mainīts darbvirsmas lielums, un daži no logrīkiem un īsceļu ikonām ir pārvietoti atbilstoši jaunajam izkārtojumam. Jebkurā brīdī varat pārkārtot darbvirsmu atbilstoši savām vēlmēm.</string>
+    <string name="home_grid_size_change_notification_text">Oneofakind™ ierīces sākuma ekrāns ir atjaunināts uz jaunu versiju. Ir mainīts darbvirsmas lielums, un daži no logrīkiem un īsceļu ikonām ir pārvietoti atbilstoši jaunajam izkārtojumam. Jebkurā brīdī varat pārkārtot darbvirsmu atbilstoši savām vēlmēm.</string>
     <string name="home_grid_size_change_notification_title">Piezīme</string>
     <string name="home_hint_my_applications_continue">Labi, sapratu!</string>
     <string name="home_hint_my_applications_info">Piesitiet šeit, lai skatītu savas lietotnes</string>
@@ -184,13 +184,13 @@ Piezīme. Tā joprojām tiks glabāta SD kartē."</string>
     <string name="home_mode_manual_setting">Klasisks</string>
     <string name="home_mode_toggle_heading">Izkārtojuma izvēle</string>
     <string name="home_no_uninstallable_apps_txt">Šīs programmas nevar atinstalēt</string>
-    <string name="home_permission_access_modify_configuration_description">Atļauj lietotnei piekļūt un mainīt pašreizējo Xperia™ sākuma ekrāna konfigurāciju</string>
-    <string name="home_permission_access_modify_configuration_label">Piekļūt un mainīt pašreizējo Xperia™ sākuma ekrāna konfigurāciju</string>
+    <string name="home_permission_access_modify_configuration_description">Atļauj lietotnei piekļūt un mainīt pašreizējo Oneofakind™ sākuma ekrāna konfigurāciju</string>
+    <string name="home_permission_access_modify_configuration_label">Piekļūt un mainīt pašreizējo Oneofakind™ sākuma ekrāna konfigurāciju</string>
     <string name="home_permission_install_widget_description">Atļauj lietotnei pievienot logrīkus bez lietotāja iejaukšanās</string>
     <string name="home_permission_install_widget_label">Instalēt logrīkus</string>
-    <string name="home_permission_provider_insert_badge_description">Atļauj lietotnei iestatīt paziņojumu žetonus uz Xperia™ sākuma ekrāna lietotņu ikonām</string>
+    <string name="home_permission_provider_insert_badge_description">Atļauj lietotnei iestatīt paziņojumu žetonus uz Oneofakind™ sākuma ekrāna lietotņu ikonām</string>
     <string name="home_permission_provider_insert_badge_label">iestatīt lietotņu žetonus</string>
-    <string name="home_permission_provider_read_badge_description">Atļauj lietotnei parādīt paziņojumu žetonus uz Xperia™ sākuma ekrāna lietotņu ikonām</string>
+    <string name="home_permission_provider_read_badge_description">Atļauj lietotnei parādīt paziņojumu žetonus uz Oneofakind™ sākuma ekrāna lietotņu ikonām</string>
     <string name="home_permission_provider_read_badge_label">iegūt lietotņu žetonus</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Varat noņemt logrīkus drošajā režīmā</string>
     <string name="home_search_disclaimer_dialog_message">Ja tālāk piekritīsiet, uzņēmums Sony Mobile apkopos informāciju par lietošanu (izmantotajām lietotnēm u.c.) un atrašanās vietu, lai personalizētu ieteikumus. (Android™ reklamēšanas ID un atrašanās vieta tiks atklāta reklamēšanas partneriem.) Sony Mobile apstrādās jūsu datus saskaņā ar mūsu <a href="http://sonymobile.com/privacy">konfidencialitātes politiku</a></string>
@@ -264,6 +264,6 @@ Piezīme. Tā joprojām tiks glabāta SD kartē."</string>
     <string name="settings_search_bar_dialog_title">Mekl. joslas redzamība</string>
     <string name="settings_search_bar_hide_button_text">Paslēpt</string>
     <string name="settings_search_bar_show_button_text">Rādīt</string>
-    <string name="settings_search_bar_visible_sub_text">Notīriet Xperia™ Home datus sadaļā Iestatījumi > Programmas, lai atkal parādītos meklēšanas josla.</string>
+    <string name="settings_search_bar_visible_sub_text">Notīriet Oneofakind™ Home datus sadaļā Iestatījumi > Programmas, lai atkal parādītos meklēšanas josla.</string>
     <string name="settings_search_bar_visible_text">Meklēšanas joslas parādīšana</string>
 </resources>

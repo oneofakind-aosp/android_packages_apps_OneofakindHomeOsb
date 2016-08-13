@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">จัดเรียงแอป</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">เลิกติดตั้ง %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">เลิกติดตั้งแอปพลิเคชัน</string>
-    <string name="home_application_name_txt">หน้าหลัก Xperia™</string>
+    <string name="home_application_name_txt">หน้าหลัก Oneofakind™</string>
     <string name="home_apptray_see_all_applications_bidi_txt">หากต้องการดูแอปพลิเคชันทั้งหมด ให้ปัดไปทางซ้ายแล้วเลือก ลำดับที่กำหนดเอง หรือ ลำดับตัวอักษร</string>
     <string name="home_apptray_see_all_applications_txt">หากต้องการดูแอปพลิเคชันทั้งหมด ให้ปัดไปทางขวาแล้วเลือก ลำดับที่กำหนดเอง หรือ ลำดับตัวอักษร</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">เลิกติดตั้ง</string>
@@ -162,7 +162,7 @@
     <string name="home_folder_dialog_create_new_txt">สร้างโฟลเดอร์ใหม่</string>
     <string name="home_folder_dialog_folder_name_txt">ชื่อโฟลเดอร์</string>
     <string name="home_folder_name_unused_apps_txt">แอปที่ไม่ใช้งาน</string>
-    <string name="home_grid_size_change_notification_text">หน้าจอเริ่มต้นของ Xperia™ ของคุณได้รับการอัปเกรดให้เป็นเวอร์ชันใหม่แล้ว ขนาดเดสก์ท็อปได้เปลี่ยนไป และทางลัดและวิดเจ็ตบางอย่างของคุณถูกย้ายเพื่อให้พอดีกับเค้าโครงใหม่แล้ว คุณสามารถจัดเดสก์ท็อปของคุณใหม่ได้ทุกเมื่อเพื่อให้เหมาะกับการตั้งค่าส่วนตัวของคุณยิ่งขึ้น</string>
+    <string name="home_grid_size_change_notification_text">หน้าจอเริ่มต้นของ Oneofakind™ ของคุณได้รับการอัปเกรดให้เป็นเวอร์ชันใหม่แล้ว ขนาดเดสก์ท็อปได้เปลี่ยนไป และทางลัดและวิดเจ็ตบางอย่างของคุณถูกย้ายเพื่อให้พอดีกับเค้าโครงใหม่แล้ว คุณสามารถจัดเดสก์ท็อปของคุณใหม่ได้ทุกเมื่อเพื่อให้เหมาะกับการตั้งค่าส่วนตัวของคุณยิ่งขึ้น</string>
     <string name="home_grid_size_change_notification_title">หมายเหตุ</string>
     <string name="home_hint_my_applications_continue">ตกลง ได้เห็นแล้ว</string>
     <string name="home_hint_my_applications_info">แตะที่นี่เพื่อดูแอปพลิเคชันของคุณ</string>
@@ -186,13 +186,13 @@
     <string name="home_mode_manual_setting">คลาสสิก</string>
     <string name="home_mode_toggle_heading">เลือกเค้าโครง</string>
     <string name="home_no_uninstallable_apps_txt">ไม่สามารถถอนการติดตั้งแอปพลิเคชันเหล่านี้</string>
-    <string name="home_permission_access_modify_configuration_description">อนุญาตให้แอปพลิเคชันเข้าถึงและเปลี่ยนการกำหนดค่าปัจจุบันของหน้าจอหลัก Xperia™</string>
-    <string name="home_permission_access_modify_configuration_label">เข้าถึงและเปลี่ยนการกำหนดค่าปัจจุบันของหน้าจอหลัก Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">อนุญาตให้แอปพลิเคชันเข้าถึงและเปลี่ยนการกำหนดค่าปัจจุบันของหน้าจอหลัก Oneofakind™</string>
+    <string name="home_permission_access_modify_configuration_label">เข้าถึงและเปลี่ยนการกำหนดค่าปัจจุบันของหน้าจอหลัก Oneofakind™</string>
     <string name="home_permission_install_widget_description">อนุญาตให้แอปพลิเคชันเพิ่ม widget โดยไม่แทรกแซงผู้ใช้</string>
     <string name="home_permission_install_widget_label">ติดตั้ง widget</string>
-    <string name="home_permission_provider_insert_badge_description">อนุญาตให้แอปพลิเคชันตั้งค่าป้ายการแจ้งบนไอคอนแอปพลิเคชันหน้าหลักของ Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">อนุญาตให้แอปพลิเคชันตั้งค่าป้ายการแจ้งบนไอคอนแอปพลิเคชันหน้าหลักของ Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">ตั้งค่าป้ายสำหรับแอปพลิเคชัน</string>
-    <string name="home_permission_provider_read_badge_description">อนุญาตให้แอปพลิเคชันแสดงป้ายการแจ้งบนไอคอนของแอปพลิเคชันหน้าหลักของ Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">อนุญาตให้แอปพลิเคชันแสดงป้ายการแจ้งบนไอคอนของแอปพลิเคชันหน้าหลักของ Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">รับป้ายการแจ้งบนแอปพลิเคชัน</string>
     <string name="home_safe_mode_remove_widget_toast_txt">คุณสามารถลบ widgets ใน safe mode</string>
     <string name="home_search_disclaimer_dialog_message">หากคุณยอมรับด้านล่างนี้ Sony Mobile จะรวบรวมข้อมูลการใช้งาน (แอปที่ใช้ ฯลฯ) และตำแหน่งที่ตั้งเพื่อให้คำแนะนำแอปที่เหมาะกับคุณโดยเฉพาะ (เราจะแชร์ ID โฆษณาบน Android™ และตำแหน่งที่ตั้งกับคู่ค้าด้านโฆษณา) และจะจัดการข้อมูลของคุณตาม<a href="http://sonymobile.com/privacy">นโยบายความเป็นส่วนตัว</a>ของเรา</string>
@@ -266,6 +266,6 @@
     <string name="settings_search_bar_dialog_title">การแสดงแถบค้นหา</string>
     <string name="settings_search_bar_hide_button_text">ซ่อน</string>
     <string name="settings_search_bar_show_button_text">แสดง</string>
-    <string name="settings_search_bar_visible_sub_text">ล้างข้อมูลหน้าหลัก Xperia™ ในการตั้งค่า > แอพเพื่อนำแถบค้นหากลับมา</string>
+    <string name="settings_search_bar_visible_sub_text">ล้างข้อมูลหน้าหลัก Oneofakind™ ในการตั้งค่า > แอพเพื่อนำแถบค้นหากลับมา</string>
     <string name="settings_search_bar_visible_text">แสดงในหน้าหลัก</string>
 </resources>

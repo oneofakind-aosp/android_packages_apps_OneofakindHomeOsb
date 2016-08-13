@@ -486,7 +486,7 @@
 
     .line 363
     .local v0, "success":Z
-    invoke-virtual {p1}, Lcom/sonymobile/home/ui/widget/HomeAdvWidget;->getProxy()Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    invoke-virtual {p1}, Lcom/sonymobile/home/ui/widget/HomeAdvWidget;->getProxy()Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
     move-result-object v1
 
@@ -1004,7 +1004,7 @@
 
     invoke-direct {v3, p0}, Lcom/sonymobile/home/ui/widget/HomeAdvWidgetManager$HomeAdvWidgetHost;-><init>(Lcom/sonymobile/home/ui/widget/HomeAdvWidgetManager;)V
 
-    invoke-virtual {v2, v3}, Lcom/sonymobile/home/ui/widget/HomeAdvWidget;->setHost(Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;)V
+    invoke-virtual {v2, v3}, Lcom/sonymobile/home/ui/widget/HomeAdvWidget;->setHost(Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;)V
 
     .line 282
     invoke-virtual {v2}, Lcom/sonymobile/home/ui/widget/HomeAdvWidget;->createClazz()V

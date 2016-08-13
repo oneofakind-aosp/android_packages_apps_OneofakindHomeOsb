@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Ordena les aplicacions</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Voleu desinstal·lar %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">"Desinstal·lació d'aplicació"</string>
-    <string name="home_application_name_txt">"Pantalla d'inici d'Xperia™"</string>
+    <string name="home_application_name_txt">"Pantalla d'inici d'Oneofakind™"</string>
     <string name="home_apptray_see_all_applications_bidi_txt">"Per veure totes les aplicacions, passeu el dit cap a l'esquerra i seleccioneu l'ordre personalitzat o alfabètic."</string>
     <string name="home_apptray_see_all_applications_txt">Per veure totes les aplicacions, passeu el dit cap a la dreta i seleccioneu Ordre personalitzat o alfabètic.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Desinstal·la</string>
@@ -162,7 +162,7 @@ Nota: encara estarà emmagatzemada a la targeta SD."</string>
     <string name="home_folder_dialog_create_new_txt">Crea una carpeta nova</string>
     <string name="home_folder_dialog_folder_name_txt">Nom de la carpeta</string>
     <string name="home_folder_name_unused_apps_txt">Apps no utilitzades</string>
-    <string name="home_grid_size_change_notification_text">"La pantalla inicial del vostre Xperia™ s'ha actualitzat a una versió nova. La mida de l'escriptori ha canviat i algunes de les dreceres i ginys s'han mogut per adaptar-se a la nova presentació. Sempre podeu reorganitzar l'escriptori perquè s'ajusti millor a les vostres preferències personals."</string>
+    <string name="home_grid_size_change_notification_text">"La pantalla inicial del vostre Oneofakind™ s'ha actualitzat a una versió nova. La mida de l'escriptori ha canviat i algunes de les dreceres i ginys s'han mogut per adaptar-se a la nova presentació. Sempre podeu reorganitzar l'escriptori perquè s'ajusti millor a les vostres preferències personals."</string>
     <string name="home_grid_size_change_notification_title">Nota</string>
     <string name="home_hint_my_applications_continue">"D'acord, entès!"</string>
     <string name="home_hint_my_applications_info">Puntegeu aquí per visualitzar les vostres aplicacions</string>
@@ -184,13 +184,13 @@ Nota: encara estarà emmagatzemada a la targeta SD."</string>
     <string name="home_mode_manual_setting">Clàssic</string>
     <string name="home_mode_toggle_heading">Tria el disseny</string>
     <string name="home_no_uninstallable_apps_txt">Aquestes aplicacions no es poden desinstal·lar</string>
-    <string name="home_permission_access_modify_configuration_description">"Permet que l'aplicació accedeixi i canviï la configuració de la pantalla inicial actual de Xperia™"</string>
-    <string name="home_permission_access_modify_configuration_label">Accedeix i canvia la configuració de la pantalla inicial actual de Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">"Permet que l'aplicació accedeixi i canviï la configuració de la pantalla inicial actual de Oneofakind™"</string>
+    <string name="home_permission_access_modify_configuration_label">Accedeix i canvia la configuració de la pantalla inicial actual de Oneofakind™</string>
     <string name="home_permission_install_widget_description">"Permet que una aplicació afegeixi ginys sense la intervenció de l'usuari"</string>
     <string name="home_permission_install_widget_label">Instal·la els ginys</string>
-    <string name="home_permission_provider_insert_badge_description">"Permet que l'aplicació estableixi identificadors de notificació a les icones de l'aplicació Inici d'Xperia™"</string>
+    <string name="home_permission_provider_insert_badge_description">"Permet que l'aplicació estableixi identificadors de notificació a les icones de l'aplicació Inici d'Oneofakind™"</string>
     <string name="home_permission_provider_insert_badge_label">"estableix identificadors a l'aplicació"</string>
-    <string name="home_permission_provider_read_badge_description">"Permet que una aplicació mostri identificadors de notificació a les icones de l'aplicació Inici d'Xperia™"</string>
+    <string name="home_permission_provider_read_badge_description">"Permet que una aplicació mostri identificadors de notificació a les icones de l'aplicació Inici d'Oneofakind™"</string>
     <string name="home_permission_provider_read_badge_label">"obtén identificadors per a l'aplicació"</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Podeu eliminar widgets en mode segur</string>
     <string name="home_search_disclaimer_dialog_message">"Si esteu d'acord amb el que s'indica a continuació, Sony Mobile recollirà la vostra informació d'ús (les aplicacions utilitzades, etc.) i la ubicació per personalitzar les recomanacions. (La ID de publicitat d'Android™ i la ubicació es compartiran amb els socis de publicitat). Sony Mobile gestionarà les vostres dades segons la nostra "<a href="http://sonymobile.com/privacy">Política de privacitat</a></string>
@@ -264,6 +264,6 @@ Nota: encara estarà emmagatzemada a la targeta SD."</string>
     <string name="settings_search_bar_dialog_title">Visibilitat barra cerca</string>
     <string name="settings_search_bar_hide_button_text">Amaga</string>
     <string name="settings_search_bar_show_button_text">Mostra</string>
-    <string name="settings_search_bar_visible_sub_text">"Esborreu les dades inicials de l'Xperia™ a Configuració > Aplic. perquè torni a aparèixer la barra de cerca."</string>
+    <string name="settings_search_bar_visible_sub_text">"Esborreu les dades inicials de l'Oneofakind™ a Configuració > Aplic. perquè torni a aparèixer la barra de cerca."</string>
     <string name="settings_search_bar_visible_text">Mostra a la pantalla inicial</string>
 </resources>

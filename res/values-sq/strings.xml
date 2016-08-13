@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Renditni aplikacionet</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">"Të çinstalohet %1$s? "</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Çinstalo aplikacionin</string>
-    <string name="home_application_name_txt">"Faqja fillestare e  Xperia™"</string>
+    <string name="home_application_name_txt">"Faqja fillestare e  Oneofakind™"</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Për të parë të gjitha aplikacionet, rrëshqisni shpejt majtas dhe përzgjidhni Renditja e përshtatur ose Sipas alfabetit.</string>
     <string name="home_apptray_see_all_applications_txt">Për të parë të gjitha aplikacionet, rrëshqitni shpejt djathtas dhe përzgjidhni Renditja e përshtatur ose Sipas alfabetit.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">"Çinstalo "</string>
@@ -112,7 +112,7 @@ Shënim: Ai do të ruhet përsëri në kartën SD."</string>
     <string name="home_folder_dialog_create_new_txt">Krijo dosje të re</string>
     <string name="home_folder_dialog_folder_name_txt">Emri i dosjes</string>
     <string name="home_folder_name_unused_apps_txt">Aplikacionet e papërdorura</string>
-    <string name="home_grid_size_change_notification_text">"Ekrani bazë i pajisjes tuaj Xperia™ është përmirësuar në një version të ri. Madhësia e desktopit ka ndryshuar dhe disa nga shkurtoret dhe widget-et tuaja janë zhvendosur për t'u përshtatur me strukturën e re. Mund ta rirregulloni gjithmonë desktopin tuaj për t'u përputhur më mirë me preferencat tuaja personale."</string>
+    <string name="home_grid_size_change_notification_text">"Ekrani bazë i pajisjes tuaj Oneofakind™ është përmirësuar në një version të ri. Madhësia e desktopit ka ndryshuar dhe disa nga shkurtoret dhe widget-et tuaja janë zhvendosur për t'u përshtatur me strukturën e re. Mund ta rirregulloni gjithmonë desktopin tuaj për t'u përputhur më mirë me preferencat tuaja personale."</string>
     <string name="home_grid_size_change_notification_title">Shënim</string>
     <string name="home_hint_my_applications_continue">Në rregull, e kuptova!</string>
     <string name="home_hint_my_applications_info">Trokitni lehtë këtu për të parë aplikacionet tuaja</string>
@@ -134,13 +134,13 @@ Shënim: Ai do të ruhet përsëri në kartën SD."</string>
     <string name="home_mode_manual_setting">Klasik</string>
     <string name="home_mode_toggle_heading">Zgjidhni strukturën</string>
     <string name="home_no_uninstallable_apps_txt">Këto aplikacione nuk mund të çinstalohen</string>
-    <string name="home_permission_access_modify_configuration_description">Lejon një aplikacion të qaset dhe të ndryshojë konfigurimin aktual të ekranit bazë të Xperia™</string>
-    <string name="home_permission_access_modify_configuration_label">Qasja dhe ndryshimi i konfigurimit aktual të ekranit bazë të Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">Lejon një aplikacion të qaset dhe të ndryshojë konfigurimin aktual të ekranit bazë të Oneofakind™</string>
+    <string name="home_permission_access_modify_configuration_label">Qasja dhe ndryshimi i konfigurimit aktual të ekranit bazë të Oneofakind™</string>
     <string name="home_permission_install_widget_description">E lejon një aplikacion të shtojë widget-e pa ndërhyrjen e përdoruesit</string>
     <string name="home_permission_install_widget_label">Instalo widget-et</string>
-    <string name="home_permission_provider_insert_badge_description">Lejon një aplikacion të cilësojë treguesit e njoftimeve në ikonat e aplikacionit Ekrani bazë i Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Lejon një aplikacion të cilësojë treguesit e njoftimeve në ikonat e aplikacionit Ekrani bazë i Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">cilëso treguesit e aplikacioneve</string>
-    <string name="home_permission_provider_read_badge_description">Lejon një aplikacion të shfaqë treguesit e njoftimeve në ikonat e aplikacionit Ekrani bazë i Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Lejon një aplikacion të shfaqë treguesit e njoftimeve në ikonat e aplikacionit Ekrani bazë i Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">merr treguesit e aplikacioneve</string>
     <string name="home_safe_mode_remove_widget_toast_txt">"Mund t'i largoni widget-et në regjimin e sigurt"</string>
     <string name="home_search_disclaimer_dialog_message">"Nëse pranoni sa më poshtë, Sony Mobile do të mbledhë informacionet për përdorimin (aplikacionet e përdorura etj.) dhe vendndodhjen për të personalizuar rekomandimet. (ID-ja e reklamimit e Android™ dhe vendndodhja do të bashkëndahen me partnerët e reklamave). Sony Mobile do t'i administrojë të dhënat tuaja sipas "<a href="http://sonymobile.com/privacy">Politikës sonë të privatësisë</a></string>
@@ -214,6 +214,6 @@ Shënim: Ai do të ruhet përsëri në kartën SD."</string>
     <string name="settings_search_bar_dialog_title">Duk. e Shirit. të kërkim.</string>
     <string name="settings_search_bar_hide_button_text">Fshih</string>
     <string name="settings_search_bar_show_button_text">Afisho</string>
-    <string name="settings_search_bar_visible_sub_text">Pastro të dhënat e Ekranit bazë të Xperia™ te Cilësimet > Aplikacionet për të kthyer Shiritin e kërkimit.</string>
+    <string name="settings_search_bar_visible_sub_text">Pastro të dhënat e Ekranit bazë të Oneofakind™ te Cilësimet > Aplikacionet për të kthyer Shiritin e kërkimit.</string>
     <string name="settings_search_bar_visible_text">Shfaq në Ekranin bazë</string>
 </resources>

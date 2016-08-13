@@ -130,7 +130,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Sortare aplicaţii</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Dezinstalaţi %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Dezinstalare aplicaţie</string>
-    <string name="home_application_name_txt">Ecran principal Xperia™</string>
+    <string name="home_application_name_txt">Ecran principal Oneofakind™</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Pentru a vedea toate aplicaţiile, deplasaţi degetul pe ecran spre stânga şi selectaţi Ordine particularizată sau Alfabetică.</string>
     <string name="home_apptray_see_all_applications_txt">Pentru a vedea toate aplicaţiile, deplasaţi degetul pe ecran spre dreapta şi selectaţi Ordine particularizată sau Alfabetică.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Dezinstalare</string>
@@ -166,7 +166,7 @@ Notă: va fi stocată în continuare pe cartela SD."</string>
     <string name="home_folder_dialog_create_new_txt">Creare folder nou</string>
     <string name="home_folder_dialog_folder_name_txt">Nume folder</string>
     <string name="home_folder_name_unused_apps_txt">Aplicaţii neutilizate</string>
-    <string name="home_grid_size_change_notification_text">S-a făcut upgrade la o nouă versiune a ecranului principal Xperia™. Dimensiunea desktopului a fost modificată şi unele comenzi rapide şi widgeturi au fost mutate pentru a se potrivi cu noul aspect. Puteţi oricând să rearanjaţi desktopul pentru a se potrivi mai bine cu preferinţele dvs. personale.</string>
+    <string name="home_grid_size_change_notification_text">S-a făcut upgrade la o nouă versiune a ecranului principal Oneofakind™. Dimensiunea desktopului a fost modificată şi unele comenzi rapide şi widgeturi au fost mutate pentru a se potrivi cu noul aspect. Puteţi oricând să rearanjaţi desktopul pentru a se potrivi mai bine cu preferinţele dvs. personale.</string>
     <string name="home_grid_size_change_notification_title">Notă</string>
     <string name="home_hint_my_applications_continue">OK, am înţeles!</string>
     <string name="home_hint_my_applications_info">Atingeţi uşor aici pentru a vizualiza aplicaţiile</string>
@@ -188,13 +188,13 @@ Notă: va fi stocată în continuare pe cartela SD."</string>
     <string name="home_mode_manual_setting">Clasic</string>
     <string name="home_mode_toggle_heading">Alegeţi aspectul</string>
     <string name="home_no_uninstallable_apps_txt">Aceste aplicaţii nu pot fi instalate</string>
-    <string name="home_permission_access_modify_configuration_description">Permite unei aplicaţii să acceseze şi să schimbe configuraţia curentă a ecranului principal Xperia™</string>
-    <string name="home_permission_access_modify_configuration_label">Accesare şi schimbare configuraţie curentă ecran principal Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">Permite unei aplicaţii să acceseze şi să schimbe configuraţia curentă a ecranului principal Oneofakind™</string>
+    <string name="home_permission_access_modify_configuration_label">Accesare şi schimbare configuraţie curentă ecran principal Oneofakind™</string>
     <string name="home_permission_install_widget_description">Permite unei aplicaţii să adauge widgeturi fără intervenţia utilizatorului</string>
     <string name="home_permission_install_widget_label">Instalare widgeturi</string>
-    <string name="home_permission_provider_insert_badge_description">Permite unei aplicaţii să seteze marcaje de notificare în pictogramele sale pentru aplicaţii din ecranul principal Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Permite unei aplicaţii să seteze marcaje de notificare în pictogramele sale pentru aplicaţii din ecranul principal Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">setare marcaje aplicaţie</string>
-    <string name="home_permission_provider_read_badge_description">Permite unei aplicaţii să afişeze marcaje de notificare în pictogramele sale pentru aplicaţii din ecranul principal Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Permite unei aplicaţii să afişeze marcaje de notificare în pictogramele sale pentru aplicaţii din ecranul principal Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">obţinere marcaje aplicaţie</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Sunteţi în modul de siguranţă şi puteţi să eliminaţi widgeturile</string>
     <string name="home_search_disclaimer_dialog_message">Dacă sunteţi de acord mai jos, Sony Mobile va aduna informaţiile privind utilizarea (aplicaţii utilizate etc.) şi locaţia pentru a personaliza recomandările. (ID de publicitate Android™ şi locaţia vor fi partajate cu partenerii de publicitate). Sony Mobile va procesa datele dvs. în conformitate cu <a href="http://sonymobile.com/privacy">politica noastră de confidenţialitate</a></string>
@@ -268,6 +268,6 @@ Notă: va fi stocată în continuare pe cartela SD."</string>
     <string name="settings_search_bar_dialog_title">Vizibilit. bară căutare</string>
     <string name="settings_search_bar_hide_button_text">Ascundere</string>
     <string name="settings_search_bar_show_button_text">Afişare</string>
-    <string name="settings_search_bar_visible_sub_text">Ștergeţi datele din pagina principală Xperia™ în Setări > Aplicaţii pentru a readuce bara de căutare.</string>
+    <string name="settings_search_bar_visible_sub_text">Ștergeţi datele din pagina principală Oneofakind™ în Setări > Aplicaţii pentru a readuce bara de căutare.</string>
     <string name="settings_search_bar_visible_text">Afişare în ecranul principal</string>
 </resources>

@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">فرز التطبيقات</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">إلغاء تثبيت %1$s؟</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">إلغاء تثبيت التطبيق</string>
-    <string name="home_application_name_txt">شاشة Xperia™‎</string>
+    <string name="home_application_name_txt">شاشة Oneofakind™‎</string>
     <string name="home_apptray_see_all_applications_bidi_txt">للاطلاع على جميع التطبيقات، اسحب إصبعك لليسار، ثم حدد \"ترتيب مخصص\" أو \"أبجدي\".</string>
     <string name="home_apptray_see_all_applications_txt">للاطلاع على جميع التطبيقات، اسحب إصبعك لليمين، ثم حدد \"ترتيب مخصص\" أو \"أبجدي\".</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">إزالة التثبيت</string>
@@ -162,7 +162,7 @@
     <string name="home_folder_dialog_create_new_txt">إنشاء مجلد جديد</string>
     <string name="home_folder_dialog_folder_name_txt">اسم المجلد</string>
     <string name="home_folder_name_unused_apps_txt">التطبيقات غير المستخدمة</string>
-    <string name="home_grid_size_change_notification_text">تمت ترقية صفحة Xperia™‎ الرئيسية إلى إصدار أحدث. وقد تم تغيير حجم سطح المكتب ومن ثم تم نقل بعص الاختصارات وعناصر الواجهة لتناسب التخطيط الجديد. ويمكنك دومًا إعادة ترتيب سطح المكتب ليتناسب بشكل أفضل مع تفضيلاتك الشخصية.</string>
+    <string name="home_grid_size_change_notification_text">تمت ترقية صفحة Oneofakind™‎ الرئيسية إلى إصدار أحدث. وقد تم تغيير حجم سطح المكتب ومن ثم تم نقل بعص الاختصارات وعناصر الواجهة لتناسب التخطيط الجديد. ويمكنك دومًا إعادة ترتيب سطح المكتب ليتناسب بشكل أفضل مع تفضيلاتك الشخصية.</string>
     <string name="home_grid_size_change_notification_title">ملاحظة</string>
     <string name="home_hint_my_applications_continue">حسنًا، فهمت ذلك.</string>
     <string name="home_hint_my_applications_info">انقر هنا لعرض تطبيقاتك</string>
@@ -184,13 +184,13 @@
     <string name="home_mode_manual_setting">تقليدي</string>
     <string name="home_mode_toggle_heading">اختر التخطيط</string>
     <string name="home_no_uninstallable_apps_txt">تتعذر إزالة تثبيت هذه التطبيقات</string>
-    <string name="home_permission_access_modify_configuration_description">يتيح لأي تطبيق الوصول إلى التكوين الحالي لشاشة Xperia™‎ الرئيسية وتغييره</string>
-    <string name="home_permission_access_modify_configuration_label">الوصول إلى التكوين الحالي لشاشة Xperia™‎ الرئيسية وتغييره</string>
+    <string name="home_permission_access_modify_configuration_description">يتيح لأي تطبيق الوصول إلى التكوين الحالي لشاشة Oneofakind™‎ الرئيسية وتغييره</string>
+    <string name="home_permission_access_modify_configuration_label">الوصول إلى التكوين الحالي لشاشة Oneofakind™‎ الرئيسية وتغييره</string>
     <string name="home_permission_install_widget_description">للسماح لتطبيق بتثبيت الواجهات الرسومية دون تدخل من المستخدم</string>
     <string name="home_permission_install_widget_label">تثبيت واجهات رسومية</string>
-    <string name="home_permission_provider_insert_badge_description">يتيح لأي تطبيق تعيين شارات الإشعارات على رموز تطبيقات صفحة Xperia™‎ الرئيسية</string>
+    <string name="home_permission_provider_insert_badge_description">يتيح لأي تطبيق تعيين شارات الإشعارات على رموز تطبيقات صفحة Oneofakind™‎ الرئيسية</string>
     <string name="home_permission_provider_insert_badge_label">تعيين شارات التطبيقات</string>
-    <string name="home_permission_provider_read_badge_description">يتيح لأي تطبيق عرض شارات الإشعارات على رموز تطبيقات صفحة Xperia™‎ الرئيسية</string>
+    <string name="home_permission_provider_read_badge_description">يتيح لأي تطبيق عرض شارات الإشعارات على رموز تطبيقات صفحة Oneofakind™‎ الرئيسية</string>
     <string name="home_permission_provider_read_badge_label">الحصول على شارات التطبيقات</string>
     <string name="home_safe_mode_remove_widget_toast_txt">يمكنك إزالة واجهات ر في الوضع الآمن</string>
     <string name="home_search_disclaimer_dialog_message">إذا وافقت أدناه، ستقوم Sony Mobile بجمع معلومات الاستخدام (التطبيقات المستخدمة وغيرها) والموقع لتخصيص التوصيات. (ستتم مشاركة معرف إعلان Android™ مع شركاء الإعلان). ستقوم Sony Mobile بالتعامل مع بياناتك حسب <a href="http://sonymobile.com/privacy">سياسة الخصوصية</a> الخاصة بنا.</string>
@@ -264,6 +264,6 @@
     <string name="settings_search_bar_dialog_title">رؤية شريط البحث</string>
     <string name="settings_search_bar_hide_button_text">إخفاء</string>
     <string name="settings_search_bar_show_button_text">عرض</string>
-    <string name="settings_search_bar_visible_sub_text">امسح بيانات الشاشة الرئيسية لجهاز Xperia™‎ من إعدادات > التطبيقات لإعادة إظهار شريط البحث.</string>
+    <string name="settings_search_bar_visible_sub_text">امسح بيانات الشاشة الرئيسية لجهاز Oneofakind™‎ من إعدادات > التطبيقات لإعادة إظهار شريط البحث.</string>
     <string name="settings_search_bar_visible_text">إظهار على الشاشة الرئيسية</string>
 </resources>

@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">অ্যাপগুলি বাছাই করুন</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">%1$s অ-সংস্থাপন করবেন?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">অ্যাপ্লিকেশন অ-সংস্থাপন</string>
-    <string name="home_application_name_txt">Xperia™ হোম</string>
+    <string name="home_application_name_txt">Oneofakind™ হোম</string>
     <string name="home_apptray_see_all_applications_bidi_txt">সব অ্যাপ্লিকেশন দেখতে বাঁদিকে সোয়াইপ করুন এবং কাস্টম অর্ডার অথবা বর্ণানুক্রমিক নির্বাচন করুন।</string>
     <string name="home_apptray_see_all_applications_txt">সমস্ত অ্যাপ্লিকেশন দেখতে ডানদিকে সোয়াইপ করুন এবং কাস্টম অর্ডার অথবা বর্ণানুক্রমিক নির্বাচন করুন।</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">অ-সংস্থাপন</string>
@@ -112,7 +112,7 @@
     <string name="home_folder_dialog_create_new_txt">নতুন ফোল্ডার তৈরি করুন</string>
     <string name="home_folder_dialog_folder_name_txt">ফোল্ডার নাম</string>
     <string name="home_folder_name_unused_apps_txt">অব্যবহৃত অ্যাপস</string>
-    <string name="home_grid_size_change_notification_text">আপনার Xperia™ হোমকে একটি নতুন সংস্করণে আপগ্রেড করা হয়েছে। ডেস্কটপের আকার পরিবর্তন করা হয়েছে এবং আপনার কিছু শর্টকাট এবং উইডগেটকে নতুন পরিলেখে স্থান দেওয়ার জন্য সরানো হয়েছে। আপনি আপনার ডেস্কটপ সবসময় নিজের ব্যক্তিগত পছন্দের সাথে মিলিয়ে পুনর্বিন্যস্ত করতে পারেন।</string>
+    <string name="home_grid_size_change_notification_text">আপনার Oneofakind™ হোমকে একটি নতুন সংস্করণে আপগ্রেড করা হয়েছে। ডেস্কটপের আকার পরিবর্তন করা হয়েছে এবং আপনার কিছু শর্টকাট এবং উইডগেটকে নতুন পরিলেখে স্থান দেওয়ার জন্য সরানো হয়েছে। আপনি আপনার ডেস্কটপ সবসময় নিজের ব্যক্তিগত পছন্দের সাথে মিলিয়ে পুনর্বিন্যস্ত করতে পারেন।</string>
     <string name="home_grid_size_change_notification_title">নোট</string>
     <string name="home_hint_my_applications_continue">ঠিক আছে, বুঝতে পেরেছি!</string>
     <string name="home_hint_my_applications_info">এখানে ট্যাপ করে আপনার অ্যাপ্লিকেশনগুলি দেখুন</string>
@@ -134,13 +134,13 @@
     <string name="home_mode_manual_setting">ক্লাসিক</string>
     <string name="home_mode_toggle_heading">পরিলেখ পছন্দ করুন</string>
     <string name="home_no_uninstallable_apps_txt">এই অ্যাপ্লিকেশনগুলি আনইনস্টল করা যায়না</string>
-    <string name="home_permission_access_modify_configuration_description">একটি অ্যাপ্লিকেশনকে বর্তমান Xperia™ হোম স্ক্রীন কনফিগারেশন অ্যাক্সেস এবং পরিবর্তন করতে দেয়</string>
-    <string name="home_permission_access_modify_configuration_label">বর্তমান Xperia™ হোম স্ক্রীন কনফিগারেশন অ্যাক্সেস এবং পরিবর্তন করুন</string>
+    <string name="home_permission_access_modify_configuration_description">একটি অ্যাপ্লিকেশনকে বর্তমান Oneofakind™ হোম স্ক্রীন কনফিগারেশন অ্যাক্সেস এবং পরিবর্তন করতে দেয়</string>
+    <string name="home_permission_access_modify_configuration_label">বর্তমান Oneofakind™ হোম স্ক্রীন কনফিগারেশন অ্যাক্সেস এবং পরিবর্তন করুন</string>
     <string name="home_permission_install_widget_description">ব্যবহারকারীর হস্তক্ষেপ ছাড়া উইডগেট যুক্ত করার জন্য একটি অ্যাপ্লিকেশনকে অনুমোদন দিন</string>
     <string name="home_permission_install_widget_label">উইডগেট ইনস্টল করুন</string>
-    <string name="home_permission_provider_insert_badge_description">একটি অ্যাপ্লিকেশনকে তার Xperia™ Home অ্যাপ্লিকেশন আইকনগুলিতে বিজ্ঞপ্তির ব্যাজগুলি সেট করতে অনুমতি দেয়</string>
+    <string name="home_permission_provider_insert_badge_description">একটি অ্যাপ্লিকেশনকে তার Oneofakind™ Home অ্যাপ্লিকেশন আইকনগুলিতে বিজ্ঞপ্তির ব্যাজগুলি সেট করতে অনুমতি দেয়</string>
     <string name="home_permission_provider_insert_badge_label">অ্যাপ্লিকেশন ব্যাজগুলি সেট করুন</string>
-    <string name="home_permission_provider_read_badge_description">একটি অ্যাপ্লিকেশনকে তার Xperia™ Home অ্যাপ্লিকেশন আইকনগুলিতে বিজ্ঞপ্তির ব্যাজগুলি দেখাতে অনুমতি দেয়</string>
+    <string name="home_permission_provider_read_badge_description">একটি অ্যাপ্লিকেশনকে তার Oneofakind™ Home অ্যাপ্লিকেশন আইকনগুলিতে বিজ্ঞপ্তির ব্যাজগুলি দেখাতে অনুমতি দেয়</string>
     <string name="home_permission_provider_read_badge_label">অ্যাপ্লিকেশন ব্যাজগুলি পান</string>
     <string name="home_safe_mode_remove_widget_toast_txt">আপনি সুরক্ষা মোডের মধ্যে উইডগেট সরাতে পারেন</string>
     <string name="home_search_disclaimer_dialog_message">আপনি নীচে সম্মত হলে, Sony Mobile ব্যক্তিগত ভাবে সুপারিশ করতে ব্যবহারের তথ্য (ব্যবহৃত অ্যাপ ইত্যাদি) সংগ্রহ করবে। (Android™ বিজ্ঞাপন আইডি এবং অবস্থান বিজ্ঞাপন অংশীদারদের সঙ্গে অংশীদারি করা হবে)। Sony Mobile আমাদের <a href="http://sonymobile.com/privacy">গোপনীয়তা নীতি</a> অনুসারে আপনার ডেটা পরিচালনা করবে।</string>
@@ -214,6 +214,6 @@
     <string name="settings_search_bar_dialog_title">সন্ধান বারের দৃশ্য</string>
     <string name="settings_search_bar_hide_button_text">লুকান</string>
     <string name="settings_search_bar_show_button_text">দেখান</string>
-    <string name="settings_search_bar_visible_sub_text">সন্ধান বারটিকে ফিরিয়ে আনতে সেটিং>অ্যাপ্লিকেশনে Xperia™ হোম ডেটা মুছে দিন।</string>
+    <string name="settings_search_bar_visible_sub_text">সন্ধান বারটিকে ফিরিয়ে আনতে সেটিং>অ্যাপ্লিকেশনে Oneofakind™ হোম ডেটা মুছে দিন।</string>
     <string name="settings_search_bar_visible_text">হোম স্ক্রীনে দেখান</string>
 </resources>

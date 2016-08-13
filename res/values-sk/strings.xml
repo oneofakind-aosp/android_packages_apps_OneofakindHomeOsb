@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Zoradenie aplikácií</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Odinštalovať aplikáciu %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Odinštalovať aplikáciu</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Ak chcete zobraziť všetky aplikácie, potiahnite prstom doľava a vyberte možnosť Vlastné poradie alebo Podľa abecedy.</string>
     <string name="home_apptray_see_all_applications_txt">Ak chcete zobraziť všetky aplikácie, potiahnite prstom doprava a vyberte možnosť Vlastné poradie alebo Podľa abecedy.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Odinštalovať</string>
@@ -162,7 +162,7 @@ Poznámka: Naďalej zostane uložená na karte SD."</string>
     <string name="home_folder_dialog_create_new_txt">Vytvoriť nový priečinok</string>
     <string name="home_folder_dialog_folder_name_txt">Názov priečinka</string>
     <string name="home_folder_name_unused_apps_txt">Nepoužívané aplikácie</string>
-    <string name="home_grid_size_change_notification_text">Plocha zariadenia Xperia™ sa inovovala na novšiu verziu. Veľkosť pracovnej plochy sa zmenila a niektoré skratky a widgety sa popresúvali tak, aby zapadli do nového rozloženia. Položky na pracovnej ploche si vždy môžete usporiadať tak, ako vám to lepšie vyhovuje.</string>
+    <string name="home_grid_size_change_notification_text">Plocha zariadenia Oneofakind™ sa inovovala na novšiu verziu. Veľkosť pracovnej plochy sa zmenila a niektoré skratky a widgety sa popresúvali tak, aby zapadli do nového rozloženia. Položky na pracovnej ploche si vždy môžete usporiadať tak, ako vám to lepšie vyhovuje.</string>
     <string name="home_grid_size_change_notification_title">Upozornenie</string>
     <string name="home_hint_my_applications_continue">OK, rozumiem!</string>
     <string name="home_hint_my_applications_info">Ťuknutím sem zobrazíte svoje aplikácie</string>
@@ -184,13 +184,13 @@ Poznámka: Naďalej zostane uložená na karte SD."</string>
     <string name="home_mode_manual_setting">Klasické</string>
     <string name="home_mode_toggle_heading">Výber rozloženia</string>
     <string name="home_no_uninstallable_apps_txt">Tieto aplikácie nie je možné odinštalovať</string>
-    <string name="home_permission_access_modify_configuration_description">Umožňuje aplikácii prejsť na aktuálnu konfiguráciu plochy zariadenia Xperia™ a zmeniť ju</string>
-    <string name="home_permission_access_modify_configuration_label">Prejsť na aktuálnu konfiguráciu plochy zariadenia Xperia™ a zmeniť ju</string>
+    <string name="home_permission_access_modify_configuration_description">Umožňuje aplikácii prejsť na aktuálnu konfiguráciu plochy zariadenia Oneofakind™ a zmeniť ju</string>
+    <string name="home_permission_access_modify_configuration_label">Prejsť na aktuálnu konfiguráciu plochy zariadenia Oneofakind™ a zmeniť ju</string>
     <string name="home_permission_install_widget_description">Umožňuje aplikácii pridávať widgety bez zásahu používateľa</string>
     <string name="home_permission_install_widget_label">Inštalácia widgetov</string>
-    <string name="home_permission_provider_insert_badge_description">Umožňuje aplikácii nastaviť informačné označenia na ikonách aplikácií na ploche zariadenia Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Umožňuje aplikácii nastaviť informačné označenia na ikonách aplikácií na ploche zariadenia Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">nastaviť označenia aplikácií</string>
-    <string name="home_permission_provider_read_badge_description">Umožňuje aplikácii zobraziť informačné označenia na ikonách aplikácií na ploche zariadenia Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Umožňuje aplikácii zobraziť informačné označenia na ikonách aplikácií na ploche zariadenia Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">získať označenia aplikácií</string>
     <string name="home_safe_mode_remove_widget_toast_txt">V núdzovom režime môžete odstrániť widgety</string>
     <string name="home_search_disclaimer_dialog_message">Ak nižšie vyjadríte svoj súhlas, spoločnosť Sony Mobile bude zhromažďovať údaje o používaní zariadenia (používané aplikácie a pod.) a údaje o polohe, aby vám mohla posielať odporúčania šité na mieru. (So svojimi reklamnými partnermi bude zdieľať reklamný identifikátor Android™ a údaje o polohe.) Spoločnosť Sony Mobile bude vaše údaje používať v súlade so <a href="http://sonymobile.com/privacy">zásadami ochrany osobných údajov</a>.</string>
@@ -264,6 +264,6 @@ Poznámka: Naďalej zostane uložená na karte SD."</string>
     <string name="settings_search_bar_dialog_title">Viditeľ. panela hľadania</string>
     <string name="settings_search_bar_hide_button_text">Skryť</string>
     <string name="settings_search_bar_show_button_text">Zobraziť</string>
-    <string name="settings_search_bar_visible_sub_text">Ak chcete znova zobraziť panel hľadania, v ponuke Nastavenia > Aplikácie vymažte údaje plochy zariadenia Xperia™.</string>
+    <string name="settings_search_bar_visible_sub_text">Ak chcete znova zobraziť panel hľadania, v ponuke Nastavenia > Aplikácie vymažte údaje plochy zariadenia Oneofakind™.</string>
     <string name="settings_search_bar_visible_text">Zobrazenie na ploche</string>
 </resources>

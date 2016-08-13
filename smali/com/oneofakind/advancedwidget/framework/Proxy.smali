@@ -1,4 +1,4 @@
-.class public Lcom/sonyericsson/advancedwidget/framework/Proxy;
+.class public Lcom/oneofakind/advancedwidget/framework/Proxy;
 .super Ljava/lang/Object;
 .source "Proxy.java"
 
@@ -59,7 +59,7 @@
 
     invoke-direct {v0, p1}, Ljava/lang/ref/WeakReference;-><init>(Ljava/lang/Object;)V
 
-    iput-object v0, p0, Lcom/sonyericsson/advancedwidget/framework/Proxy;->mWeakMap:Ljava/lang/ref/WeakReference;
+    iput-object v0, p0, Lcom/oneofakind/advancedwidget/framework/Proxy;->mWeakMap:Ljava/lang/ref/WeakReference;
 
     .line 33
     :goto_0
@@ -67,7 +67,7 @@
 
     .line 31
     :cond_0
-    iput-object p1, p0, Lcom/sonyericsson/advancedwidget/framework/Proxy;->mMap:Ljava/util/Map;
+    iput-object p1, p0, Lcom/oneofakind/advancedwidget/framework/Proxy;->mMap:Ljava/util/Map;
 
     goto :goto_0
 .end method
@@ -81,11 +81,11 @@
 
     .prologue
     .line 43
-    iget-object v1, p0, Lcom/sonyericsson/advancedwidget/framework/Proxy;->mMap:Ljava/util/Map;
+    iget-object v1, p0, Lcom/oneofakind/advancedwidget/framework/Proxy;->mMap:Ljava/util/Map;
 
     if-eqz v1, :cond_0
 
-    iget-object v0, p0, Lcom/sonyericsson/advancedwidget/framework/Proxy;->mMap:Ljava/util/Map;
+    iget-object v0, p0, Lcom/oneofakind/advancedwidget/framework/Proxy;->mMap:Ljava/util/Map;
 
     .line 44
     .local v0, "map":Ljava/util/Map;, "Ljava/util/Map<Ljava/lang/String;Ljava/lang/Object;>;"
@@ -102,7 +102,7 @@
     .line 43
     .end local v0    # "map":Ljava/util/Map;, "Ljava/util/Map<Ljava/lang/String;Ljava/lang/Object;>;"
     :cond_0
-    iget-object v1, p0, Lcom/sonyericsson/advancedwidget/framework/Proxy;->mWeakMap:Ljava/lang/ref/WeakReference;
+    iget-object v1, p0, Lcom/oneofakind/advancedwidget/framework/Proxy;->mWeakMap:Ljava/lang/ref/WeakReference;
 
     invoke-virtual {v1}, Ljava/lang/ref/WeakReference;->get()Ljava/lang/Object;
 

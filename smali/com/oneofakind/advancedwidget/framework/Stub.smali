@@ -1,4 +1,4 @@
-.class public abstract Lcom/sonyericsson/advancedwidget/framework/Stub;
+.class public abstract Lcom/oneofakind/advancedwidget/framework/Stub;
 .super Ljava/lang/Object;
 .source "Stub.java"
 
@@ -137,7 +137,7 @@
     check-cast p1, Ljava/lang/String;
 
     .end local p1    # "x0":Ljava/lang/Object;
-    invoke-virtual {p0, p1, p2}, Lcom/sonyericsson/advancedwidget/framework/Stub;->put(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, p1, p2}, Lcom/oneofakind/advancedwidget/framework/Stub;->put(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     move-result-object v0
 
@@ -151,7 +151,7 @@
 
     .prologue
     .line 26
-    invoke-virtual {p0, p1, p2}, Lcom/sonyericsson/advancedwidget/framework/Stub;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, p1, p2}, Lcom/oneofakind/advancedwidget/framework/Stub;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     move-result-object v0
 

@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Sortera appar</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Avinstallera %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Avinstallera app</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Om du vill visa alla appar sveper du åt vänster och väljer Anpassad ordning eller Alfabetisk.</string>
     <string name="home_apptray_see_all_applications_txt">Om du vill visa alla appar sveper du åt höger och väljer Anpassad ordning eller Alfabetisk.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Avinstallera</string>
@@ -162,7 +162,7 @@ Obs! Den lagras fortfarande på SD-kortet."</string>
     <string name="home_folder_dialog_create_new_txt">Skapa ny mapp</string>
     <string name="home_folder_dialog_folder_name_txt">Mappnamn</string>
     <string name="home_folder_name_unused_apps_txt">Oanvända appar</string>
-    <string name="home_grid_size_change_notification_text">Startskärmen för Xperia™ har uppgraderats till en ny version. Skrivbordsstorleken har ändrats och några av dina genvägar och widgets har flyttats för att passa den nya layouten. Du kan alltid ordna skrivbordet efter hur du vill att det ska se ut.</string>
+    <string name="home_grid_size_change_notification_text">Startskärmen för Oneofakind™ har uppgraderats till en ny version. Skrivbordsstorleken har ändrats och några av dina genvägar och widgets har flyttats för att passa den nya layouten. Du kan alltid ordna skrivbordet efter hur du vill att det ska se ut.</string>
     <string name="home_grid_size_change_notification_title">Obs!</string>
     <string name="home_hint_my_applications_continue">Ok, jag fattar!</string>
     <string name="home_hint_my_applications_info">Tryck här för att visa dina program</string>
@@ -184,13 +184,13 @@ Obs! Den lagras fortfarande på SD-kortet."</string>
     <string name="home_mode_manual_setting">Klassisk</string>
     <string name="home_mode_toggle_heading">Välj layout</string>
     <string name="home_no_uninstallable_apps_txt">Det går inte att avinstallera dessa appar</string>
-    <string name="home_permission_access_modify_configuration_description">Gör att en app kan öppna och ändra den aktuella konfigurationen för Xperia™-startskärmen</string>
-    <string name="home_permission_access_modify_configuration_label">Öppna och ändra aktuell konfiguration för Xperia™-startskärmen</string>
+    <string name="home_permission_access_modify_configuration_description">Gör att en app kan öppna och ändra den aktuella konfigurationen för Oneofakind™-startskärmen</string>
+    <string name="home_permission_access_modify_configuration_label">Öppna och ändra aktuell konfiguration för Oneofakind™-startskärmen</string>
     <string name="home_permission_install_widget_description">Tillåter att en app lägger till widgets utan åtgärd från användaren</string>
     <string name="home_permission_install_widget_label">Installera widgets</string>
-    <string name="home_permission_provider_insert_badge_description">Gör att en app kan skapa aviseringsetiketter på dess appikoner på Xperia™-startskärmen</string>
+    <string name="home_permission_provider_insert_badge_description">Gör att en app kan skapa aviseringsetiketter på dess appikoner på Oneofakind™-startskärmen</string>
     <string name="home_permission_provider_insert_badge_label">ange appetiketter</string>
-    <string name="home_permission_provider_read_badge_description">Gör att en app kan visa aviseringsetiketter på dess appikoner på Xperia™-startskärmen</string>
+    <string name="home_permission_provider_read_badge_description">Gör att en app kan visa aviseringsetiketter på dess appikoner på Oneofakind™-startskärmen</string>
     <string name="home_permission_provider_read_badge_label">hämta appetiketter</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Du kan ta bort widgets i felsäkert läge</string>
     <string name="home_search_disclaimer_dialog_message">Om du samtycker nedan kommer Sony Mobile att samla in användnings- (använda appar osv.) och platsinformation för att ge dig personliga rekommendationer. (Annons-ID för Android™ och plats delas med annonspartners). Sony Mobile hanterar dina uppgifter enligt vår <a href="http://sonymobile.com/privacy">Sekretesspolicy</a></string>
@@ -264,6 +264,6 @@ Obs! Den lagras fortfarande på SD-kortet."</string>
     <string name="settings_search_bar_dialog_title">Sökfältets synlighet</string>
     <string name="settings_search_bar_hide_button_text">Dölj</string>
     <string name="settings_search_bar_show_button_text">Visa</string>
-    <string name="settings_search_bar_visible_sub_text">Rensa startdata för Xperia™ i Inställningar > Appar för att visa sökfältet igen.</string>
+    <string name="settings_search_bar_visible_sub_text">Rensa startdata för Oneofakind™ i Inställningar > Appar för att visa sökfältet igen.</string>
     <string name="settings_search_bar_visible_text">Visa på startskärmen</string>
 </resources>

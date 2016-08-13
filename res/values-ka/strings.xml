@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">პროგრამების დალაგება</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">წავშალოთ %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">პროგრამის წაშლა</string>
-    <string name="home_application_name_txt">Xperia™ საწყისი გვერდი</string>
+    <string name="home_application_name_txt">Oneofakind™ საწყისი გვერდი</string>
     <string name="home_apptray_see_all_applications_bidi_txt">იმისთვის, რომ ნახოთ ყველა პროგრამა, გადაუსვით თითი მარცხნივ და აირჩიეთ ინდივიდუალური ან ანბანური თანმიმდევრობა.</string>
     <string name="home_apptray_see_all_applications_txt">იმისთვის, რომ ნახოთ ყველა პროგრამა, გადაუსვით თითი მარჯვნივ და აირჩიეთ ინდივიდუალური ან ანბანური თანმიმდევრობა.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">წაშლა</string>
@@ -112,7 +112,7 @@
     <string name="home_folder_dialog_create_new_txt">საქაღალ შექმნა</string>
     <string name="home_folder_dialog_folder_name_txt">საქაღალდის სახელი</string>
     <string name="home_folder_name_unused_apps_txt">გამოუყენებელი</string>
-    <string name="home_grid_size_change_notification_text">თქვენი Xperia™ საწყისი განახლდა ახალი ვერსიით. სამუშაო დაფის ზომა შეიცვალა და ზოგიერთი თქვენი სწრაფი ღილაკის და ვიჯეტის განლაგებაც განახლდა. ყოველთვის შეგიძლიათ პერსონალურად მოაწყოთ სამუშაო დაფა თქვენი სურვილის შესაბამისად.</string>
+    <string name="home_grid_size_change_notification_text">თქვენი Oneofakind™ საწყისი განახლდა ახალი ვერსიით. სამუშაო დაფის ზომა შეიცვალა და ზოგიერთი თქვენი სწრაფი ღილაკის და ვიჯეტის განლაგებაც განახლდა. ყოველთვის შეგიძლიათ პერსონალურად მოაწყოთ სამუშაო დაფა თქვენი სურვილის შესაბამისად.</string>
     <string name="home_grid_size_change_notification_title">შენიშვნა</string>
     <string name="home_hint_my_applications_continue">OK, მივიღე ეს!</string>
     <string name="home_hint_my_applications_info">შეეხეთ აქ, რათა ნახოთ პროგრამები</string>
@@ -134,13 +134,13 @@
     <string name="home_mode_manual_setting">კლასიკური</string>
     <string name="home_mode_toggle_heading">აირჩიეთ განლაგება</string>
     <string name="home_no_uninstallable_apps_txt">ამ პროგრამების წაშლა შეუძლებელია</string>
-    <string name="home_permission_access_modify_configuration_description">Xperia™ საწყისი ეკრანის კონფიგურაციის წვდომის და შეცვლის ნებართვის მიცემა</string>
-    <string name="home_permission_access_modify_configuration_label">Xperia™ საწყისი ეკრანის კონფიგურაციის წვდომა და შეცვლა</string>
+    <string name="home_permission_access_modify_configuration_description">Oneofakind™ საწყისი ეკრანის კონფიგურაციის წვდომის და შეცვლის ნებართვის მიცემა</string>
+    <string name="home_permission_access_modify_configuration_label">Oneofakind™ საწყისი ეკრანის კონფიგურაციის წვდომა და შეცვლა</string>
     <string name="home_permission_install_widget_description">საშუალებას აძლევს პროგრამას დაამატოს ვიჯეტები მომხმარებლის გარეშე</string>
     <string name="home_permission_install_widget_label">ვიჯეტების დაინსტალირება</string>
-    <string name="home_permission_provider_insert_badge_description">აძლევს ნებართვას პროგრამას, დააყენოს შეტყობინების ბეიჯები „Xperia™ საწყისი“ პროგრამის სიმბოლოებზე</string>
+    <string name="home_permission_provider_insert_badge_description">აძლევს ნებართვას პროგრამას, დააყენოს შეტყობინების ბეიჯები „Oneofakind™ საწყისი“ პროგრამის სიმბოლოებზე</string>
     <string name="home_permission_provider_insert_badge_label">პროგრამის ბეიჯების დაყენება</string>
-    <string name="home_permission_provider_read_badge_description">აძლევს ნებართვას პროგრამას, აჩვენოს შეტყობინების ბეიჯები „Xperia™ საწყისი“ პროგრამის სიმბოლოებზე</string>
+    <string name="home_permission_provider_read_badge_description">აძლევს ნებართვას პროგრამას, აჩვენოს შეტყობინების ბეიჯები „Oneofakind™ საწყისი“ პროგრამის სიმბოლოებზე</string>
     <string name="home_permission_provider_read_badge_label">პროგრამის ბეიჯების მიღება</string>
     <string name="home_safe_mode_remove_widget_toast_txt">შეგიძლიათ ამოიღოთ ვიჯეტები უსაფრთხო რეჟიმში</string>
     <string name="home_search_disclaimer_dialog_message">თუ ქვემოთ დაეთანხმებით, Sony Mobile შეაგროვებს გამოყენების ინფორმაციას (გამოყენებული პროგრამები და ა.შ.) და მდებარეობის მონაცემებს, რეკომენდაციების პერსონალიზაციის მიზნით. (Android™ სარეკლამო ID და მდებარეობა გაზიარდება სარეკლამო პარტნიორებთან). Sony Mobile დაამუშავებს მონაცემებს ჩვენი <a href="http://sonymobile.com/privacy">კონფიდენციალურობის პოლიტიკის</a> შესაბამისად</string>
@@ -214,6 +214,6 @@
     <string name="settings_search_bar_dialog_title">ძიების გამოჩენა</string>
     <string name="settings_search_bar_hide_button_text">დამალვა</string>
     <string name="settings_search_bar_show_button_text">ჩვენება</string>
-    <string name="settings_search_bar_visible_sub_text">Xperia™-ს საწყისი მონაცემების წაშლა პარამეტრები > პროგრამები ძიების ზოლის დაბრუნებისთვის.</string>
+    <string name="settings_search_bar_visible_sub_text">Oneofakind™-ს საწყისი მონაცემების წაშლა პარამეტრები > პროგრამები ძიების ზოლის დაბრუნებისთვის.</string>
     <string name="settings_search_bar_visible_text">ჩვენება საწყის ეკრანზე</string>
 </resources>

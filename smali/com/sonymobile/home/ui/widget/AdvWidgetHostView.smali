@@ -13,14 +13,14 @@
 
 .field private final mIsScrollable:Z
 
-.field private final mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+.field private final mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
 
 # direct methods
-.method public constructor <init>(Landroid/content/Context;Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;Lcom/sonymobile/home/ui/widget/AdvWidgetExceptionHandler;Z)V
+.method public constructor <init>(Landroid/content/Context;Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;Lcom/sonymobile/home/ui/widget/AdvWidgetExceptionHandler;Z)V
     .locals 6
     .param p1, "context"    # Landroid/content/Context;
-    .param p2, "proxy"    # Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    .param p2, "proxy"    # Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
     .param p3, "advWidgetExceptionHandler"    # Lcom/sonymobile/home/ui/widget/AdvWidgetExceptionHandler;
     .param p4, "isScrollable"    # Z
 
@@ -29,7 +29,7 @@
     invoke-direct {p0, p1}, Landroid/widget/FrameLayout;-><init>(Landroid/content/Context;)V
 
     .line 40
-    iput-object p2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iput-object p2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
     .line 41
     iput-object p3, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mAdvWidgetExceptionHandler:Lcom/sonymobile/home/ui/widget/AdvWidgetExceptionHandler;
@@ -48,7 +48,7 @@
     iput-boolean p4, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mIsScrollable:Z
 
     .line 45
-    invoke-virtual {p2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getContentView()Landroid/view/View;
+    invoke-virtual {p2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getContentView()Landroid/view/View;
 
     move-result-object v1
 
@@ -149,9 +149,9 @@
 
     .line 227
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v1
 
@@ -193,9 +193,9 @@
 
     .line 239
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v2
 
@@ -237,9 +237,9 @@
 
     .line 252
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v2
 
@@ -281,9 +281,9 @@
 
     .line 265
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v2
 
@@ -297,9 +297,9 @@
 
     .prologue
     .line 58
-    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getSnapshot()Landroid/graphics/Bitmap;
+    invoke-virtual {v2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getSnapshot()Landroid/graphics/Bitmap;
 
     move-result-object v1
 
@@ -337,9 +337,9 @@
 
     .prologue
     .line 83
-    iget-object v0, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v0, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v0}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getType()I
+    invoke-virtual {v0}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getType()I
 
     move-result v0
 
@@ -419,9 +419,9 @@
 
     .line 151
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v1
 
@@ -436,9 +436,9 @@
 
     .prologue
     .line 326
-    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v0
 
@@ -499,9 +499,9 @@
 
     .line 163
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v1
 
@@ -543,9 +543,9 @@
 
     .line 278
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v2
 
@@ -587,9 +587,9 @@
 
     .line 291
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v2
 
@@ -632,9 +632,9 @@
 
     .line 175
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v2
 
@@ -677,9 +677,9 @@
 
     .line 188
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v2
 
@@ -722,9 +722,9 @@
 
     .line 201
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v2
 
@@ -766,9 +766,9 @@
 
     .line 126
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v1
 
@@ -812,9 +812,9 @@
 
     .line 139
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v1
 
@@ -856,9 +856,9 @@
 
     .line 214
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v2
 
@@ -910,9 +910,9 @@
 
     .line 311
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v2, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v2}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v2}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v2
 
@@ -950,9 +950,9 @@
 
     .line 114
     .local v0, "e":Ljava/lang/Exception;
-    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    iget-object v1, p0, Lcom/sonymobile/home/ui/widget/AdvWidgetHostView;->mProxy:Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
-    invoke-virtual {v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
+    invoke-virtual {v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->getUuid()Ljava/util/UUID;
 
     move-result-object v1
 

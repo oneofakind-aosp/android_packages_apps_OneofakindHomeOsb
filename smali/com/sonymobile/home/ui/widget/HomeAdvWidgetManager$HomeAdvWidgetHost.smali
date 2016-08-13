@@ -1,5 +1,5 @@
 .class Lcom/sonymobile/home/ui/widget/HomeAdvWidgetManager$HomeAdvWidgetHost;
-.super Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;
+.super Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;
 .source "HomeAdvWidgetManager.java"
 
 
@@ -26,7 +26,7 @@
     .line 554
     iput-object p1, p0, Lcom/sonymobile/home/ui/widget/HomeAdvWidgetManager$HomeAdvWidgetHost;->this$0:Lcom/sonymobile/home/ui/widget/HomeAdvWidgetManager;
 
-    invoke-direct {p0}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;-><init>()V
+    invoke-direct {p0}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;-><init>()V
 
     return-void
 .end method

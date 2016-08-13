@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Isih aplikasi</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Nyahpasang %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Nyahpasang aplikasi</string>
-    <string name="home_application_name_txt">Laman Utama Xperia™</string>
+    <string name="home_application_name_txt">Laman Utama Oneofakind™</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Untuk melihat semua aplikasi, leret ke kiri dan pilih susunan Tersuai atau Mengikut Abjad.</string>
     <string name="home_apptray_see_all_applications_txt">Untuk melihat semua aplikasi, leret ke kanan dan pilih susunan Tersuai atau Mengikut Abjad.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Nyahpasang</string>
@@ -112,7 +112,7 @@ Nota: ia masih akan disimpan pada kad SD."</string>
     <string name="home_folder_dialog_create_new_txt">Wujudkan folder baru</string>
     <string name="home_folder_dialog_folder_name_txt">Nama folder</string>
     <string name="home_folder_name_unused_apps_txt">Apl tidak digunakan</string>
-    <string name="home_grid_size_change_notification_text">Laman Utama Xperia™ anda telah dinaik taraf kepada versi baharu. Saiz desktop telah diubah dan sesetengah pintasan dan widget anda telah dialihkan untuk sesuai dengan tataletak baharu. Anda sentiasa boleh menyusun semula desktop anda untuk lebih sepadan dengan keutamaan peribadi anda.</string>
+    <string name="home_grid_size_change_notification_text">Laman Utama Oneofakind™ anda telah dinaik taraf kepada versi baharu. Saiz desktop telah diubah dan sesetengah pintasan dan widget anda telah dialihkan untuk sesuai dengan tataletak baharu. Anda sentiasa boleh menyusun semula desktop anda untuk lebih sepadan dengan keutamaan peribadi anda.</string>
     <string name="home_grid_size_change_notification_title">Nota</string>
     <string name="home_hint_my_applications_continue">OK, faham!</string>
     <string name="home_hint_my_applications_info">Ketik di sini untuk melihat permohonan anda</string>
@@ -134,13 +134,13 @@ Nota: ia masih akan disimpan pada kad SD."</string>
     <string name="home_mode_manual_setting">Klasik</string>
     <string name="home_mode_toggle_heading">Pilih tataletak</string>
     <string name="home_no_uninstallable_apps_txt">Aplikasi-aplikasi ini tidak boleh dinyahpasang</string>
-    <string name="home_permission_access_modify_configuration_description">Membenarkan aplikasi mengakses dan menukar konfigurasi semasa skrin utama Xperia™</string>
-    <string name="home_permission_access_modify_configuration_label">Akses dan tukar konfigurasi semasa skrin utama Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">Membenarkan aplikasi mengakses dan menukar konfigurasi semasa skrin utama Oneofakind™</string>
+    <string name="home_permission_access_modify_configuration_label">Akses dan tukar konfigurasi semasa skrin utama Oneofakind™</string>
     <string name="home_permission_install_widget_description">Membenarkan aplikasi menambah widget tanpa campur tangan pengguna</string>
     <string name="home_permission_install_widget_label">Pasang widget</string>
-    <string name="home_permission_provider_insert_badge_description">Membenarkan aplikasi menetapkan lencana pemberitahuan pada ikon aplikasi Laman Utama Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Membenarkan aplikasi menetapkan lencana pemberitahuan pada ikon aplikasi Laman Utama Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">tetapkan lencana aplikasi</string>
-    <string name="home_permission_provider_read_badge_description">Membenarkan aplikasi memaparkan lencana pemberitahuan pada ikon aplikasi Laman Utama Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Membenarkan aplikasi memaparkan lencana pemberitahuan pada ikon aplikasi Laman Utama Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">dapatkan lencana aplikasi</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Anda tidak boleh mengalih keluar widgets dalam mod selamat</string>
     <string name="home_search_disclaimer_dialog_message">Jika anda bersetuju di bawah, Sony Mobile akan mengumpul maklumat penggunaan (aplikasi yang digunakan dsb.) dan lokasi untuk memperibadikan pengesyoran. (ID pengiklanan Android™ dan lokasi akan dikongsikan dengan rakan kongsi iklan). Sony Mobile akan mengendalikan data anda menurut <a href="http://sonymobile.com/privacy">Dasar Privasi</a> kami</string>
@@ -214,6 +214,6 @@ Nota: ia masih akan disimpan pada kad SD."</string>
     <string name="settings_search_bar_dialog_title">Keterlihatan bar carian</string>
     <string name="settings_search_bar_hide_button_text">Sembunyikan</string>
     <string name="settings_search_bar_show_button_text">Tunjukkan</string>
-    <string name="settings_search_bar_visible_sub_text">Buang data Laman Utama Xperia™ dalam Tetapan > Apl akan membawakan kembali bar Carian.</string>
+    <string name="settings_search_bar_visible_sub_text">Buang data Laman Utama Oneofakind™ dalam Tetapan > Apl akan membawakan kembali bar Carian.</string>
     <string name="settings_search_bar_visible_text">Tunjukkan pada skrin Laman Utama</string>
 </resources>

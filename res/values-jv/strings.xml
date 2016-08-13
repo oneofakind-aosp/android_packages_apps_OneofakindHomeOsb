@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Urutake aplikasi</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Copot pamasangan %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Copot pamasangan aplikasi</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Kanggo ndeleng kabeh aplikasi, geser ngiwa lan pilih Urutake Dhewe utawa Miturut Abjad.</string>
     <string name="home_apptray_see_all_applications_txt">Yen arep ndeleng kabeh aplikasi, geser nengen banjur pilih Urutake Dhewe utawa Miturut Abjad.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Copot pamasangan</string>
@@ -112,7 +112,7 @@ Cathetan: iki isih kasimpen ing kertu SD."</string>
     <string name="home_folder_dialog_create_new_txt">Gawe folder anyar</string>
     <string name="home_folder_dialog_folder_name_txt">Jeneng folder</string>
     <string name="home_folder_name_unused_apps_txt">Apl. sing ora digawe</string>
-    <string name="home_grid_size_change_notification_text">Branda Xperia™ sampeyan wis ditingkatake nyang versi anyar. Ukuran desktop wis digenti lan sawetara trabasan lan widget wis dipindhah supaya pas karo tampilan anyar. Sampeyan tansah bisa ngatur maneh desktop supaya luwih cocog karo pilihan sampeyam dhewe.</string>
+    <string name="home_grid_size_change_notification_text">Branda Oneofakind™ sampeyan wis ditingkatake nyang versi anyar. Ukuran desktop wis digenti lan sawetara trabasan lan widget wis dipindhah supaya pas karo tampilan anyar. Sampeyan tansah bisa ngatur maneh desktop supaya luwih cocog karo pilihan sampeyam dhewe.</string>
     <string name="home_grid_size_change_notification_title">Cathetan</string>
     <string name="home_hint_my_applications_continue">Ya, ngerti!</string>
     <string name="home_hint_my_applications_info">Tutul ing kene kanggo ndeleng aplikasi sampeyan</string>
@@ -134,13 +134,13 @@ Cathetan: iki isih kasimpen ing kertu SD."</string>
     <string name="home_mode_manual_setting">Klasik</string>
     <string name="home_mode_toggle_heading">Pilih tata panggonan</string>
     <string name="home_no_uninstallable_apps_txt">Aplikasi iki ora bisa dcopot pamasangane</string>
-    <string name="home_permission_access_modify_configuration_description">Gawe aplikasi bisa ngakses lan nggenti konfigurasi layar ngarep Xperia™</string>
-    <string name="home_permission_access_modify_configuration_label">Akses lan genti konfigurasi layar ngarep Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">Gawe aplikasi bisa ngakses lan nggenti konfigurasi layar ngarep Oneofakind™</string>
+    <string name="home_permission_access_modify_configuration_label">Akses lan genti konfigurasi layar ngarep Oneofakind™</string>
     <string name="home_permission_install_widget_description">Ngidinake aplikasi nambah widget tanpa intervensi pangguna</string>
     <string name="home_permission_install_widget_label">Instal widget</string>
-    <string name="home_permission_provider_insert_badge_description">Idini aplikasi nyetel emblem kabar ing lambang aplikasine ing Xperia™ Home</string>
+    <string name="home_permission_provider_insert_badge_description">Idini aplikasi nyetel emblem kabar ing lambang aplikasine ing Oneofakind™ Home</string>
     <string name="home_permission_provider_insert_badge_label">temtokake emblem aplikasi</string>
-    <string name="home_permission_provider_read_badge_description">Idini aplikasi nampilake emblem kabar ing lambang aplikasine ing Xperia™ Home</string>
+    <string name="home_permission_provider_read_badge_description">Idini aplikasi nampilake emblem kabar ing lambang aplikasine ing Oneofakind™ Home</string>
     <string name="home_permission_provider_read_badge_label">jupuk emblem aplikasi</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Sampeyan bisa mbusak widget ing mode aman</string>
     <string name="home_search_disclaimer_dialog_message">Yen sampeyan sarujuk, Sony Mobile bakal nglumpukake katrangan panggunaan (aplikasi sing dianggo lsp.) lan panggonan kanggo mersonalisasi rekomendasi.. (ID iklan Android™ lan panggonan bakal diandum marang mitra iklan. Sony Mobile bakal nangani data sampeyan miturut <a href="http://sonymobile.com/privacy">Kabijakan Privasi</a> kita</string>
@@ -214,6 +214,6 @@ Cathetan: iki isih kasimpen ing kertu SD."</string>
     <string name="settings_search_bar_dialog_title">Tlusuri pnampakan grs</string>
     <string name="settings_search_bar_hide_button_text">Dhelikake</string>
     <string name="settings_search_bar_show_button_text">Tuduhake</string>
-    <string name="settings_search_bar_visible_sub_text">Mbusak data Ngarep Xperia™ ing Setelan> Aplikasi kanggo bali nggawa garis Panelusuran.</string>
+    <string name="settings_search_bar_visible_sub_text">Mbusak data Ngarep Oneofakind™ ing Setelan> Aplikasi kanggo bali nggawa garis Panelusuran.</string>
     <string name="settings_search_bar_visible_text">Nunjukaké ing layar Ngarep</string>
 </resources>

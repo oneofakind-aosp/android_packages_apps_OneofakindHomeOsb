@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Razvrščanje programov</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Ali želite odstraniti program %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Odstranitev programa</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Če želite prikazati vse programe, podrsajte levo in izberite vrstni red »Po meri« ali »Po abecedi«.</string>
     <string name="home_apptray_see_all_applications_txt">Če želite prikazati vse programe, podrsnite desno in izberite vrstni red »Po meri« ali »Po abecedi«.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Odstrani</string>
@@ -162,7 +162,7 @@ Opomba: program bo še vedno shranjen na kartici SD."</string>
     <string name="home_folder_dialog_create_new_txt">Ustvari novo mapo</string>
     <string name="home_folder_dialog_folder_name_txt">Ime mape</string>
     <string name="home_folder_name_unused_apps_txt">Neuporabljeni programi</string>
-    <string name="home_grid_size_change_notification_text">Začetni zaslon vaše naprave Xperia™ je bil nadgrajen na novo različico. Spremenjena je bila velikost namizja, nekatere bližnjice in gradniki pa so bili premaknjeni, da ustrezajo novi postavitvi. Namizje lahko kadar koli prerazporedite po svojih željah.</string>
+    <string name="home_grid_size_change_notification_text">Začetni zaslon vaše naprave Oneofakind™ je bil nadgrajen na novo različico. Spremenjena je bila velikost namizja, nekatere bližnjice in gradniki pa so bili premaknjeni, da ustrezajo novi postavitvi. Namizje lahko kadar koli prerazporedite po svojih željah.</string>
     <string name="home_grid_size_change_notification_title">Opomba</string>
     <string name="home_hint_my_applications_continue">V redu, razumem!</string>
     <string name="home_hint_my_applications_info">Tapnite tukaj, da si ogledate obvestila</string>
@@ -184,13 +184,13 @@ Opomba: program bo še vedno shranjen na kartici SD."</string>
     <string name="home_mode_manual_setting">Klasično</string>
     <string name="home_mode_toggle_heading">Izbira postavitve</string>
     <string name="home_no_uninstallable_apps_txt">Teh programov ni mogoče odstraniti</string>
-    <string name="home_permission_access_modify_configuration_description">Programu omogoča dostop in spreminjanje trenutne konfiguracije začetnega zaslona v napravi Xperia™</string>
-    <string name="home_permission_access_modify_configuration_label">Dostop in spreminjanje trenutne konfiguracije začetnega zaslona v napravi Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">Programu omogoča dostop in spreminjanje trenutne konfiguracije začetnega zaslona v napravi Oneofakind™</string>
+    <string name="home_permission_access_modify_configuration_label">Dostop in spreminjanje trenutne konfiguracije začetnega zaslona v napravi Oneofakind™</string>
     <string name="home_permission_install_widget_description">Programu omogoči, da lahko dodaja gradnike brez posredovanja uporabnika.</string>
     <string name="home_permission_install_widget_label">Namesti gradnike</string>
-    <string name="home_permission_provider_insert_badge_description">Programu omogoča nastavitev značk za obvestila za ikone programa na začetnem zaslonu naprave Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Programu omogoča nastavitev značk za obvestila za ikone programa na začetnem zaslonu naprave Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">nastavitev značk programov</string>
-    <string name="home_permission_provider_read_badge_description">Programu omogoča prikaz značk za obvestila za ikone programa na začetnem zaslonu naprave Xperia™ Home</string>
+    <string name="home_permission_provider_read_badge_description">Programu omogoča prikaz značk za obvestila za ikone programa na začetnem zaslonu naprave Oneofakind™ Home</string>
     <string name="home_permission_provider_read_badge_label">pridobitev značk programov</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Gradnike lahko odstranite v varnem načinu</string>
     <string name="home_search_disclaimer_dialog_message">Če se strinjate s spodnjimi pogoji, bo družba Sony Mobile zbirala informacije o uporabi (uporabljeni programi itd.) in lokaciji za prilagoditev priporočil. (ID za oglaševanje sistema Android™ in lokacija bosta posredovana oglaševalskim partnerjem). Družba Sony Mobile bo vaše podatke obravnavala v skladu s <a href="http://sonymobile.com/privacy">pravilnikom o zasebnosti</a>.</string>
@@ -264,6 +264,6 @@ Opomba: program bo še vedno shranjen na kartici SD."</string>
     <string name="settings_search_bar_dialog_title">Vidnost iskalne vrstice</string>
     <string name="settings_search_bar_hide_button_text">Skrij</string>
     <string name="settings_search_bar_show_button_text">Pokaži</string>
-    <string name="settings_search_bar_visible_sub_text">Počistite podatke z domačega zaslona naprave Xperia™ v meniju »Nastavitve« > »Programi«, da znova prikažete vrstice za iskanje.</string>
+    <string name="settings_search_bar_visible_sub_text">Počistite podatke z domačega zaslona naprave Oneofakind™ v meniju »Nastavitve« > »Programi«, da znova prikažete vrstice za iskanje.</string>
     <string name="settings_search_bar_visible_text">Pokaži na domačem zaslonu</string>
 </resources>

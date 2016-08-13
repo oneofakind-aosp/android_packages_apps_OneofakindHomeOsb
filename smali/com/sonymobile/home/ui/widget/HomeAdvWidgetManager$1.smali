@@ -121,7 +121,7 @@
 
     invoke-direct {v3, v4}, Lcom/sonymobile/home/ui/widget/HomeAdvWidgetManager$HomeAdvWidgetHost;-><init>(Lcom/sonymobile/home/ui/widget/HomeAdvWidgetManager;)V
 
-    invoke-virtual {v2, v3}, Lcom/sonymobile/home/ui/widget/HomeAdvWidget;->setHost(Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;)V
+    invoke-virtual {v2, v3}, Lcom/sonymobile/home/ui/widget/HomeAdvWidget;->setHost(Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;)V
 
     .line 168
     invoke-virtual {v2}, Lcom/sonymobile/home/ui/widget/HomeAdvWidget;->createClazz()V

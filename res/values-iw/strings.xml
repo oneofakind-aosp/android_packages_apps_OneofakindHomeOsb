@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">מיין יישומים</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">להסיר את %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">הסר יישום</string>
-    <string name="home_application_name_txt">דף הבית של Xperia™‎</string>
+    <string name="home_application_name_txt">דף הבית של Oneofakind™‎</string>
     <string name="home_apptray_see_all_applications_bidi_txt">"כדי לראות את כל היישומים, החלק שמאלה ובחר 'סדר משלי' או 'אלפביתי'."</string>
     <string name="home_apptray_see_all_applications_txt">"כדי לראות את כל היישומים, החלק ימינה ובחר 'סדר משלי' או 'אלפביתי'."</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">הסר</string>
@@ -162,7 +162,7 @@
     <string name="home_folder_dialog_create_new_txt">צור תיקייה חדשה</string>
     <string name="home_folder_dialog_folder_name_txt">שם תיקייה</string>
     <string name="home_folder_name_unused_apps_txt">יישומים שאינם בשימוש</string>
-    <string name="home_grid_size_change_notification_text">‏Xperia™‎ Home שודרג לגרסה חדשה. גודל שולחן העבודה השתנה וכמה מקיצורי הדרך והיישומונים הועברו כדי להתאים לפריסה החדשה. תמיד תוכל לארגן מחדש את שולחן העבודה כדי להתאימו להעדפותיך האישיות.</string>
+    <string name="home_grid_size_change_notification_text">‏Oneofakind™‎ Home שודרג לגרסה חדשה. גודל שולחן העבודה השתנה וכמה מקיצורי הדרך והיישומונים הועברו כדי להתאים לפריסה החדשה. תמיד תוכל לארגן מחדש את שולחן העבודה כדי להתאימו להעדפותיך האישיות.</string>
     <string name="home_grid_size_change_notification_title">הערה</string>
     <string name="home_hint_my_applications_continue">אוקיי, הבנתי.</string>
     <string name="home_hint_my_applications_info">הקש כאן כדי להציג את היישומים</string>
@@ -184,13 +184,13 @@
     <string name="home_mode_manual_setting">קלאסית</string>
     <string name="home_mode_toggle_heading">בחר פריסה</string>
     <string name="home_no_uninstallable_apps_txt">לא ניתן להסיר יישומים אלה</string>
-    <string name="home_permission_access_modify_configuration_description">הרשאה זו מאפשרת ליישום לגשת לתצורה הנוכחית של דף הפתיחה של Xperia™‎ ולשנות אותה</string>
-    <string name="home_permission_access_modify_configuration_label">גישה לתצורה הנוכחית של דף הפתיחה של Xperia™‎ ושינויה</string>
+    <string name="home_permission_access_modify_configuration_description">הרשאה זו מאפשרת ליישום לגשת לתצורה הנוכחית של דף הפתיחה של Oneofakind™‎ ולשנות אותה</string>
+    <string name="home_permission_access_modify_configuration_label">גישה לתצורה הנוכחית של דף הפתיחה של Oneofakind™‎ ושינויה</string>
     <string name="home_permission_install_widget_description">מאפשר ליישום להוסיף יישומונים ללא התערבות המשתמש</string>
     <string name="home_permission_install_widget_label">התקן יישומונים</string>
-    <string name="home_permission_provider_insert_badge_description">הרשאה זו מאפשרת ליישום להגדיר תגי התראות בסמלי יישום דף הפתיחה של Xperia™‎</string>
+    <string name="home_permission_provider_insert_badge_description">הרשאה זו מאפשרת ליישום להגדיר תגי התראות בסמלי יישום דף הפתיחה של Oneofakind™‎</string>
     <string name="home_permission_provider_insert_badge_label">הגדר תגי יישומים</string>
-    <string name="home_permission_provider_read_badge_description">הרשאה זו מאפשרת ליישום להציג תגי התראות בסמלי יישום דף הפתיחה של Xperia™‎</string>
+    <string name="home_permission_provider_read_badge_description">הרשאה זו מאפשרת ליישום להציג תגי התראות בסמלי יישום דף הפתיחה של Oneofakind™‎</string>
     <string name="home_permission_provider_read_badge_label">קבל תגי יישומים</string>
     <string name="home_safe_mode_remove_widget_toast_txt">באפשרותך להסיר יישומונים במצב בטוח</string>
     <string name="home_search_disclaimer_dialog_message">"אם אתה מסכים לכתוב מטה, Sony Mobile תאסוף את נתוני השימוש (יישומים בשימוש וכו') והמיקום כדי להתאים אישית המלצות. (מזהה הפרסום והמיקום של Android™‎ ישותפו עם שותפי המודעות). Sony Mobile תטפל בנתונים בהתאם ל"<a href="http://sonymobile.com/privacy">מדיניות הפרטיות</a> שלה.</string>
@@ -264,6 +264,6 @@
     <string name="settings_search_bar_dialog_title">ניראות סרגל החיפוש</string>
     <string name="settings_search_bar_hide_button_text">הסתר</string>
     <string name="settings_search_bar_show_button_text">הצג</string>
-    <string name="settings_search_bar_visible_sub_text">"נקה את נתוני דף הפתיחה של Xperia™‎ דרך 'הגדרות > יישומים' כדי להחזיר את סרגל החיפוש."</string>
+    <string name="settings_search_bar_visible_sub_text">"נקה את נתוני דף הפתיחה של Oneofakind™‎ דרך 'הגדרות > יישומים' כדי להחזיר את סרגל החיפוש."</string>
     <string name="settings_search_bar_visible_text">הצג בדף הפתיחה</string>
 </resources>

@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Куш-рны тәртипкә салу</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">%1$s бетерергәме?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Кушымтаны бетерү</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Барлык кушымталарны күрер өчен сулга шудырыгыз һәм Кулланучы тәртибен яки Алфавит тәртибен сайлагыз.</string>
     <string name="home_apptray_see_all_applications_txt">Барлык кушымталарны күрер өчен уңга шудырыгыз һәм Кулланучы тәртибен яки Алфавит тәртибен сайлагыз.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Бетерү</string>
@@ -112,7 +112,7 @@
     <string name="home_folder_dialog_create_new_txt">Яңа папканы ясарга</string>
     <string name="home_folder_dialog_folder_name_txt">Папка исеме</string>
     <string name="home_folder_name_unused_apps_txt">Кулланмаган кушымталар</string>
-    <string name="home_grid_size_change_notification_text">Сезнен Xperia™өй яңа версияга яңартылган. Санак зурлыгы үзгертелгәнhәм кайбер сезнен ярлыклар hәм виджетлар яңа сhәмага китерү өчен күчерелгән. Сезнен персональ кулайларга яхшырак туры килү өчен сез компьютерыгызны хәр вакыт күчере аласыз.</string>
+    <string name="home_grid_size_change_notification_text">Сезнен Oneofakind™өй яңа версияга яңартылган. Санак зурлыгы үзгертелгәнhәм кайбер сезнен ярлыклар hәм виджетлар яңа сhәмага китерү өчен күчерелгән. Сезнен персональ кулайларга яхшырак туры килү өчен сез компьютерыгызны хәр вакыт күчере аласыз.</string>
     <string name="home_grid_size_change_notification_title">Язма</string>
     <string name="home_hint_my_applications_continue">ОК</string>
     <string name="home_hint_my_applications_info">Кушымта булу өчен кәрә кагырга кирәк</string>
@@ -134,13 +134,13 @@
     <string name="home_mode_manual_setting">Классик</string>
     <string name="home_mode_toggle_heading">Макет сайлау</string>
     <string name="home_no_uninstallable_apps_txt">Бу кушымталарны бетереп булмый</string>
-    <string name="home_permission_access_modify_configuration_description">Кушымтага Xperia™ өй экранына кереп конфигурациясен үзгәртергә рөхсәт бирелә</string>
-    <string name="home_permission_access_modify_configuration_label">Кереп Xperia™ өй экраны конфигурациясен үзгәртү</string>
+    <string name="home_permission_access_modify_configuration_description">Кушымтага Oneofakind™ өй экранына кереп конфигурациясен үзгәртергә рөхсәт бирелә</string>
+    <string name="home_permission_access_modify_configuration_label">Кереп Oneofakind™ өй экраны конфигурациясен үзгәртү</string>
     <string name="home_permission_install_widget_description">Кулланучедан башка, виджетларны кушарга мөмкин бирә</string>
     <string name="home_permission_install_widget_label">Виджетларны урнаштыру</string>
-    <string name="home_permission_provider_insert_badge_description">Кушымтага Xperia™ Өй кушымтасы тамгасында искәрмә билгеләрен урнаштырырга мөмкинлек бирә</string>
+    <string name="home_permission_provider_insert_badge_description">Кушымтага Oneofakind™ Өй кушымтасы тамгасында искәрмә билгеләрен урнаштырырга мөмкинлек бирә</string>
     <string name="home_permission_provider_insert_badge_label">кушымта билгеләрен урнаштыру</string>
-    <string name="home_permission_provider_read_badge_description">Кушымтага Xperia™ Өй кушымтасы тамгасында искәрмә билгеләрен урнаштырырга мөмкинлек бирә</string>
+    <string name="home_permission_provider_read_badge_description">Кушымтага Oneofakind™ Өй кушымтасы тамгасында искәрмә билгеләрен урнаштырырга мөмкинлек бирә</string>
     <string name="home_permission_provider_read_badge_label">кушымта билгеләрен алу</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Экземплярларны иминлек режимында күчерә аласыз</string>
     <string name="home_search_disclaimer_dialog_message">Түбәндәгеләр белән ризалашсагыз, Sony Mobile куллану мәгълүматын (файдаланган кушымталар һ.б.) һәм урыныгызны киңәшләрне шәхсиләштерү өчен җыячак (Android™ Реклама таныкнамәсе һәм урыныгыз реклама партнерларына белдереләчәк). Sony Mobile сезнең мәгълүматны безнең<a href="http://sonymobile.com/privacy">Шәхсилек сәясәте</a> буенча эшкәртәчәк</string>
@@ -214,6 +214,6 @@
     <string name="settings_search_bar_dialog_title">Эзләү панеле күренүе</string>
     <string name="settings_search_bar_hide_button_text">Яшерү</string>
     <string name="settings_search_bar_show_button_text">Күрсәтү</string>
-    <string name="settings_search_bar_visible_sub_text">Xperia™ Home мәгълүматын Параметрлар > Кушымталар аша бетереп, Эзләү аслыгына кайтыгыз.</string>
+    <string name="settings_search_bar_visible_sub_text">Oneofakind™ Home мәгълүматын Параметрлар > Кушымталар аша бетереп, Эзләү аслыгына кайтыгыз.</string>
     <string name="settings_search_bar_visible_text">Өй экранында курсәтергә.</string>
 </resources>

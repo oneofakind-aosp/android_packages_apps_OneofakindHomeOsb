@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Sordi rakendusi</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Kas rakendus %1$s desinstallida?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Rakenduse desinstall</string>
-    <string name="home_application_name_txt">Xperia™ avakuva</string>
+    <string name="home_application_name_txt">Oneofakind™ avakuva</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Kõikide rakenduste kuvamiseks libistage sõrme vasakule ja valige Kohandatud järjestus või Tähestikuline.</string>
     <string name="home_apptray_see_all_applications_txt">Kõikide rakenduste kuvamiseks libistage sõrme paremale ja valige Kohandatud järjestus või Tähestikuline.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">"Desinstalli "</string>
@@ -112,7 +112,7 @@ NB! Seda ei kustutata SD-kaardilt."</string>
     <string name="home_folder_dialog_create_new_txt">Loo uus kaust</string>
     <string name="home_folder_dialog_folder_name_txt">Kausta nimi</string>
     <string name="home_folder_name_unused_apps_txt">Kasutamata rakendused</string>
-    <string name="home_grid_size_change_notification_text">Teie Xperia™ rakendus Kodu täiendati uuele versioonile. Töölaua suurust muudeti ja mõnda teie otseteed ja vidinat liigutati, et need sobiks uue paigutusega. Saate töölaua alati ümber korraldada, et see vastaks teie isiklikele eelistustele.</string>
+    <string name="home_grid_size_change_notification_text">Teie Oneofakind™ rakendus Kodu täiendati uuele versioonile. Töölaua suurust muudeti ja mõnda teie otseteed ja vidinat liigutati, et need sobiks uue paigutusega. Saate töölaua alati ümber korraldada, et see vastaks teie isiklikele eelistustele.</string>
     <string name="home_grid_size_change_notification_title">Märkus</string>
     <string name="home_hint_my_applications_continue">Sain aru!</string>
     <string name="home_hint_my_applications_info">Rakenduste kuvamiseks koputage siin</string>
@@ -134,13 +134,13 @@ NB! Seda ei kustutata SD-kaardilt."</string>
     <string name="home_mode_manual_setting">Klassikaline</string>
     <string name="home_mode_toggle_heading">Paigutuse valimine</string>
     <string name="home_no_uninstallable_apps_txt">Neid rakendusi ei saa desinstallida</string>
-    <string name="home_permission_access_modify_configuration_description">Rakendusel on lubatud juurdepääs praeguse Xperia™ avakuva konfiguratsioonile ja selle muutmine</string>
-    <string name="home_permission_access_modify_configuration_label">Juurdepääs praeguse Xperia™ avakuva konfiguratsioonile ja selle muutmine</string>
+    <string name="home_permission_access_modify_configuration_description">Rakendusel on lubatud juurdepääs praeguse Oneofakind™ avakuva konfiguratsioonile ja selle muutmine</string>
+    <string name="home_permission_access_modify_configuration_label">Juurdepääs praeguse Oneofakind™ avakuva konfiguratsioonile ja selle muutmine</string>
     <string name="home_permission_install_widget_description">Lubab rakendusel kasutaja sekkumiseta lisada vidinaid</string>
     <string name="home_permission_install_widget_label">Vidinate installimine</string>
-    <string name="home_permission_provider_insert_badge_description">Rakendusel on lubatud määrata teadaandemärke selle Xperia™ avakuva rakenduste ikoonidele</string>
+    <string name="home_permission_provider_insert_badge_description">Rakendusel on lubatud määrata teadaandemärke selle Oneofakind™ avakuva rakenduste ikoonidele</string>
     <string name="home_permission_provider_insert_badge_label">rakenduse märkide määramine</string>
-    <string name="home_permission_provider_read_badge_description">Rakendusel on lubatud kuvada teadaandemärke selle Xperia™ avakuva rakenduste ikoonidel</string>
+    <string name="home_permission_provider_read_badge_description">Rakendusel on lubatud kuvada teadaandemärke selle Oneofakind™ avakuva rakenduste ikoonidel</string>
     <string name="home_permission_provider_read_badge_label">rakenduse märkide toomine</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Turvarežiimis saab eemaldada vidinaid</string>
     <string name="home_search_disclaimer_dialog_message">Kui nõustute allpool, kogub Sony Mobile soovituste isikupärastamiseks kasutusteavet (kasutatud rakendused jne) ning asukohaandmeid. (Android™ reklaamimise ID-d ja asukohta jagatakse rakenduse partneritega). Sony Mobile kasutab teie andmeid meie <a href="http://sonymobile.com/privacy">Privaatsuspoliitika</a> järgi.</string>
@@ -214,6 +214,6 @@ NB! Seda ei kustutata SD-kaardilt."</string>
     <string name="settings_search_bar_dialog_title">Otsinguriba nähtavus</string>
     <string name="settings_search_bar_hide_button_text">Peida</string>
     <string name="settings_search_bar_show_button_text">Kuva</string>
-    <string name="settings_search_bar_visible_sub_text">Otsinguriba tagasitoomiseks kustutage üksuse Xperia™ Home andmed jaotises Sätted > Rakendused.</string>
+    <string name="settings_search_bar_visible_sub_text">Otsinguriba tagasitoomiseks kustutage üksuse Oneofakind™ Home andmed jaotises Sätted > Rakendused.</string>
     <string name="settings_search_bar_visible_text">Kuva avakuval</string>
 </resources>

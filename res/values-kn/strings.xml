@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">ಆಪ್‌ಗಳನ್ನು ವಿಂಗಡಿಸಿ</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">%1$s ಅಸ್ಥಾಪಿಸುವುದೇ?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">ಅಪ್ಲಿಕೇಶನ್ ಅಸ್ಥಾಪಿಸಿ</string>
-    <string name="home_application_name_txt">Xperia™ ಹೋಂ</string>
+    <string name="home_application_name_txt">Oneofakind™ ಹೋಂ</string>
     <string name="home_apptray_see_all_applications_bidi_txt">ಎಲ್ಲಾ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ನೋಡಲು, ಎಡಕ್ಕೆ ಉಜ್ಜಿ ಮತ್ತು ಗ್ರಾಹಕೀಕರಣ ಅಥವಾ ವರ್ಣಮಾಲೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.</string>
     <string name="home_apptray_see_all_applications_txt">ಎಲ್ಲ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ನೋಡಲು, ಬಲಕ್ಕೆ ಉಜ್ಜಿ ಮತ್ತು ಗ್ರಾಹಕೀಯ ಕ್ರಮ ಅಥವಾ ವರ್ಣಮಾಲೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">ಅಸ್ಥಾಪಿಸಿ</string>
@@ -112,7 +112,7 @@
     <string name="home_folder_dialog_create_new_txt">ಹೊಸ ಫೋಲ್ಡರ್ ರಚಿಸಿ</string>
     <string name="home_folder_dialog_folder_name_txt">ಫೋಲ್ಡರ್ ಹೆಸರು</string>
     <string name="home_folder_name_unused_apps_txt">ಬಳಸದ ಆಪ್‌ಗಳು</string>
-    <string name="home_grid_size_change_notification_text">ನಿಮ್ಮ Xperia™ ಹೋಮ್ ಅನ್ನು ಹೊಸ ಆವೃತ್ತಿಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಲಾಗಿದೆ. ಡೆಸ್ಕ್‌ಟಾಪ್ ಗಾತ್ರವನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ ಮತ್ತು ನಿಮ್ಮ ಕೆಲವು ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು ಮತ್ತು ವಿಜೆಟ್‌ಗಳನ್ನು ಹೊಸ ವಿನ್ಯಾಸಕ್ಕೆ ಹೊಂದಲು ಸರಿಸಲಾಗಿದೆ. ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಆದ್ಯತೆಗಳಿಗೆ ಉತ್ತಮವಾಗಿ ಹೊಂದಿಸಲು ನಿಮ್ಮ ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ನೀವು ಯಾವಾಗಲೂ ಮರುಆಯೋಜಿಸಬಹುದು.</string>
+    <string name="home_grid_size_change_notification_text">ನಿಮ್ಮ Oneofakind™ ಹೋಮ್ ಅನ್ನು ಹೊಸ ಆವೃತ್ತಿಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಲಾಗಿದೆ. ಡೆಸ್ಕ್‌ಟಾಪ್ ಗಾತ್ರವನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ ಮತ್ತು ನಿಮ್ಮ ಕೆಲವು ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು ಮತ್ತು ವಿಜೆಟ್‌ಗಳನ್ನು ಹೊಸ ವಿನ್ಯಾಸಕ್ಕೆ ಹೊಂದಲು ಸರಿಸಲಾಗಿದೆ. ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಆದ್ಯತೆಗಳಿಗೆ ಉತ್ತಮವಾಗಿ ಹೊಂದಿಸಲು ನಿಮ್ಮ ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ನೀವು ಯಾವಾಗಲೂ ಮರುಆಯೋಜಿಸಬಹುದು.</string>
     <string name="home_grid_size_change_notification_title">ಗಮನಿಸಿ</string>
     <string name="home_hint_my_applications_continue">ಓಕೆ, ತಿಳಿಯಿತು.</string>
     <string name="home_hint_my_applications_info">ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ನೋಡಲು ಇಲ್ಲಿ ತಟ್ಟಿ</string>
@@ -134,13 +134,13 @@
     <string name="home_mode_manual_setting">ಕ್ಲಾಸಿಕ್</string>
     <string name="home_mode_toggle_heading">ರೂಪವಿನ್ಯಾಸವನ್ನು ಆರಿಸಿ</string>
     <string name="home_no_uninstallable_apps_txt">ಈ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
-    <string name="home_permission_access_modify_configuration_description">ಪ್ರಸ್ತುತ Xperia™ ಹೋಮ್ ಸ್ಕ್ರೀನ್ ಕಾನ್ಫಿಗರೇಶನ್ ಅನ್ನು ಪ್ರವೇಶಿಸಲು ಮತ್ತು ಬದಲಾಯಿಸಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ</string>
-    <string name="home_permission_access_modify_configuration_label">ಪ್ರಸ್ತುತ Xperia™ ಹೋಮ್ ಸ್ಕ್ರೀನ್ ಕಾನ್ಫಿಗರೇಶನ್ ಅನ್ನು ಪ್ರವೇಶಿಸಿ ಮತ್ತು ಬದಲಾಯಿಸಿ</string>
+    <string name="home_permission_access_modify_configuration_description">ಪ್ರಸ್ತುತ Oneofakind™ ಹೋಮ್ ಸ್ಕ್ರೀನ್ ಕಾನ್ಫಿಗರೇಶನ್ ಅನ್ನು ಪ್ರವೇಶಿಸಲು ಮತ್ತು ಬದಲಾಯಿಸಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ</string>
+    <string name="home_permission_access_modify_configuration_label">ಪ್ರಸ್ತುತ Oneofakind™ ಹೋಮ್ ಸ್ಕ್ರೀನ್ ಕಾನ್ಫಿಗರೇಶನ್ ಅನ್ನು ಪ್ರವೇಶಿಸಿ ಮತ್ತು ಬದಲಾಯಿಸಿ</string>
     <string name="home_permission_install_widget_description">ಒಂದು ಅಪ್ಲಿಕೇಷನ್ ಗೆ ಬಳಕೆದಾರ ಹಸ್ತಕ್ಷೇಪವಿಲ್ಲದೇ ವಿಜೆಟ್ ಗಳನ್ನು ಸೇರಿಸಲು ಅನುಮತಿಸುತ್ತದೆ</string>
     <string name="home_permission_install_widget_label">ವಿಡ್ಜೆಟ್ ಗಳನ್ನು ಅಳವಡಿಸಿ</string>
-    <string name="home_permission_provider_insert_badge_description">ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗೆ ಅದರ Xperia™ ಹೋಮ್ ಅಪ್ಲಿಕೇಶನ್ ಐಕಾನ್‌ಗಳಲ್ಲಿ ಪ್ರಕಟಣೆ ಬ್ಯಾಡ್ಜ್‌ಗಳನ್ನು ಹೊಂದಿಸಲು ಅನುಮತಿಸುತ್ತದೆ</string>
+    <string name="home_permission_provider_insert_badge_description">ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗೆ ಅದರ Oneofakind™ ಹೋಮ್ ಅಪ್ಲಿಕೇಶನ್ ಐಕಾನ್‌ಗಳಲ್ಲಿ ಪ್ರಕಟಣೆ ಬ್ಯಾಡ್ಜ್‌ಗಳನ್ನು ಹೊಂದಿಸಲು ಅನುಮತಿಸುತ್ತದೆ</string>
     <string name="home_permission_provider_insert_badge_label">ಅಪ್ಲಿಕೇಶನ್ ಬ್ಯಾಡ್ಜ್‌ಗಳನ್ನು ಹೊಂದಿಸಿ</string>
-    <string name="home_permission_provider_read_badge_description">ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗೆ ಅವುಗಳ Xperia™ ಹೋಮ್ ಅಪ್ಲಿಕೇಶನ್ ಐಕಾನ್‌ಗಳಲ್ಲಿ ಪ್ರಕಟಣೆ ಬ್ಯಾಡ್ಜ್‌ಗಳನ್ನು ಪ್ರದರ್ಶಿಸಲು ಅನುಮತಿಸುತ್ತದೆ</string>
+    <string name="home_permission_provider_read_badge_description">ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗೆ ಅವುಗಳ Oneofakind™ ಹೋಮ್ ಅಪ್ಲಿಕೇಶನ್ ಐಕಾನ್‌ಗಳಲ್ಲಿ ಪ್ರಕಟಣೆ ಬ್ಯಾಡ್ಜ್‌ಗಳನ್ನು ಪ್ರದರ್ಶಿಸಲು ಅನುಮತಿಸುತ್ತದೆ</string>
     <string name="home_permission_provider_read_badge_label">ಅಪ್ಲಿಕೇಶನ್ ಬ್ಯಾಡ್ಜ್‌ಗಳನ್ನು ಪಡೆಯಿರಿ</string>
     <string name="home_safe_mode_remove_widget_toast_txt">ನೀವು ವಿಜೆಟ್‌ಗಳನ್ನು ಸುರಕ್ಷಿತ ಮೋಡ್ ಆಗಿ ತೆಗೆಯಬಹುದು</string>
     <string name="home_search_disclaimer_dialog_message">ಒಂದು ವೇಳೆ ಈ ಕೆಳಗಿನ ಅಂಶ. ಒಪ್ಪಿದಲ್ಲಿ, ಶಿಫಾರಸುಗಳನ್ನು ವೈಯಕ್ತೀಕರಣ ಮಾಡಲು ಬಳಕೆಯ ಮಾಹಿತಿಯನ್ನು (ಬಳಸಲಾದ ಆಪ್‌ಗಳು ಇತ್ಯಾದಿ) ಮತ್ತು ಸ್ಥಳವನ್ನು Sony Mobile ಸಂಗ್ರಹಿಸುತ್ತದೆ. (Android™ ಜಾಹೀರಾತು ID ಮತ್ತು ಸ್ಥಳವನ್ನು ಜಾಹೀರಾತು ಪಾಲುದಾರರ ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತದೆ). Sony Mobile ನಿಮ್ಮ ಡೇಟಾವನ್ನು ನಮ್ಮ <a href="http://sonymobile.com/privacy">ಗೌಪ್ಯತಾ ನೀತಿ</a> ಗೆ ಅನುಸಾರವಾಗಿ ನಿಭಾಯಿಸುತ್ತದೆ.</string>
@@ -214,6 +214,6 @@
     <string name="settings_search_bar_dialog_title">ಸರ್ಚ್ ಬಾರ್ ಗೋಚರತೆ</string>
     <string name="settings_search_bar_hide_button_text">ಅಡಗಿಸು</string>
     <string name="settings_search_bar_show_button_text">ತೋರಿಸು</string>
-    <string name="settings_search_bar_visible_sub_text">ಸಂಯೋಜನೆಗಳಲ್ಲಿ Xperia™ ಹೋಂ ಡೇಟಾವನ್ನು ಖಾಲಿ ಮಾಡಿ > ಸರ್ಚ್ ಬಾರ್ ಹಿಂದೆ ತರಲು ಆಪ್‍ಗಳು.</string>
+    <string name="settings_search_bar_visible_sub_text">ಸಂಯೋಜನೆಗಳಲ್ಲಿ Oneofakind™ ಹೋಂ ಡೇಟಾವನ್ನು ಖಾಲಿ ಮಾಡಿ > ಸರ್ಚ್ ಬಾರ್ ಹಿಂದೆ ತರಲು ಆಪ್‍ಗಳು.</string>
     <string name="settings_search_bar_visible_text">ಹೋಂ ಸ್ಕ್ರೀನ್ ಮೇಲೆ ತೋರಿಸು</string>
 </resources>

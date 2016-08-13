@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Flokka forrit</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Fjarlægja %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Fjarlægja forrit</string>
-    <string name="home_application_name_txt">Heimaskjár Xperia™</string>
+    <string name="home_application_name_txt">Heimaskjár Oneofakind™</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Strjúktu til vinstri og veldu Eigin röð eða Stafrófsröð til að sjá öll forrit.</string>
     <string name="home_apptray_see_all_applications_txt">Strjúktu til hægri og veldu Eigin röð eða Stafrófsröð til að sjá öll forrit.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Fjarlægja</string>
@@ -112,7 +112,7 @@ Ath.: Það verður áfram geymt á SD kortinu."</string>
     <string name="home_folder_dialog_create_new_txt">Búa til nýja möppu</string>
     <string name="home_folder_dialog_folder_name_txt">Heiti möppu</string>
     <string name="home_folder_name_unused_apps_txt">Ónotuð forrit</string>
-    <string name="home_grid_size_change_notification_text">Heimaskjár Xperia™ hefur verið uppfærður í nýja útgáfu. Stærð skjáborðsins hefur verið breytt og einhverjar flýtileiðir og græjur hafa verið færðar til að falla að hinu nýja sniði. Þú getur alltaf endurraðað á skjáborðið svo það henti þörfum þínum betur.</string>
+    <string name="home_grid_size_change_notification_text">Heimaskjár Oneofakind™ hefur verið uppfærður í nýja útgáfu. Stærð skjáborðsins hefur verið breytt og einhverjar flýtileiðir og græjur hafa verið færðar til að falla að hinu nýja sniði. Þú getur alltaf endurraðað á skjáborðið svo það henti þörfum þínum betur.</string>
     <string name="home_grid_size_change_notification_title">Ath.</string>
     <string name="home_hint_my_applications_continue">Náði þessu!</string>
     <string name="home_hint_my_applications_info">Pikkaðu hér til að sjá forritin þín</string>
@@ -134,13 +134,13 @@ Ath.: Það verður áfram geymt á SD kortinu."</string>
     <string name="home_mode_manual_setting">Sígilt</string>
     <string name="home_mode_toggle_heading">Veldu útlit</string>
     <string name="home_no_uninstallable_apps_txt">Ekki er hægt að fjarlægja þessi forrit</string>
-    <string name="home_permission_access_modify_configuration_description">Leyfir forriti að opna og breyta núverandi Xperia™ heimaskjásstillingum</string>
-    <string name="home_permission_access_modify_configuration_label">Opna og breyta núverandi heimaskjásstillingum Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">Leyfir forriti að opna og breyta núverandi Oneofakind™ heimaskjásstillingum</string>
+    <string name="home_permission_access_modify_configuration_label">Opna og breyta núverandi heimaskjásstillingum Oneofakind™</string>
     <string name="home_permission_install_widget_description">Leyfir forriti að bæta við græjum án aðgerða notanda</string>
     <string name="home_permission_install_widget_label">Setja upp græjur</string>
-    <string name="home_permission_provider_insert_badge_description">Leyfir forriti að setja tilkynningarmerki á forritatákn sín á heimaskjá Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Leyfir forriti að setja tilkynningarmerki á forritatákn sín á heimaskjá Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">setja forritamerki</string>
-    <string name="home_permission_provider_read_badge_description">Leyfir forriti að birta tilkynningarmerki á forritatáknum sínum á heimaskjá Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Leyfir forriti að birta tilkynningarmerki á forritatáknum sínum á heimaskjá Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">fá forritamerki</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Þú getur fjarlægt græjur í öryggisham</string>
     <string name="home_search_disclaimer_dialog_message">Ef þú samþykkir fyrir neðan mun Sony Mobile safna notkunarupplýsingum (notuð forrit o.s.frv.) og staðsetningu til að persónusníða meðmæli (Android™ auglýsingaauðkenni og staðsetningu verður deilt með auglýsingasamstarfsaðilum). Sony Mobile mun fara með gögnin þín í samræmi við <a href="http://sonymobile.com/privacy">persónuverndarstefnu</a> okkar</string>
@@ -214,6 +214,6 @@ Ath.: Það verður áfram geymt á SD kortinu."</string>
     <string name="settings_search_bar_dialog_title">Sýnileiki leitarstiku</string>
     <string name="settings_search_bar_hide_button_text">Fela</string>
     <string name="settings_search_bar_show_button_text">Birta</string>
-    <string name="settings_search_bar_visible_sub_text">Hreinsaðu gögn Xperia™ Home í Stillingar > Forrit til að fá leitarstikuna aftur fram.</string>
+    <string name="settings_search_bar_visible_sub_text">Hreinsaðu gögn Oneofakind™ Home í Stillingar > Forrit til að fá leitarstikuna aftur fram.</string>
     <string name="settings_search_bar_visible_text">Sýna á heimaskjá</string>
 </resources>

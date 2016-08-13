@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Упорядочить приложения</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Удалить %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Удалить приложение</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Для просмотра всех приложений проведите пальцем влево и выберите \"Свой порядок\" или \"По алфавиту\".</string>
     <string name="home_apptray_see_all_applications_txt">Для просмотра всех приложений проведите пальцем вправо и выберите \"Свой порядок\" или \"По алфавиту\".</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">"Удалить "</string>
@@ -162,7 +162,7 @@
     <string name="home_folder_dialog_create_new_txt">Создать новую папку</string>
     <string name="home_folder_dialog_folder_name_txt">Имя папки</string>
     <string name="home_folder_name_unused_apps_txt">Неисп. приложения</string>
-    <string name="home_grid_size_change_notification_text">Приложение начального экрана Xperia™ обновлено до следующей версии. Размер рабочего стола изменился, и некоторые ярлыки и виджеты перемещены согласно новой компоновке. Вы можете в любой момент изменить их расположение так, как вам удобно.</string>
+    <string name="home_grid_size_change_notification_text">Приложение начального экрана Oneofakind™ обновлено до следующей версии. Размер рабочего стола изменился, и некоторые ярлыки и виджеты перемещены согласно новой компоновке. Вы можете в любой момент изменить их расположение так, как вам удобно.</string>
     <string name="home_grid_size_change_notification_title">Внимание</string>
     <string name="home_hint_my_applications_continue">Итак, готово!</string>
     <string name="home_hint_my_applications_info">Коснитесь здесь для просмотра приложений</string>
@@ -184,13 +184,13 @@
     <string name="home_mode_manual_setting">Классический</string>
     <string name="home_mode_toggle_heading">Выбор компоновки</string>
     <string name="home_no_uninstallable_apps_txt">Невозможно удалить эти приложения</string>
-    <string name="home_permission_access_modify_configuration_description">Разрешает приложению изменять текущую конфигурацию начального экрана Xperia™</string>
-    <string name="home_permission_access_modify_configuration_label">Изменять текущую конфигурацию начального экрана Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">Разрешает приложению изменять текущую конфигурацию начального экрана Oneofakind™</string>
+    <string name="home_permission_access_modify_configuration_label">Изменять текущую конфигурацию начального экрана Oneofakind™</string>
     <string name="home_permission_install_widget_description">Разрешает приложению добавлять виджеты без участия пользователя</string>
     <string name="home_permission_install_widget_label">Устанавливать виджеты</string>
-    <string name="home_permission_provider_insert_badge_description">Разрешает приложению устанавливать значки уведомлений внутри значков приложений начального экрана Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Разрешает приложению устанавливать значки уведомлений внутри значков приложений начального экрана Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">устанавливать значки внутри значков приложений</string>
-    <string name="home_permission_provider_read_badge_description">Разрешает приложению отображать значки уведомлений внутри значков приложений начального экрана Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Разрешает приложению отображать значки уведомлений внутри значков приложений начального экрана Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">читать значки внутри значков приложений</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Можно удалить виджеты в безопасном режиме</string>
     <string name="home_search_disclaimer_dialog_message">Если вы принимаете положения ниже, Sony Mobile будет собирать информацию об использовании данных (приложений и т. п.) и местоположении для персонализации рекомендаций. (Рекламные идентификаторы Android™ и данные о местоположении будут передаваться рекламным партнерам.) Sony Mobile будет обрабатывать ваши данные в соответствии с <a href="http://sonymobile.com/privacy">Политикой конфиденциальности</a>.</string>
@@ -264,6 +264,6 @@
     <string name="settings_search_bar_dialog_title">Видим. стр. поиска</string>
     <string name="settings_search_bar_hide_button_text">Скрыть</string>
     <string name="settings_search_bar_show_button_text">Показать</string>
-    <string name="settings_search_bar_visible_sub_text">Чтобы вызвать строку поиска, очистите данные начального экрана Xperia™ в меню Параметры > Приложения.</string>
+    <string name="settings_search_bar_visible_sub_text">Чтобы вызвать строку поиска, очистите данные начального экрана Oneofakind™ в меню Параметры > Приложения.</string>
     <string name="settings_search_bar_visible_text">Показывать на начальном экране</string>
 </resources>

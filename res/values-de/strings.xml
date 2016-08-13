@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Apps sortieren</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">%1$s deinstallieren?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Anwendung deinstallieren</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Wischen Sie nach links, und wählen Sie „Eigene Sortierung“ oder „Alphabetisch“, um alle Anwendungen anzuzeigen.</string>
     <string name="home_apptray_see_all_applications_txt">Wischen Sie nach rechts, und wählen Sie „Eigene Sortierung“ oder „Alphabetisch“, um alle Anwendungen anzuzeigen.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Deinstallieren</string>
@@ -162,7 +162,7 @@ Hinweis: Die App verbleibt auf der SD-Karte."</string>
     <string name="home_folder_dialog_create_new_txt">Neuen Ordner erstellen</string>
     <string name="home_folder_dialog_folder_name_txt">Ordnername</string>
     <string name="home_folder_name_unused_apps_txt">Ungenutzte Apps</string>
-    <string name="home_grid_size_change_notification_text">Für die Startseite Ihres Xperia™ wurde ein Upgrade auf eine neue Version durchgeführt. Die Desktop-Größe wurde geändert, und einige Ihrer Verknüpfungen und Widgets wurden verschoben, damit Sie in das neue Layout passen. Sie können Ihren Desktop jederzeit neu anordnen, sodass er Ihren persönlichen Vorlieben entspricht.</string>
+    <string name="home_grid_size_change_notification_text">Für die Startseite Ihres Oneofakind™ wurde ein Upgrade auf eine neue Version durchgeführt. Die Desktop-Größe wurde geändert, und einige Ihrer Verknüpfungen und Widgets wurden verschoben, damit Sie in das neue Layout passen. Sie können Ihren Desktop jederzeit neu anordnen, sodass er Ihren persönlichen Vorlieben entspricht.</string>
     <string name="home_grid_size_change_notification_title">Hinweis</string>
     <string name="home_hint_my_applications_continue">OK, verstanden!</string>
     <string name="home_hint_my_applications_info">Tippen Sie hier, um Ihre Anwendungen anzuzeigen</string>
@@ -184,13 +184,13 @@ Hinweis: Die App verbleibt auf der SD-Karte."</string>
     <string name="home_mode_manual_setting">Klassisch</string>
     <string name="home_mode_toggle_heading">Layout auswählen</string>
     <string name="home_no_uninstallable_apps_txt">Diese Anwendungen können nicht deinstalliert werden.</string>
-    <string name="home_permission_access_modify_configuration_description">Ermöglicht einer Anwendung, auf die aktuelle Konfiguration des Xperia™ Starbildschirms zuzugreifen und diese zu ändern.</string>
-    <string name="home_permission_access_modify_configuration_label">Auf die aktuelle Konfiguration des Xperia™ Startbildschirms zugreifen und diese ändern</string>
+    <string name="home_permission_access_modify_configuration_description">Ermöglicht einer Anwendung, auf die aktuelle Konfiguration des Oneofakind™ Starbildschirms zuzugreifen und diese zu ändern.</string>
+    <string name="home_permission_access_modify_configuration_label">Auf die aktuelle Konfiguration des Oneofakind™ Startbildschirms zugreifen und diese ändern</string>
     <string name="home_permission_install_widget_description">Erlaubt einer Anwendung ohne Eingriff des Benutzers Widgets hinzuzufügen.</string>
     <string name="home_permission_install_widget_label">Widgets installieren</string>
-    <string name="home_permission_provider_insert_badge_description">Ermöglicht einer Anwendung, Benachrichtigungs-Badges auf den Symbolen der Xperia™ Home-Anwendung zu platzieren.</string>
+    <string name="home_permission_provider_insert_badge_description">Ermöglicht einer Anwendung, Benachrichtigungs-Badges auf den Symbolen der Oneofakind™ Home-Anwendung zu platzieren.</string>
     <string name="home_permission_provider_insert_badge_label">Anwendungs-Badges einrichten</string>
-    <string name="home_permission_provider_read_badge_description">Ermöglicht einer Anwendung, Benachrichtigungs-Badges auf den Symbolen der Xperia™ Home-Anwendung anzuzeigen.</string>
+    <string name="home_permission_provider_read_badge_description">Ermöglicht einer Anwendung, Benachrichtigungs-Badges auf den Symbolen der Oneofakind™ Home-Anwendung anzuzeigen.</string>
     <string name="home_permission_provider_read_badge_label">Anwendungs-Badges abrufen</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Widgets können im abgesicherten Modus entfernt werden.</string>
     <string name="home_search_disclaimer_dialog_message">Wenn Sie unten Ihre Zustimmung geben, erfasst Sony Mobile Nutzungsinfos (verwendete Apps usw.) und Ihren Standort, um Empfehlungen individueller zu gestalten (Android™-Werbe-ID und Standort werden an Werbepartner freigegeben). Sony Mobile verwendet Ihre Daten gemäß seiner <a href="http://sonymobile.com/privacy">Datenschutzrichtlinie</a></string>
@@ -264,6 +264,6 @@ Hinweis: Die App verbleibt auf der SD-Karte."</string>
     <string name="settings_search_bar_dialog_title">Suchleisten-Anzeige</string>
     <string name="settings_search_bar_hide_button_text">Ausblenden</string>
     <string name="settings_search_bar_show_button_text">Anzeigen</string>
-    <string name="settings_search_bar_visible_sub_text">Löschen Sie die Xperia™ Home-Daten unter Einstellungen > Apps, um die Suchleiste einzublenden.</string>
+    <string name="settings_search_bar_visible_sub_text">Löschen Sie die Oneofakind™ Home-Daten unter Einstellungen > Apps, um die Suchleiste einzublenden.</string>
     <string name="settings_search_bar_visible_text">Auf Startbildschirm anzeigen</string>
 </resources>

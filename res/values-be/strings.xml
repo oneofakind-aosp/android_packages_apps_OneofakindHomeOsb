@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Сартаваць праграмы</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Выдаліць %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Выдаліць прыкладанне</string>
-    <string name="home_application_name_txt">Дом Xperia™</string>
+    <string name="home_application_name_txt">Дом Oneofakind™</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Каб прагледзець усе прыкладанні, прагарніце ўлева і выберыце «Карыстальніцкі парадак» або «Алфавітны».</string>
     <string name="home_apptray_see_all_applications_txt">Каб прагледзець усе прыкладанні, прагарніце ўправа і выберыце «Карыстальніцкі парадак» або «Алфавітны».</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Выдаліць</string>
@@ -112,7 +112,7 @@
     <string name="home_folder_dialog_create_new_txt">Стварыць новую папку</string>
     <string name="home_folder_dialog_folder_name_txt">Імя папкі</string>
     <string name="home_folder_name_unused_apps_txt">Нявыкарыстаныя дадаткі</string>
-    <string name="home_grid_size_change_notification_text">Ваш галоўны экран Xperia™ абноўлены да новай версіі. Змяніўся памер працоўнага стала, і некаторыя ярлыкі і віджэты былі перанесены, каб змясціцца на новым стале. Вы заўсёды можаце перагрупіраваць элементы на працоўным стале ў адпаведнасці са сваімі пажаданнямі.</string>
+    <string name="home_grid_size_change_notification_text">Ваш галоўны экран Oneofakind™ абноўлены да новай версіі. Змяніўся памер працоўнага стала, і некаторыя ярлыкі і віджэты былі перанесены, каб змясціцца на новым стале. Вы заўсёды можаце перагрупіраваць элементы на працоўным стале ў адпаведнасці са сваімі пажаданнямі.</string>
     <string name="home_grid_size_change_notification_title">Нататка</string>
     <string name="home_hint_my_applications_continue">ОК!</string>
     <string name="home_hint_my_applications_info">Краніце тут, каб прагледзець усе прыкладанні</string>
@@ -134,13 +134,13 @@
     <string name="home_mode_manual_setting">Класічны</string>
     <string name="home_mode_toggle_heading">Выберыце кампаноўку</string>
     <string name="home_no_uninstallable_apps_txt">Гэтыя прыкладанні немагчыма выдаліць</string>
-    <string name="home_permission_access_modify_configuration_description">Дазваляе прыкладанню атрымоўваць доступ і змяняць налады бягучага галоўнага экрана Xperia™</string>
-    <string name="home_permission_access_modify_configuration_label">Атрымаць доступ і змяніць налады бягучага галоўнага экрана Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">Дазваляе прыкладанню атрымоўваць доступ і змяняць налады бягучага галоўнага экрана Oneofakind™</string>
+    <string name="home_permission_access_modify_configuration_label">Атрымаць доступ і змяніць налады бягучага галоўнага экрана Oneofakind™</string>
     <string name="home_permission_install_widget_description">Дазваляе прыкладанню дадаваць віджэты без удзелу карыстальніка</string>
     <string name="home_permission_install_widget_label">Усталяваць віджэты</string>
-    <string name="home_permission_provider_insert_badge_description">Дазваляе дадатку ўсталёўваць індыкатары апавяшчэнняў на значкі дадатку Галоўны экран Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Дазваляе дадатку ўсталёўваць індыкатары апавяшчэнняў на значкі дадатку Галоўны экран Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">устанав індыкатары прыкладанняў</string>
-    <string name="home_permission_provider_read_badge_description">Дазваляе дадатку паказваць індыкатары апавяшчэнняў на значках дадатку Галоўны экран Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Дазваляе дадатку паказваць індыкатары апавяшчэнняў на значках дадатку Галоўны экран Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">атрымаць індыкатары прыкладанняў</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Вы можаце выдаляць віджэты ў бяспечным рэжыме</string>
     <string name="home_search_disclaimer_dialog_message">Калі вы дасце сваю згоду ніжэй, Sony Mobile будзе збіраць карыстальніцкія дадзеныя (пра выкарыстанне дадаткаў і г.д.) і дадзеныя аб месцазнаходжанні, каб персаналізаваць свае рэкамендацыі. (Рэкламны ідэнтыфікатар Android™ і дадзеныя аб месцазнаходжанні будуць прадастаўляцца рэкламным партнёрам). Sony Mobile выкарыстоўвае дадзеныя ў адпаведнасці з <a href="http://sonymobile.com/privacy">Палітыкай канфідэнцыяльнасці</a></string>
@@ -214,6 +214,6 @@
     <string name="settings_search_bar_dialog_title">Бачн панэлі пошуку</string>
     <string name="settings_search_bar_hide_button_text">Схаваць</string>
     <string name="settings_search_bar_show_button_text">Паказаць</string>
-    <string name="settings_search_bar_visible_sub_text">Выдаліце даныя Галоўнага экрана Xperia™ у меню Налады > Дадаткі, каб вярнуць панэль пошуку.</string>
+    <string name="settings_search_bar_visible_sub_text">Выдаліце даныя Галоўнага экрана Oneofakind™ у меню Налады > Дадаткі, каб вярнуць панэль пошуку.</string>
     <string name="settings_search_bar_visible_text">Паказваць на Галоўным экране</string>
 </resources>

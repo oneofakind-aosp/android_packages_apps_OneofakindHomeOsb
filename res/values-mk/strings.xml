@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Сортирај апликации</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">"Да се деинсталира  %1$s?"</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Деинсталир. апликација</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">За да ги видите сите апликации, поминете со прстот налево и изберете прилагоден или азбучен редослед.</string>
     <string name="home_apptray_see_all_applications_txt">За да ги видите сите апликации, поминете со прстот надесно и изберете прилагоден или азбучен редослед.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">"Деинсталирај "</string>
@@ -112,7 +112,7 @@
     <string name="home_folder_dialog_create_new_txt">Креирај нова папка</string>
     <string name="home_folder_dialog_folder_name_txt">Име на папката</string>
     <string name="home_folder_name_unused_apps_txt">Неискористени апликации</string>
-    <string name="home_grid_size_change_notification_text">Почетниот екран на Xperia™ е надграден на нова верзија. Големината на десктопот е изменета и некои од вашите кратенки и елементи се преместени за да се вклопат во новиот распоред. Може да го преуредите десктопот во секое време за подобро да соодветствува со вашите лични избори.</string>
+    <string name="home_grid_size_change_notification_text">Почетниот екран на Oneofakind™ е надграден на нова верзија. Големината на десктопот е изменета и некои од вашите кратенки и елементи се преместени за да се вклопат во новиот распоред. Може да го преуредите десктопот во секое време за подобро да соодветствува со вашите лични избори.</string>
     <string name="home_grid_size_change_notification_title">Забелешка</string>
     <string name="home_hint_my_applications_continue">Во ред, разбрав!</string>
     <string name="home_hint_my_applications_info">Допрете тука за приказ на своите апликации</string>
@@ -134,13 +134,13 @@
     <string name="home_mode_manual_setting">Класичен</string>
     <string name="home_mode_toggle_heading">Одбери изглед</string>
     <string name="home_no_uninstallable_apps_txt">Овие апликации не може да се деинсталираат</string>
-    <string name="home_permission_access_modify_configuration_description">Ѝ овозможува на апликацијата да пристапи и да ја измени тековната конфигурација на почетниот екран од Xperia™</string>
-    <string name="home_permission_access_modify_configuration_label">Пристапи и измени ја тековната конфигурација на почетниот екран од Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">Ѝ овозможува на апликацијата да пристапи и да ја измени тековната конфигурација на почетниот екран од Oneofakind™</string>
+    <string name="home_permission_access_modify_configuration_label">Пристапи и измени ја тековната конфигурација на почетниот екран од Oneofakind™</string>
     <string name="home_permission_install_widget_description">Дозволете апликација да додава додатоци без интервенција на корисникот</string>
     <string name="home_permission_install_widget_label">Инсталирај додатоци</string>
-    <string name="home_permission_provider_insert_badge_description">Ѝ овозможува на апликацијата да поставува беџови за известување на иконите од апликацијата Почеток на Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Ѝ овозможува на апликацијата да поставува беџови за известување на иконите од апликацијата Почеток на Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">постави беџови за апликации</string>
-    <string name="home_permission_provider_read_badge_description">Ѝ овозможува на апликацијата да прикажува беџови за известување на иконите од апликацијата Почеток на Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Ѝ овозможува на апликацијата да прикажува беџови за известување на иконите од апликацијата Почеток на Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">земи беџови за апликации</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Може да отстранувате елементи во безбедниот режим</string>
     <string name="home_search_disclaimer_dialog_message">Доколку се согласите, Sony Mobile ќе ги собира информациите за користењето (користени апликации итн.) и локацијата за персонализирање на препораките. (Рекламниот ИД и локацијата на Android™ ќе се споделат со рекламните партнери. Sony Mobile ќе постапува со вашите податоци според<a href="http://sonymobile.com/privacy">правилата за приватност</a></string>
@@ -214,6 +214,6 @@
     <string name="settings_search_bar_dialog_title">Лент. за преб.- видл.</string>
     <string name="settings_search_bar_hide_button_text">Скриј</string>
     <string name="settings_search_bar_show_button_text">Покажи</string>
-    <string name="settings_search_bar_visible_sub_text">Избришете ги податоците на Xperia™ Home во Поставки > Апликации за да ја вратите лентата за пребарување.</string>
+    <string name="settings_search_bar_visible_sub_text">Избришете ги податоците на Oneofakind™ Home во Поставки > Апликации за да ја вратите лентата за пребарување.</string>
     <string name="settings_search_bar_visible_text">Покажи на почетен екран</string>
 </resources>

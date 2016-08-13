@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Alkalmazások rendezése</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Eltávolítja a következőt: %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Alkalmazás eltávolítása</string>
-    <string name="home_application_name_txt">Xperia™ kezdőképernyő</string>
+    <string name="home_application_name_txt">Oneofakind™ kezdőképernyő</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Ha az összes alkalmazást szeretné látni, csúsztasson balra, és válassza az Egyéni rendezés vagy a Betűrendben kategóriát.</string>
     <string name="home_apptray_see_all_applications_txt">Ha az összes alkalmazást szeretné látni, csúsztasson jobbra, és válassza az Egyéni rendezés vagy a Betűrendben kategóriát.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Eltávolítás</string>
@@ -162,7 +162,7 @@ Megjegyzés: továbbra is megtalálható lesz az SD-kártyán."</string>
     <string name="home_folder_dialog_create_new_txt">Új mappa létrehozása</string>
     <string name="home_folder_dialog_folder_name_txt">Mappa neve</string>
     <string name="home_folder_name_unused_apps_txt">Nem használt alkalmazások</string>
-    <string name="home_grid_size_change_notification_text">Az Xperia™ kezdőképernyője új verzióra frissült. Módosult az asztal mérete, és egyes parancsikonokat és alkalmazásfelületeket áthelyeztünk, hogy illeszkedjenek az új elrendezéshez. Az asztalt bármikor átrendezheti a személyes igényeinek megfelelően.</string>
+    <string name="home_grid_size_change_notification_text">Az Oneofakind™ kezdőképernyője új verzióra frissült. Módosult az asztal mérete, és egyes parancsikonokat és alkalmazásfelületeket áthelyeztünk, hogy illeszkedjenek az új elrendezéshez. Az asztalt bármikor átrendezheti a személyes igényeinek megfelelően.</string>
     <string name="home_grid_size_change_notification_title">Megjegyzés</string>
     <string name="home_hint_my_applications_continue">Rendben, értem!</string>
     <string name="home_hint_my_applications_info">Koppintson ide az alkalmazások megnézéséhez</string>
@@ -184,13 +184,13 @@ Megjegyzés: továbbra is megtalálható lesz az SD-kártyán."</string>
     <string name="home_mode_manual_setting">Klasszikus</string>
     <string name="home_mode_toggle_heading">Elrendezés kiválasztása</string>
     <string name="home_no_uninstallable_apps_txt">Ezek az alkalmazások nem távolíthatók el</string>
-    <string name="home_permission_access_modify_configuration_description">Az alkalmazások elérhetik és módosíthatják az Xperia™ kezdőképernyő konfigurációját</string>
-    <string name="home_permission_access_modify_configuration_label">A jelenlegi Xperia™ kezdőképernyő konfigurációjának elérése és módosítása</string>
+    <string name="home_permission_access_modify_configuration_description">Az alkalmazások elérhetik és módosíthatják az Oneofakind™ kezdőképernyő konfigurációját</string>
+    <string name="home_permission_access_modify_configuration_label">A jelenlegi Oneofakind™ kezdőképernyő konfigurációjának elérése és módosítása</string>
     <string name="home_permission_install_widget_description">Az alkalmazások felhasználói beavatkozás nélkül adhatnak hozzá alkalmazásfelületeket</string>
     <string name="home_permission_install_widget_label">Alkalmazásfelületek telepítése</string>
-    <string name="home_permission_provider_insert_badge_description">Lehetővé teszi az alkalmazásoknak, hogy értesítési címkékkel lássák el az Xperia™ Kezdőképernyő alkalmazásikonjait</string>
+    <string name="home_permission_provider_insert_badge_description">Lehetővé teszi az alkalmazásoknak, hogy értesítési címkékkel lássák el az Oneofakind™ Kezdőképernyő alkalmazásikonjait</string>
     <string name="home_permission_provider_insert_badge_label">alkalmazáscímkék beállítása</string>
-    <string name="home_permission_provider_read_badge_description">Lehetővé teszi az alkalmazásoknak, hogy értesítési címkéket jelenítsenek meg az Xperia™ Kezdőképernyő alkalmazásikonjain</string>
+    <string name="home_permission_provider_read_badge_description">Lehetővé teszi az alkalmazásoknak, hogy értesítési címkéket jelenítsenek meg az Oneofakind™ Kezdőképernyő alkalmazásikonjain</string>
     <string name="home_permission_provider_read_badge_label">alkalmazáscímkék beolvasása</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Csökkentett módban eltávolíthat alkalmazásfelületeket</string>
     <string name="home_search_disclaimer_dialog_message">Ha alább elfogadja, az ajánlatok személyre szabása végett a Sony Mobile összegyűjti a használati adatokat (használt alkalmazások stb.) és a tartózkodási helyét. (Az Android™ hirdetési azonosítót és helyet megosztjuk a hirdetési partnerekkel). A Sony Mobile az <a href="http://sonymobile.com/privacy">adatvédelmi szabályzatának</a> megfelelőn kezeli az adatokat.</string>
@@ -264,6 +264,6 @@ Megjegyzés: továbbra is megtalálható lesz az SD-kártyán."</string>
     <string name="settings_search_bar_dialog_title">Keresősáv láthatósága</string>
     <string name="settings_search_bar_hide_button_text">Elrejtés</string>
     <string name="settings_search_bar_show_button_text">Visszaállítás</string>
-    <string name="settings_search_bar_visible_sub_text">Törölje az Xperia™ kezdőképernyőjének adatait a Beállítások > Alkalmazások pontban a keresősáv visszaállításához.</string>
+    <string name="settings_search_bar_visible_sub_text">Törölje az Oneofakind™ kezdőképernyőjének adatait a Beállítások > Alkalmazások pontban a keresősáv visszaállításához.</string>
     <string name="settings_search_bar_visible_text">Megjelenítés a kezdőképernyőn</string>
 </resources>

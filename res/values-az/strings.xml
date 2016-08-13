@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Proq çeşidlərə ayır</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">%1$s ləğv et?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Proq ləğv et</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Bütün proqramları görmək üçün sola çək və Fərdi sıranı və ya Əlifba sırasını seç.</string>
     <string name="home_apptray_see_all_applications_txt">Bütün proqramları görmək üçün sağa çək və Fərdi sıranı və ya Əlifba sırasını seç.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Ləğv et</string>
@@ -112,7 +112,7 @@ Qeyd: o, hələ də SD kartda saxlanılacaq."</string>
     <string name="home_folder_dialog_create_new_txt">Yeni qovluq yarat</string>
     <string name="home_folder_dialog_folder_name_txt">Qovluğun adı</string>
     <string name="home_folder_name_unused_apps_txt">İst edilməyn proq</string>
-    <string name="home_grid_size_change_notification_text">Sizin Xperia™ Ev yeni versiyaya yenilənmişdir. İş masasının ölçüsü dəyişdirilmiş və qısayollarınız və piktoqramlarınızdan bəziləri yeni tərtibə uyğun olmaq üçün silinmişdir. Siz şəxsi üstünlüklərinizə uyğun olması üçün həmişə iş masanızı yenidən nizamlaya bilərsiniz.</string>
+    <string name="home_grid_size_change_notification_text">Sizin Oneofakind™ Ev yeni versiyaya yenilənmişdir. İş masasının ölçüsü dəyişdirilmiş və qısayollarınız və piktoqramlarınızdan bəziləri yeni tərtibə uyğun olmaq üçün silinmişdir. Siz şəxsi üstünlüklərinizə uyğun olması üçün həmişə iş masanızı yenidən nizamlaya bilərsiniz.</string>
     <string name="home_grid_size_change_notification_title">Qeyd</string>
     <string name="home_hint_my_applications_continue">OK, başa düşdüm!</string>
     <string name="home_hint_my_applications_info">Sənin proqramlarını görmək üçün buraya toxun</string>
@@ -134,13 +134,13 @@ Qeyd: o, hələ də SD kartda saxlanılacaq."</string>
     <string name="home_mode_manual_setting">Klassik</string>
     <string name="home_mode_toggle_heading">Tərtibatı seçin</string>
     <string name="home_no_uninstallable_apps_txt">Bu proq ləğv etmək mümkün deyil</string>
-    <string name="home_permission_access_modify_configuration_description">Proqrama hazırki Xperia™ ana ekran konfiqurasiyasına çıxmaq və onu dəyişmək imkanı verir</string>
-    <string name="home_permission_access_modify_configuration_label">Hazırki Xperia™ ana ekran konfiqurasiyasına çıx və dəyiş</string>
+    <string name="home_permission_access_modify_configuration_description">Proqrama hazırki Oneofakind™ ana ekran konfiqurasiyasına çıxmaq və onu dəyişmək imkanı verir</string>
+    <string name="home_permission_access_modify_configuration_label">Hazırki Oneofakind™ ana ekran konfiqurasiyasına çıx və dəyiş</string>
     <string name="home_permission_install_widget_description">İstifadəçinin müdaxiləsi olmadan proqrama interfeys elementləri əlavə etməyə imkan verir</string>
     <string name="home_permission_install_widget_label">İnterfeys elementlərini quraşdır</string>
-    <string name="home_permission_provider_insert_badge_description">Proqrama Xperia™ Əsas proqram nişanlarında bildiriş emblemləri qurmaq imkanı verir</string>
+    <string name="home_permission_provider_insert_badge_description">Proqrama Oneofakind™ Əsas proqram nişanlarında bildiriş emblemləri qurmaq imkanı verir</string>
     <string name="home_permission_provider_insert_badge_label">proqram embləmlərini qur</string>
-    <string name="home_permission_provider_read_badge_description">Proqrama bildiriş emblemlərini Xperia™ Əsas proqram nişanlarında göstərmək imkanı verir</string>
+    <string name="home_permission_provider_read_badge_description">Proqrama bildiriş emblemlərini Oneofakind™ Əsas proqram nişanlarında göstərmək imkanı verir</string>
     <string name="home_permission_provider_read_badge_label">proqram emblemləri əldə et</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Sən interfeys elementlərini təhlükəsiz rejimdə silə bilərsən</string>
     <string name="home_search_disclaimer_dialog_message">Aşağıda razılıq versəniz, Sony Mobile tövsiyələri fərdiləşdirmək üçün istifadə (istifadə edilmiş proqramlar və s.) və məkan məlumatlarını toplayacaq. (Android™ reklam identifikatoru və məkan reklam partnyorları ilə paylaşılacaq). Sony Mobile məlumatlarınızı <a href="http://sonymobile.com/privacy">Məxfilik Siyasətimizə</a> əsasən idarə edəcək</string>
@@ -214,6 +214,6 @@ Qeyd: o, hələ də SD kartda saxlanılacaq."</string>
     <string name="settings_search_bar_dialog_title">Axtar panel görün</string>
     <string name="settings_search_bar_hide_button_text">Gizlət</string>
     <string name="settings_search_bar_show_button_text">Göstər</string>
-    <string name="settings_search_bar_visible_sub_text">Axtarış panelini geri qaytarmaq üçün Parametrlər > Proqramlar seçərək Xperia™ Əsas ekran məlumatını sil.</string>
+    <string name="settings_search_bar_visible_sub_text">Axtarış panelini geri qaytarmaq üçün Parametrlər > Proqramlar seçərək Oneofakind™ Əsas ekran məlumatını sil.</string>
     <string name="settings_search_bar_visible_text">Əsas ekranda göstər</string>
 </resources>

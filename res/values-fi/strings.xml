@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Lajittele sovellukset</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Poistetaanko kohteen %1$s asennus?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Poista sovell. asennus</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Jos haluat kaikki sovellukset näkyviin, sipaise vasemmalle ja valitse Mukautettu järjestys tai Aakkosjärjestys.</string>
     <string name="home_apptray_see_all_applications_txt">Jos haluat nähdä kaikki sovellukset, sipaise oikealle ja valitse Mukautettu järjestys tai Aakkosjärjestys.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Poista asennus</string>
@@ -162,7 +162,7 @@ Huomautus: se pysyy yhä tallennettuna SD-kortilla."</string>
     <string name="home_folder_dialog_create_new_txt">Luo uusi kansio</string>
     <string name="home_folder_dialog_folder_name_txt">Kansion nimi</string>
     <string name="home_folder_name_unused_apps_txt">Käyttämättömät sovellukset</string>
-    <string name="home_grid_size_change_notification_text">Xperia™-aloitusruutu on päivitetty uuteen versioon. Työpöydän kokoa on muutettu ja osa pikakomennoista ja lisäohjelmista on siirretty uuteen asetteluun. Voit järjestää työpöytää uudelleen, jos haluat tehdä siitä enemmän mieltymystesi kaltaisen.</string>
+    <string name="home_grid_size_change_notification_text">Oneofakind™-aloitusruutu on päivitetty uuteen versioon. Työpöydän kokoa on muutettu ja osa pikakomennoista ja lisäohjelmista on siirretty uuteen asetteluun. Voit järjestää työpöytää uudelleen, jos haluat tehdä siitä enemmän mieltymystesi kaltaisen.</string>
     <string name="home_grid_size_change_notification_title">Huomautus</string>
     <string name="home_hint_my_applications_continue">OK, selvä!</string>
     <string name="home_hint_my_applications_info">Tuo omat sovellukset näkyviin napauttamalla tätä</string>
@@ -184,13 +184,13 @@ Huomautus: se pysyy yhä tallennettuna SD-kortilla."</string>
     <string name="home_mode_manual_setting">Perinteinen</string>
     <string name="home_mode_toggle_heading">Valitse asettelu</string>
     <string name="home_no_uninstallable_apps_txt">Näiden sovellusten asennusta ei voi poistaa</string>
-    <string name="home_permission_access_modify_configuration_description">Sallii sovelluksen käyttää ja muuttaa nykyistä Xperia™-aloitusnäytön kokoonpanoa</string>
-    <string name="home_permission_access_modify_configuration_label">Nykyisen Xperia™-aloitusnäytön kokoonpanon käyttäminen ja muuttaminen</string>
+    <string name="home_permission_access_modify_configuration_description">Sallii sovelluksen käyttää ja muuttaa nykyistä Oneofakind™-aloitusnäytön kokoonpanoa</string>
+    <string name="home_permission_access_modify_configuration_label">Nykyisen Oneofakind™-aloitusnäytön kokoonpanon käyttäminen ja muuttaminen</string>
     <string name="home_permission_install_widget_description">Sallii sovelluksen lisätä lisäohjelmia ilman käyttäjän toimia</string>
     <string name="home_permission_install_widget_label">Asenna lisäohjelmat</string>
-    <string name="home_permission_provider_insert_badge_description">Sallii sovelluksen määrittää ilmoitusmerkkejä Xperia™-aloitusnäytön sovelluskuvakkeisiin</string>
+    <string name="home_permission_provider_insert_badge_description">Sallii sovelluksen määrittää ilmoitusmerkkejä Oneofakind™-aloitusnäytön sovelluskuvakkeisiin</string>
     <string name="home_permission_provider_insert_badge_label">sovellusmerkkien määrittäminen</string>
-    <string name="home_permission_provider_read_badge_description">Sallii sovelluksen näyttää ilmoitusmerkkejä Xperia™-aloitusnäytön sovelluskuvakkeissa</string>
+    <string name="home_permission_provider_read_badge_description">Sallii sovelluksen näyttää ilmoitusmerkkejä Oneofakind™-aloitusnäytön sovelluskuvakkeissa</string>
     <string name="home_permission_provider_read_badge_label">sovellusmerkkien hankkiminen</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Voit poistaa lisäohjelmia vikasietotilassa</string>
     <string name="home_search_disclaimer_dialog_message">Jos hyväksyt alla olevat ehdot, Sony Mobile kerää käyttötietosi (käytetyt sovellukset jne.) ja sijaintitietosi, jotta se voi räätälöidä suosituksia. (Android™-mainostunnus ja sijainti jaetaan mainoskumppaneiden kanssa). Sony Mobile käsittelee tietojasi <a href="http://sonymobile.com/privacy">tietosuojakäytännön</a> mukaisesti.</string>
@@ -264,6 +264,6 @@ Huomautus: se pysyy yhä tallennettuna SD-kortilla."</string>
     <string name="settings_search_bar_dialog_title">Hakupalkin näkyvyys</string>
     <string name="settings_search_bar_hide_button_text">Piilota</string>
     <string name="settings_search_bar_show_button_text">Näytä</string>
-    <string name="settings_search_bar_visible_sub_text">Palauta hakupalkki poistamalla Xperia™-aloitusnäytön tiedot kohdassa Asetukset > Sovellukset.</string>
+    <string name="settings_search_bar_visible_sub_text">Palauta hakupalkki poistamalla Oneofakind™-aloitusnäytön tiedot kohdassa Asetukset > Sovellukset.</string>
     <string name="settings_search_bar_visible_text">Näytä aloitusnäytössä</string>
 </resources>

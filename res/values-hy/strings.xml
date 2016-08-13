@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Տսկվրլ աշխտծրգրրը</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Ապատեղադրե՞լ %1$s-ը:</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Ապտղդրլ ծրգ հվլվծը</string>
-    <string name="home_application_name_txt">Xperia™ Տուն</string>
+    <string name="home_application_name_txt">Oneofakind™ Տուն</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Բոլոր աշխատածրագրերը տեսնելու համար մատն անցկացրեք դեպի ձախ և ընտրեք Հատուկ կամ Այբբենական հերթականությունը:</string>
     <string name="home_apptray_see_all_applications_txt">Բոլոր աշխատածրագրերը տեսնելու համար մատն անցկացրեք դեպի աջ և ընտրեք Հատուկ կամ Այբբենական հերթականությունը:</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Ապատեղադրել</string>
@@ -112,7 +112,7 @@
     <string name="home_folder_dialog_create_new_txt">Ստեղծել նոր պանակ</string>
     <string name="home_folder_dialog_folder_name_txt">Պանակի անունը</string>
     <string name="home_folder_name_unused_apps_txt">Չգործծվղ աշխտծրգրեր</string>
-    <string name="home_grid_size_change_notification_text">Ձեր Xperia™ Տունը նորացվել է նոր տարբերակի: Աշխատասեղանի չափը փոխվել է և ձեր դյուրանցումներից և պատկերագրերից մի քանիսը տեղափոխվել են՝ նոր դասավորվածքին համապատասխանելու համար: Դուք միշտ կարող եք վերադասավորել ձեր աշխատասեղանը և համապատասխանեցնել այն ձեր անձնական նախընտրություններին:</string>
+    <string name="home_grid_size_change_notification_text">Ձեր Oneofakind™ Տունը նորացվել է նոր տարբերակի: Աշխատասեղանի չափը փոխվել է և ձեր դյուրանցումներից և պատկերագրերից մի քանիսը տեղափոխվել են՝ նոր դասավորվածքին համապատասխանելու համար: Դուք միշտ կարող եք վերադասավորել ձեր աշխատասեղանը և համապատասխանեցնել այն ձեր անձնական նախընտրություններին:</string>
     <string name="home_grid_size_change_notification_title">Նշում</string>
     <string name="home_hint_my_applications_continue">Լավ, հասկացա:</string>
     <string name="home_hint_my_applications_info">Թակեք այստեղ՝ ձեր աշխատածրագրերը դիտելու համար</string>
@@ -134,13 +134,13 @@
     <string name="home_mode_manual_setting">Դասական</string>
     <string name="home_mode_toggle_heading">Ընտրել դասավորվածքը</string>
     <string name="home_no_uninstallable_apps_txt">Այս ծրագրային հավելվածները անհնար է ապատեղադրել</string>
-    <string name="home_permission_access_modify_configuration_description">Ծրագրին թույլ է տալիս մուտք գործել և փոխել ընթացիկ Xperia™ գլխավոր էկրանի կազմաձևումը</string>
-    <string name="home_permission_access_modify_configuration_label">մուտք գործել և փոխել ընթացիկ Xperia™ գլխավոր էկրանի կազմաձևումը</string>
+    <string name="home_permission_access_modify_configuration_description">Ծրագրին թույլ է տալիս մուտք գործել և փոխել ընթացիկ Oneofakind™ գլխավոր էկրանի կազմաձևումը</string>
+    <string name="home_permission_access_modify_configuration_label">մուտք գործել և փոխել ընթացիկ Oneofakind™ գլխավոր էկրանի կազմաձևումը</string>
     <string name="home_permission_install_widget_description">Ծրագրային հավելվածին թույլ է տալիս հավելել պատկերագրեր առանց օգտագործողի միջամտության</string>
     <string name="home_permission_install_widget_label">Տեղադրել պատկերագրեր</string>
-    <string name="home_permission_provider_insert_badge_description">Աշխատածրագրին թույլ է տալիս տեղակայել ծանուցման կրծքանշաններ իր Xperia™ Տուն աշխատածրագրի պատկերակների վրա</string>
+    <string name="home_permission_provider_insert_badge_description">Աշխատածրագրին թույլ է տալիս տեղակայել ծանուցման կրծքանշաններ իր Oneofakind™ Տուն աշխատածրագրի պատկերակների վրա</string>
     <string name="home_permission_provider_insert_badge_label">տեղադրել աշխատածրագրի կրծքանշանները</string>
-    <string name="home_permission_provider_read_badge_description">Աշխատածրագրին թույլ է տալիս ցուցադրել ծանուցման կրծքանշաններ իր Xperia™ Տուն աշխատածրագրի պատկերակների վրա</string>
+    <string name="home_permission_provider_read_badge_description">Աշխատածրագրին թույլ է տալիս ցուցադրել ծանուցման կրծքանշաններ իր Oneofakind™ Տուն աշխատածրագրի պատկերակների վրա</string>
     <string name="home_permission_provider_read_badge_label">ստանալ աշխատածրագրի կրծքանշանները</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Ապահով ռեժիմում կարող եք հեռացնել պատկերագրերը</string>
     <string name="home_search_disclaimer_dialog_message">Եթե ստորև տաք ձեր համաձայնությունը, ապա խորհուրդներն անհատականացնելու նպատակով Sony Mobile-ը կհավաքի սարքի օգտագործման (օրինակ՝ օգտագործված աշխատածրագրեր և այլն) և տեղադրության տվյալները: (Android™ գովազդի ID-ն և տեղադրությունը տրամադրվելու են գովազդային գործընկերներին): Sony Mobile-ը ձեր տվյալները կմշակի մեր <a href="http://sonymobile.com/privacy">Գաղտնիության քաղաքականության</a> համաձայն</string>
@@ -214,6 +214,6 @@
     <string name="settings_search_bar_dialog_title">Որնմն գտու տսնլթ</string>
     <string name="settings_search_bar_hide_button_text">Թաքցնել</string>
     <string name="settings_search_bar_show_button_text">Ցուցադրել</string>
-    <string name="settings_search_bar_visible_sub_text">Որոնման գոտին հետ բերելու համար մաքրեք Xperia™ Գլխավոր էկրանի տվյալները, անցնելով դեպի Պարամետրեր > Աշխատածրագրեր</string>
+    <string name="settings_search_bar_visible_sub_text">Որոնման գոտին հետ բերելու համար մաքրեք Oneofakind™ Գլխավոր էկրանի տվյալները, անցնելով դեպի Պարամետրեր > Աշխատածրագրեր</string>
     <string name="settings_search_bar_visible_text">Ցուցադրել Գլխավոր էկրանում</string>
 </resources>

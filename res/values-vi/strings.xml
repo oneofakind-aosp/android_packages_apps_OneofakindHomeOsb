@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Sắp xếp ứng dụng</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Gỡ cài đặt %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Gỡ cài đặt ứng dụng</string>
-    <string name="home_application_name_txt">"Màn hình Chính  Xperia™"</string>
+    <string name="home_application_name_txt">"Màn hình Chính  Oneofakind™"</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Để xem tất cả các ứng dụng, hãy vuốt sang trái và chọn Thứ tự tùy thích hoặc Bảng chữ cái.</string>
     <string name="home_apptray_see_all_applications_txt">Để xem tất cả ứng dụng, hãy vuốt sang phải và chọn Thứ tự tùy thích hoặc Bảng chữ cái.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Gỡ cài đặt</string>
@@ -162,7 +162,7 @@ Lưu ý: ứng dụng sẽ vẫn được lưu trên thẻ SD."</string>
     <string name="home_folder_dialog_create_new_txt">Tạo thư mục mới</string>
     <string name="home_folder_dialog_folder_name_txt">Tên thư mục</string>
     <string name="home_folder_name_unused_apps_txt">Ứng dụng không dùng</string>
-    <string name="home_grid_size_change_notification_text">Màn hình chính Xperia™ đã được nâng cấp lên phiên bản mới. Kích thước màn hình đã thay đổi và một số phím tắt và tiện ích đã được di chuyển để vừa với bố cục mới. Bạn luôn có thể sắp xếp lại màn hình để phù hợp hơn với tùy chọn cá nhân của mình.</string>
+    <string name="home_grid_size_change_notification_text">Màn hình chính Oneofakind™ đã được nâng cấp lên phiên bản mới. Kích thước màn hình đã thay đổi và một số phím tắt và tiện ích đã được di chuyển để vừa với bố cục mới. Bạn luôn có thể sắp xếp lại màn hình để phù hợp hơn với tùy chọn cá nhân của mình.</string>
     <string name="home_grid_size_change_notification_title">Lưu ý</string>
     <string name="home_hint_my_applications_continue">OK, bỏ qua!</string>
     <string name="home_hint_my_applications_info">Nhấn vào đây để xem ứng dụng của bạn</string>
@@ -184,13 +184,13 @@ Lưu ý: ứng dụng sẽ vẫn được lưu trên thẻ SD."</string>
     <string name="home_mode_manual_setting">Cổ điển</string>
     <string name="home_mode_toggle_heading">Chọn bố cục</string>
     <string name="home_no_uninstallable_apps_txt">Không thể gỡ cài đặt các ứng dụng này</string>
-    <string name="home_permission_access_modify_configuration_description">Cho phép ứng dụng truy cập và thay đổi cấu hình màn hình chính Xperia™ hiện tại</string>
-    <string name="home_permission_access_modify_configuration_label">Truy cập và thay đổi cấu hình màn hình chính Xperia™ hiện tại</string>
+    <string name="home_permission_access_modify_configuration_description">Cho phép ứng dụng truy cập và thay đổi cấu hình màn hình chính Oneofakind™ hiện tại</string>
+    <string name="home_permission_access_modify_configuration_label">Truy cập và thay đổi cấu hình màn hình chính Oneofakind™ hiện tại</string>
     <string name="home_permission_install_widget_description">Cho phép ứng dụng thêm tiện ích mà người dùng không cần phải can thiệp</string>
     <string name="home_permission_install_widget_label">Cài đặt tiện ích</string>
-    <string name="home_permission_provider_insert_badge_description">Cho phép ứng dụng đặt huy hiệu thông báo trên biểu tượng ứng dụng Chính Xperia™ của ứng dụng</string>
+    <string name="home_permission_provider_insert_badge_description">Cho phép ứng dụng đặt huy hiệu thông báo trên biểu tượng ứng dụng Chính Oneofakind™ của ứng dụng</string>
     <string name="home_permission_provider_insert_badge_label">đặt huy hiệu ứng dụng</string>
-    <string name="home_permission_provider_read_badge_description">Cho phép ứng dụng hiển thị huy hiệu thông báo trên biểu tượng ứng dụng Chính Xperia™ của ứng dụng</string>
+    <string name="home_permission_provider_read_badge_description">Cho phép ứng dụng hiển thị huy hiệu thông báo trên biểu tượng ứng dụng Chính Oneofakind™ của ứng dụng</string>
     <string name="home_permission_provider_read_badge_label">đặt huy hiệu ứng dụng</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Bạn có thể xóa các tiện ích ở chế độ an toàn</string>
     <string name="home_search_disclaimer_dialog_message">Nếu bạn đồng ý với các mục bên dưới, Sony Mobile sẽ thu thập thông tin sử dụng (ứng dụng đã sử dụng, v.v) và vị trí để cá nhân hóa đề xuất. (Vị trí và ID quảng cáo Android™ sẽ được chia sẻ với đối tác quảng cáo). Sony Mobile sẽ xử lý dữ liệu của bạn theo <a href="http://sonymobile.com/privacy">Chính sách bảo mật</a> của chúng tôi</string>
@@ -264,6 +264,6 @@ Lưu ý: ứng dụng sẽ vẫn được lưu trên thẻ SD."</string>
     <string name="settings_search_bar_dialog_title">Hiển thị thanh tìm kiếm</string>
     <string name="settings_search_bar_hide_button_text">Giấu</string>
     <string name="settings_search_bar_show_button_text">Hiển thị</string>
-    <string name="settings_search_bar_visible_sub_text">Xóa dữ liệu Xperia™ Home trong Cài đặt > Ứng dụng để hiển thị lại thanh Tìm kiếm.</string>
+    <string name="settings_search_bar_visible_sub_text">Xóa dữ liệu Oneofakind™ Home trong Cài đặt > Ứng dụng để hiển thị lại thanh Tìm kiếm.</string>
     <string name="settings_search_bar_visible_text">Hiển thị trên màn hình Chủ</string>
 </resources>

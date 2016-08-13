@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Apps sorteren</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">%1$s verwijderen?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Applicatie verwijderen</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Veeg naar links en selecteer Aangepaste volgorde of Alfabetisch om alle applicaties weer te geven.</string>
     <string name="home_apptray_see_all_applications_txt">Veeg naar rechts en selecteer Aangepaste volgorde of Alfabetisch om alle applicaties weer te geven.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Verwijderen</string>
@@ -162,7 +162,7 @@ Opmerking: de app is nog opgeslagen op de SD-kaart."</string>
     <string name="home_folder_dialog_create_new_txt">Nieuwe map maken</string>
     <string name="home_folder_dialog_folder_name_txt">Mapnaam</string>
     <string name="home_folder_name_unused_apps_txt">Ongebruikte apps</string>
-    <string name="home_grid_size_change_notification_text">Er is een nieuwe versie voor Xperia™ Start beschikbaar. De bureaubladversie is gewijzigd en sommige snelkoppelingen en widgets zijn verplaatst wegens ruimtebeperkingen van de nieuwe lay-out. U kunt het bureaublad desgewenst altijd herschikken.</string>
+    <string name="home_grid_size_change_notification_text">Er is een nieuwe versie voor Oneofakind™ Start beschikbaar. De bureaubladversie is gewijzigd en sommige snelkoppelingen en widgets zijn verplaatst wegens ruimtebeperkingen van de nieuwe lay-out. U kunt het bureaublad desgewenst altijd herschikken.</string>
     <string name="home_grid_size_change_notification_title">Opmerking</string>
     <string name="home_hint_my_applications_continue">OK, klaar!</string>
     <string name="home_hint_my_applications_info">Tik hier om uw applicaties weer te geven</string>
@@ -184,13 +184,13 @@ Opmerking: de app is nog opgeslagen op de SD-kaart."</string>
     <string name="home_mode_manual_setting">Klassiek</string>
     <string name="home_mode_toggle_heading">Indeling kiezen</string>
     <string name="home_no_uninstallable_apps_txt">Deze applicaties kunnen niet worden verwijderd</string>
-    <string name="home_permission_access_modify_configuration_description">Hiermee kan een applicatie het Xperia™-startscherm openen en de configuratie wijzigen</string>
-    <string name="home_permission_access_modify_configuration_label">Toegang en huidige configuratie van het Xperia™-startscherm wijzigen</string>
+    <string name="home_permission_access_modify_configuration_description">Hiermee kan een applicatie het Oneofakind™-startscherm openen en de configuratie wijzigen</string>
+    <string name="home_permission_access_modify_configuration_label">Toegang en huidige configuratie van het Oneofakind™-startscherm wijzigen</string>
     <string name="home_permission_install_widget_description">Hiermee kan een applicatie widgets installeren zonder tussenkomst van de gebruiker</string>
     <string name="home_permission_install_widget_label">Widgets installeren</string>
-    <string name="home_permission_provider_insert_badge_description">Hiermee kan een applicatie meldingsbadges instellen op de applicatiepictogrammen van Xperia™ Startpagina</string>
+    <string name="home_permission_provider_insert_badge_description">Hiermee kan een applicatie meldingsbadges instellen op de applicatiepictogrammen van Oneofakind™ Startpagina</string>
     <string name="home_permission_provider_insert_badge_label">applicatiebadges instellen</string>
-    <string name="home_permission_provider_read_badge_description">Hiermee kan een applicatie meldingsbadges weergeven op de applicatiepictogrammen van Xperia™ Startpagina</string>
+    <string name="home_permission_provider_read_badge_description">Hiermee kan een applicatie meldingsbadges weergeven op de applicatiepictogrammen van Oneofakind™ Startpagina</string>
     <string name="home_permission_provider_read_badge_label">applicatiebadges ophalen</string>
     <string name="home_safe_mode_remove_widget_toast_txt">U kunt widgets verwijderen in de veilige modus</string>
     <string name="home_search_disclaimer_dialog_message">Als u hieronder akkoord gaat, verzamelt Sony Mobile gegevens over uw gebruik (gebruikte apps, enz.) en locatie om aanbevelingen te personaliseren. (Android™-advertentie-id en locatie worden gedeeld met reclamepartners.) Sony Mobile behandelt uw gegevens in overeenstemming met ons <a href="http://sonymobile.com/privacy">privacybeleid</a></string>
@@ -264,6 +264,6 @@ Opmerking: de app is nog opgeslagen op de SD-kaart."</string>
     <string name="settings_search_bar_dialog_title">Zichtbhd. zoekbalk</string>
     <string name="settings_search_bar_hide_button_text">Verbergen</string>
     <string name="settings_search_bar_show_button_text">Weergeven</string>
-    <string name="settings_search_bar_visible_sub_text">Xperia™-startgegevens wissen in Instellingen > Apps voor het terugbrengen van de zoekbalk.</string>
+    <string name="settings_search_bar_visible_sub_text">Oneofakind™-startgegevens wissen in Instellingen > Apps voor het terugbrengen van de zoekbalk.</string>
     <string name="settings_search_bar_visible_text">Weergeven op startscherm</string>
 </resources>

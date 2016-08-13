@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">ਐਪਸ ਛਾਂਟੋ</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">%1$s ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰਨਾ ਹੈ?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">ਅਨੁਪ੍ਰਯੋਗ ਅਣਸਥਾਪਿਤ ਕਰੋ</string>
-    <string name="home_application_name_txt">Xperia™ ਹੋਮ</string>
+    <string name="home_application_name_txt">Oneofakind™ ਹੋਮ</string>
     <string name="home_apptray_see_all_applications_bidi_txt">ਸਾਰੇ ਅਨੁਪ੍ਰਯੋਗ ਦੇਖਣ ਲਈ, ਖੱਬੇ ਸਵਾਈਪ ਕਰੋ ਅਤੇ ਕਸਟਮ ਕ੍ਰਮ ਜਾਂ ਸ਼ਾਬਦਿਕ ਕ੍ਰਮ ਚੁਣੋ।</string>
     <string name="home_apptray_see_all_applications_txt">ਸਾਰੇ ਅਨੁਪ੍ਰਯੋਗ ਦੇਖਣ ਲਈ, ਸੱਜੇ ਸਵਾਈਪ ਕਰੋ ਅਤੇ ਕਸਟਮ ਕ੍ਰਮ ਜਾਂ ਸ਼ਾਬਦਿਕ ਕ੍ਰਮ ਚੁਣੋ।</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">ਅਣਸਥਾਪਿਤ ਕਰੋ</string>
@@ -112,7 +112,7 @@
     <string name="home_folder_dialog_create_new_txt">ਨਵਾਂ ਫ਼ੋਲਡਰ ਬਣਾਓ</string>
     <string name="home_folder_dialog_folder_name_txt">ਫ਼ੋਲਡਰ ਦਾ ਨਾਂ</string>
     <string name="home_folder_name_unused_apps_txt">ਅਣਵਰਤੇ ਐਪਸ</string>
-    <string name="home_grid_size_change_notification_text">ਤੁਹਾਡਾ Xperia™ ਹੋਮ ਇਕ ਨਵੇਂ ਸੰਸਕਰਣ ਤੇ ਅਪਗ੍ਰੇਡ ਕੀਤਾ ਗਿਆ ਹੈ। ਡੈਸਕਟੌਪ ਆਕਾਰ ਬਦਲ ਦਿੱਤਾ ਗਿਆ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਕੁਝ ਸ਼ਾਰਟਕਟ ਅਤੇ ਵਿਜੇਟ ਦੀ ਥਾਂ ਇਕ ਨਵੇਂ ਲੇਆਉਟ ਤੇ ਬਦਲ ਦਿੱਤੀ ਗਈ ਹੈ। ਤੁਸੀਂ ਆਪਣੀਆਂ ਨਿਜੀ ਪਸੰਦਾਂ ਨੂੰ ਬੇਹਤਰ ਮਿਲਾਉਣ ਲਈ ਹਮੇਸ਼ਾ ਆਪਣੇ ਡੈਸਕਟੌਪ ਦੀ ਮੁੜ-ਵਿਵਸਥਾ ਕਰ ਸਕਦੇ ਹੋ।</string>
+    <string name="home_grid_size_change_notification_text">ਤੁਹਾਡਾ Oneofakind™ ਹੋਮ ਇਕ ਨਵੇਂ ਸੰਸਕਰਣ ਤੇ ਅਪਗ੍ਰੇਡ ਕੀਤਾ ਗਿਆ ਹੈ। ਡੈਸਕਟੌਪ ਆਕਾਰ ਬਦਲ ਦਿੱਤਾ ਗਿਆ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਕੁਝ ਸ਼ਾਰਟਕਟ ਅਤੇ ਵਿਜੇਟ ਦੀ ਥਾਂ ਇਕ ਨਵੇਂ ਲੇਆਉਟ ਤੇ ਬਦਲ ਦਿੱਤੀ ਗਈ ਹੈ। ਤੁਸੀਂ ਆਪਣੀਆਂ ਨਿਜੀ ਪਸੰਦਾਂ ਨੂੰ ਬੇਹਤਰ ਮਿਲਾਉਣ ਲਈ ਹਮੇਸ਼ਾ ਆਪਣੇ ਡੈਸਕਟੌਪ ਦੀ ਮੁੜ-ਵਿਵਸਥਾ ਕਰ ਸਕਦੇ ਹੋ।</string>
     <string name="home_grid_size_change_notification_title">ਨੋਟ</string>
     <string name="home_hint_my_applications_continue">ਠੀਕ ਹੈ, ਸਮਝ ਗਏ!</string>
     <string name="home_hint_my_applications_info">ਆਪਣੇ ਅਨੁਪ੍ਰਯੋਗ ਦੇਖਣ ਲਈ ਇੱਥੇ ਟੈਪ ਕਰੋ</string>
@@ -134,13 +134,13 @@
     <string name="home_mode_manual_setting">ਕਲਾਸਿਕ</string>
     <string name="home_mode_toggle_heading">ਲੇਆਊਟ ਚੁਣੋ</string>
     <string name="home_no_uninstallable_apps_txt">ਇਹ ਐਪਸ ਅਣਸਥਾਪਿਤ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ</string>
-    <string name="home_permission_access_modify_configuration_description">ਕਿਸੇ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਵਰਤਮਾਨ Xperia™ ਹੋਮ ਸਕ੍ਰੀਨ ਕੌਨਫਿਗਰੇਸ਼ਨ ਤੱਕ ਪਹੁੰਚਣ ਅਤੇ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ</string>
-    <string name="home_permission_access_modify_configuration_label">ਵਰਤਮਾਨ Xperia™ ਹੋਮ ਸਕ੍ਰੀਨ ਕੌਨਫਿਗਰੇਸ਼ਨ ਤੱਕ ਪਹੁੰਚੋ ਅਤੇ ਬਦਲੋ</string>
+    <string name="home_permission_access_modify_configuration_description">ਕਿਸੇ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਵਰਤਮਾਨ Oneofakind™ ਹੋਮ ਸਕ੍ਰੀਨ ਕੌਨਫਿਗਰੇਸ਼ਨ ਤੱਕ ਪਹੁੰਚਣ ਅਤੇ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ</string>
+    <string name="home_permission_access_modify_configuration_label">ਵਰਤਮਾਨ Oneofakind™ ਹੋਮ ਸਕ੍ਰੀਨ ਕੌਨਫਿਗਰੇਸ਼ਨ ਤੱਕ ਪਹੁੰਚੋ ਅਤੇ ਬਦਲੋ</string>
     <string name="home_permission_install_widget_description">ਕਿਸੇ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਉਪਭੋਗਤਾ ਦਖ਼ਲਅੰਦਾਜ਼ੀ ਤੋਂ ਬਿਨਾ ਵਿਜੇਟ ਜੋੜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ</string>
     <string name="home_permission_install_widget_label">ਵਿਜੇਟ ਸਥਾਪਤ ਕਰੋ</string>
-    <string name="home_permission_provider_insert_badge_description">ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਇਸ ਦੇ Xperia™ ਹੋਮ ਅਨੁਪ੍ਰਯੋਗ ਚਿੰਨ੍ਹਾਂ ਉੱਤੇ ਸੂਚਨਾ ਬੈਜ਼ ਸੈਟ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ</string>
+    <string name="home_permission_provider_insert_badge_description">ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਇਸ ਦੇ Oneofakind™ ਹੋਮ ਅਨੁਪ੍ਰਯੋਗ ਚਿੰਨ੍ਹਾਂ ਉੱਤੇ ਸੂਚਨਾ ਬੈਜ਼ ਸੈਟ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ</string>
     <string name="home_permission_provider_insert_badge_label">ਅਨੁਪ੍ਰਯੋਗ ਬੈਜ਼ ਸੈਟ ਕਰੋ</string>
-    <string name="home_permission_provider_read_badge_description">ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਇਸ ਦੇ Xperia™ ਹੋਮ ਅਨੁਪ੍ਰਯੋਗ ਚਿੰਨ੍ਹਾਂ ਉੱਤੇ ਸੂਚਨਾ ਬੈਜ਼ ਡਿਸਪਲੇ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ</string>
+    <string name="home_permission_provider_read_badge_description">ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਇਸ ਦੇ Oneofakind™ ਹੋਮ ਅਨੁਪ੍ਰਯੋਗ ਚਿੰਨ੍ਹਾਂ ਉੱਤੇ ਸੂਚਨਾ ਬੈਜ਼ ਡਿਸਪਲੇ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ</string>
     <string name="home_permission_provider_read_badge_label">ਅਨੁਪ੍ਰਯੋਗ ਬੈਜ਼ ਪ੍ਰਾਪਤ ਕਰੋ</string>
     <string name="home_safe_mode_remove_widget_toast_txt">ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਿੱਚ ਵਿਜੇਟ ਹਟਾ ਸਕਦੇ ਹੋ</string>
     <string name="home_search_disclaimer_dialog_message">ਜੇਕਰ ਤੁਸੀਂ ਹੇਠ ਦਿੱਤੇ ਨਾਲ ਸਹਿਮਤ ਹੋ ਤਾਂ Sony Mobile ਵਿਅਕਤੀਗਤ ਸਿਫਾਰਸ਼ਾਂ ਵਾਸਤੇ ਉਪਯੋਗ ਜਾਣਕਾਰੀ (ਵਰਤੇ ਗਏ ਐਪਸ ਆਦਿ) ਅਤੇ ਸਥਾਨ ਨੂੰ ਇਕੱਤਰ ਕਰੇਗਾ। (Android™ ਇਸ਼ਤਿਹਾਰ ID ਅਤੇ ਸਥਾਨ ਨੂੰ ਇਸ਼ਤਿਹਾਰ ਹਿੱਸੇਦਾਰਾਂ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਜਾਵੇਗਾ)। Sony Mobile ਤੁਹਾਡੇ ਡੇਟਾ ਨੂੰ ਸਾਡੀ <a href="http://sonymobile.com/privacy">ਗੋਪਨੀਯਤਾ ਨੀਤੀ</a> ਦੇ ਤਹਿਤ ਸੰਭਾਲੇਗਾ</string>
@@ -214,6 +214,6 @@
     <string name="settings_search_bar_dialog_title">ਖੋਜ ਬਾਰ ਦਿਖਣਯੋਗਤਾ</string>
     <string name="settings_search_bar_hide_button_text">ਛੁਪਾਓ</string>
     <string name="settings_search_bar_show_button_text">ਦਿਖਾਓ</string>
-    <string name="settings_search_bar_visible_sub_text">ਖੋਜ ਬਾਰ ਨੂੰ ਵਾਪਸ ਲਿਆਉਣ ਲਈ ਸੈਟਿੰਗ > ਐਪਸ ਵਿੱਚ Xperia™ ਹੋਮ ਡੇਟਾ ਖਾਲੀ ਕਰੋ।</string>
+    <string name="settings_search_bar_visible_sub_text">ਖੋਜ ਬਾਰ ਨੂੰ ਵਾਪਸ ਲਿਆਉਣ ਲਈ ਸੈਟਿੰਗ > ਐਪਸ ਵਿੱਚ Oneofakind™ ਹੋਮ ਡੇਟਾ ਖਾਲੀ ਕਰੋ।</string>
     <string name="settings_search_bar_visible_text">ਹੋਮ ਸਕ੍ਰੀਨ ਉੱਤੇ ਦਿਖਾਓ</string>
 </resources>

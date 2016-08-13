@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Ordenatu aplikazioak</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">%1$s desinstalatu?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Desinstalatu aplikazioa</string>
-    <string name="home_application_name_txt">Xperia™ hasierako pantaila</string>
+    <string name="home_application_name_txt">Oneofakind™ hasierako pantaila</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Aplikazio guztiak ikusteko, pasatu hatza ezkerrera eta hautatu Ordena pertsonalizatua edo Alfabetikoa.</string>
     <string name="home_apptray_see_all_applications_txt">Aplikazio guztiak ikusteko, pasatu hatza eskuinera eta hautatu Ordena pertsonalizatua edo Alfabetikoa.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">"Desinstalatu "</string>
@@ -112,7 +112,7 @@ Oharra: SD txartelean gordeko da."</string>
     <string name="home_folder_dialog_create_new_txt">Sortu karpeta</string>
     <string name="home_folder_dialog_folder_name_txt">Karpetaren izena</string>
     <string name="home_folder_name_unused_apps_txt">Erabili gabeko aplikazioak</string>
-    <string name="home_grid_size_change_notification_text">Xperia™ hasierako pantaila bertsio berri batera berritu da. Mahaigainaren tamaina aldatu egin da, eta laster tekla eta widget batzuk mugitu egin dira diseinu berrira egokitzeko. Edozein unetan berrantola dezakezu mahaigaina, zure hobespen pertsonaletara hobeto egokitzeko.</string>
+    <string name="home_grid_size_change_notification_text">Oneofakind™ hasierako pantaila bertsio berri batera berritu da. Mahaigainaren tamaina aldatu egin da, eta laster tekla eta widget batzuk mugitu egin dira diseinu berrira egokitzeko. Edozein unetan berrantola dezakezu mahaigaina, zure hobespen pertsonaletara hobeto egokitzeko.</string>
     <string name="home_grid_size_change_notification_title">Oharra</string>
     <string name="home_hint_my_applications_continue">Ados, ulertu dut!</string>
     <string name="home_hint_my_applications_info">Punteatu hau zure aplikazioak ikusteko</string>
@@ -134,13 +134,13 @@ Oharra: SD txartelean gordeko da."</string>
     <string name="home_mode_manual_setting">Klasikoa</string>
     <string name="home_mode_toggle_heading">Aukeratu diseinua</string>
     <string name="home_no_uninstallable_apps_txt">Ezin dira aplikazio hauek desinstalatu</string>
-    <string name="home_permission_access_modify_configuration_description">Aplikazioei Xperia™ hasiera pantailaren konfigurazioa atzitzeko eta aldatzeko aukera ematen die</string>
-    <string name="home_permission_access_modify_configuration_label">Atzitu eta aldatu Xperia™ hasiera pantailaren konfigurazioa</string>
+    <string name="home_permission_access_modify_configuration_description">Aplikazioei Oneofakind™ hasiera pantailaren konfigurazioa atzitzeko eta aldatzeko aukera ematen die</string>
+    <string name="home_permission_access_modify_configuration_label">Atzitu eta aldatu Oneofakind™ hasiera pantailaren konfigurazioa</string>
     <string name="home_permission_install_widget_description">Widget-ak gehitzea baimentzen dio aplikazioari, erabiltzaileak ezer egin gabe</string>
     <string name="home_permission_install_widget_label">Instalatu widget-ak</string>
-    <string name="home_permission_provider_insert_badge_description">Aplikazioei aukera ematen die Xperia™ hasierako pantailako aplikazioen ikonoetan jakinarazpen etiketak ezartzeko</string>
+    <string name="home_permission_provider_insert_badge_description">Aplikazioei aukera ematen die Oneofakind™ hasierako pantailako aplikazioen ikonoetan jakinarazpen etiketak ezartzeko</string>
     <string name="home_permission_provider_insert_badge_label">ezarri aplikazio etiketak</string>
-    <string name="home_permission_provider_read_badge_description">Aplikazioei aukera ematen die Xperia™ hasiera pantailako aplikazioen ikonoetan jakinarazpen etiketak bistaratzeko</string>
+    <string name="home_permission_provider_read_badge_description">Aplikazioei aukera ematen die Oneofakind™ hasiera pantailako aplikazioen ikonoetan jakinarazpen etiketak bistaratzeko</string>
     <string name="home_permission_provider_read_badge_label">lortu aplikazio etiketak</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Modu seguruan, widget-ak ken daitezke</string>
     <string name="home_search_disclaimer_dialog_message">Ondorengoa onartuz gero, Sony Mobile-k erabilera informazioa (erabilitako aplikazioak, etab.) eta kokapena bilduko ditu gomendioak pertsonalizatzeko. (Android™ publizitate IDa eta kokapena publizitate kideekin partekatuko dira). Sony Mobile-k datuak bere <a href="http://sonymobile.com/privacy">Pribatutasun politikaren</a> arabera erabiliko ditu.</string>
@@ -214,6 +214,6 @@ Oharra: SD txartelean gordeko da."</string>
     <string name="settings_search_bar_dialog_title">Bil. barraren ikusg.</string>
     <string name="settings_search_bar_hide_button_text">Ezkutatu</string>
     <string name="settings_search_bar_show_button_text">Erakutsi</string>
-    <string name="settings_search_bar_visible_sub_text">Bilaketa barra berriro agerrarazteko, garbitu Xperia™ hasierako pantailaren datuak Ezarpenak > Aplikazioak atalean.</string>
+    <string name="settings_search_bar_visible_sub_text">Bilaketa barra berriro agerrarazteko, garbitu Oneofakind™ hasierako pantailaren datuak Ezarpenak > Aplikazioak atalean.</string>
     <string name="settings_search_bar_visible_text">Erakutsi hasierako pantailan</string>
 </resources>

@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Sortowanie aplikacji</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Odinstalować %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Odinstalowyw. aplikacji</string>
-    <string name="home_application_name_txt">Xperia™ - Ekran główny</string>
+    <string name="home_application_name_txt">Oneofakind™ - Ekran główny</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Aby wyświetlić wszystkie aplikacje, przeciągnij w lewo i wybierz Kolejność niestandardowa lub Alfabetycznie.</string>
     <string name="home_apptray_see_all_applications_txt">Aby wyświetlić wszystkie aplikacje, przeciągnij w prawo i wybierz Kolejność niestandardowa lub Alfabetycznie.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Odinstaluj</string>
@@ -162,7 +162,7 @@ Uwaga: będzie nadal przechowywana na karcie SD."</string>
     <string name="home_folder_dialog_create_new_txt">Utwórz nowy folder</string>
     <string name="home_folder_dialog_folder_name_txt">Nazwa folderu</string>
     <string name="home_folder_name_unused_apps_txt">Nieużywane aplikacje</string>
-    <string name="home_grid_size_change_notification_text">Ekran główny Xperia™ został zaktualizowany do nowej wersji. Zmienił się rozmiar pulpitu, a niektóre skróty i widżety zostały przeniesione, aby zmieściły się w nowym układzie. Aby lepiej dostosować pulpit do własnych preferencji, możesz zawsze zmienić jego wygląd.</string>
+    <string name="home_grid_size_change_notification_text">Ekran główny Oneofakind™ został zaktualizowany do nowej wersji. Zmienił się rozmiar pulpitu, a niektóre skróty i widżety zostały przeniesione, aby zmieściły się w nowym układzie. Aby lepiej dostosować pulpit do własnych preferencji, możesz zawsze zmienić jego wygląd.</string>
     <string name="home_grid_size_change_notification_title">Notatka</string>
     <string name="home_hint_my_applications_continue">OK, rozumiem!</string>
     <string name="home_hint_my_applications_info">Stuknij tutaj, aby wyświetlić swoje aplikacje</string>
@@ -184,13 +184,13 @@ Uwaga: będzie nadal przechowywana na karcie SD."</string>
     <string name="home_mode_manual_setting">Klasyczny</string>
     <string name="home_mode_toggle_heading">Wybierz układ</string>
     <string name="home_no_uninstallable_apps_txt">Nie można odinstalować tych aplikacji</string>
-    <string name="home_permission_access_modify_configuration_description">Zezwala aplikacji na dostęp do bieżącej konfiguracji ekranu głównego urządzenia Xperia™ i jej zmianę.</string>
-    <string name="home_permission_access_modify_configuration_label">Dostęp do bieżącej konfiguracji ekranu głównego urządzenia Xperia™ i jej zmiana</string>
+    <string name="home_permission_access_modify_configuration_description">Zezwala aplikacji na dostęp do bieżącej konfiguracji ekranu głównego urządzenia Oneofakind™ i jej zmianę.</string>
+    <string name="home_permission_access_modify_configuration_label">Dostęp do bieżącej konfiguracji ekranu głównego urządzenia Oneofakind™ i jej zmiana</string>
     <string name="home_permission_install_widget_description">Umożliwia aplikacji dodawanie widżetów bez interwencji użytkownika</string>
     <string name="home_permission_install_widget_label">Instalowanie widżetów</string>
-    <string name="home_permission_provider_insert_badge_description">Umożliwia aplikacji ustawianie etykiet powiadomień na ikonach aplikacji na ekranie głównym urządzenia Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Umożliwia aplikacji ustawianie etykiet powiadomień na ikonach aplikacji na ekranie głównym urządzenia Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">ustawianie etykiet aplikacji</string>
-    <string name="home_permission_provider_read_badge_description">Umożliwia aplikacji wyświetlanie etykiet powiadomień na ikonach aplikacji na ekranie głównym urządzenia Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Umożliwia aplikacji wyświetlanie etykiet powiadomień na ikonach aplikacji na ekranie głównym urządzenia Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">pobieranie etykiet aplikacji</string>
     <string name="home_safe_mode_remove_widget_toast_txt">W trybie bezpiecznym można usuwać widżety.</string>
     <string name="home_search_disclaimer_dialog_message">Jeżeli wyrazisz zgodę poniżej, firma Sony Mobile będzie gromadzić informacje o użyciu (aplikacji itp.) i lokalizacji w celu personalizowania rekomendacji. (Identyfikator reklamowy Android™ i informacje o lokalizacji będą udostępniane partnerom reklamowym). Firma Sony Mobile będzie postępować z Twoimi danymi zgodnie z <a href="http://sonymobile.com/privacy">polityką prywatności</a>.</string>
@@ -264,6 +264,6 @@ Uwaga: będzie nadal przechowywana na karcie SD."</string>
     <string name="settings_search_bar_dialog_title">Widoczność pas. wysz.</string>
     <string name="settings_search_bar_hide_button_text">Ukryj</string>
     <string name="settings_search_bar_show_button_text">Pokaż</string>
-    <string name="settings_search_bar_visible_sub_text">Aby przywrócić pasek wyszukiwania, wyczyść dane ekranu głównego Xperia™ w Ustawienia > Aplikacje.</string>
+    <string name="settings_search_bar_visible_sub_text">Aby przywrócić pasek wyszukiwania, wyczyść dane ekranu głównego Oneofakind™ w Ustawienia > Aplikacje.</string>
     <string name="settings_search_bar_visible_text">Pokaż na ekranie głównym</string>
 </resources>

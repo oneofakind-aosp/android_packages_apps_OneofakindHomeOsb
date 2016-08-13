@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Ordenar aplicaciones</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">¿Desinstalar %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Desinstalar aplicación</string>
-    <string name="home_application_name_txt">Inicio de Xperia™</string>
+    <string name="home_application_name_txt">Inicio de Oneofakind™</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Para ver todas las aplicaciones, desplácese a la izquierda y seleccione Orden personalizado o Alfabético.</string>
     <string name="home_apptray_see_all_applications_txt">Para ver todas las aplicaciones, desplácese a la derecha y seleccione Orden personalizado o Alfabética.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">"Desinstalar "</string>
@@ -162,7 +162,7 @@ Nota: se almacenará en la tarjeta SD."</string>
     <string name="home_folder_dialog_create_new_txt">Crear nueva carpeta</string>
     <string name="home_folder_dialog_folder_name_txt">Nombre de carpeta</string>
     <string name="home_folder_name_unused_apps_txt">Aplicaciones sin utilizar</string>
-    <string name="home_grid_size_change_notification_text">Su pantalla principal Xperia™ se actualizó a una versión nueva. El tamaño del escritorio ha cambiado y algunos de los atajos y widgets se movieron para ajustarse a la nueva disposición. Siempre puede volver a arreglar su escritorio para que se ajuste mejor a sus preferencias personales.</string>
+    <string name="home_grid_size_change_notification_text">Su pantalla principal Oneofakind™ se actualizó a una versión nueva. El tamaño del escritorio ha cambiado y algunos de los atajos y widgets se movieron para ajustarse a la nueva disposición. Siempre puede volver a arreglar su escritorio para que se ajuste mejor a sus preferencias personales.</string>
     <string name="home_grid_size_change_notification_title">Nota</string>
     <string name="home_hint_my_applications_continue">Aceptar, lo entendí!</string>
     <string name="home_hint_my_applications_info">Toque suavemente aquí para ver sus aplicaciones</string>
@@ -184,13 +184,13 @@ Nota: se almacenará en la tarjeta SD."</string>
     <string name="home_mode_manual_setting">Clásica</string>
     <string name="home_mode_toggle_heading">Elegir disposición</string>
     <string name="home_no_uninstallable_apps_txt">Estas aplicaciones no se pueden desinstalar</string>
-    <string name="home_permission_access_modify_configuration_description">Permite que una aplicación acceda y cambie la configuración actual de la pantalla de inicio de Xperia™</string>
-    <string name="home_permission_access_modify_configuration_label">Acceder y cambiar la configuración actual de la pantalla de inicio de Xperia™</string>
+    <string name="home_permission_access_modify_configuration_description">Permite que una aplicación acceda y cambie la configuración actual de la pantalla de inicio de Oneofakind™</string>
+    <string name="home_permission_access_modify_configuration_label">Acceder y cambiar la configuración actual de la pantalla de inicio de Oneofakind™</string>
     <string name="home_permission_install_widget_description">Permite que una aplicación añada widgets sin la intervención del usuario</string>
     <string name="home_permission_install_widget_label">Instalar widgets</string>
-    <string name="home_permission_provider_insert_badge_description">Permite que una aplicación establezca credenciales de notificación en sus iconos de aplicación de inicio de Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Permite que una aplicación establezca credenciales de notificación en sus iconos de aplicación de inicio de Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">establecer credenciales de aplicación</string>
-    <string name="home_permission_provider_read_badge_description">Permite que una aplicación muestre credenciales de notificación en sus iconos de aplicación de inicio de Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Permite que una aplicación muestre credenciales de notificación en sus iconos de aplicación de inicio de Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">obtener credenciales de aplicación</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Puede eliminar los widgets en modo seguro</string>
     <string name="home_search_disclaimer_dialog_message">Si acepta lo siguiente, Sony Mobile recopilará información de uso (aplicaciones usadas, etc.) y la ubicación para personalizar las recomendaciones. (La ubicación y la ID de publicidad de Android™ se compartirá con socios publicitarios). Sony Mobile manipulará sus datos de acuerdo con la <a href="http://sonymobile.com/privacy">Política de privacidad</a></string>
@@ -264,6 +264,6 @@ Nota: se almacenará en la tarjeta SD."</string>
     <string name="settings_search_bar_dialog_title">Barra de búsqueda</string>
     <string name="settings_search_bar_hide_button_text">Ocultar</string>
     <string name="settings_search_bar_show_button_text">Mostrar</string>
-    <string name="settings_search_bar_visible_sub_text">Borre los datos de Inicio de Xperia™ en Ajustes > Aplicaciones para recuperar la barra de Búsqueda.</string>
+    <string name="settings_search_bar_visible_sub_text">Borre los datos de Inicio de Oneofakind™ en Ajustes > Aplicaciones para recuperar la barra de Búsqueda.</string>
     <string name="settings_search_bar_visible_text">Mostrar en la pantalla de Inicio</string>
 </resources>

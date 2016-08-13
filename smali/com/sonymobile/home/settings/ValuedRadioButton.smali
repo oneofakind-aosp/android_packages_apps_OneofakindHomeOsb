@@ -58,7 +58,7 @@
 
     move-result-object v1
 
-    sget-object v2, Lcom/sonyericsson/home/R$styleable;->ValuedRadioButton:[I
+    sget-object v2, Lcom/oneofakind/home/R$styleable;->ValuedRadioButton:[I
 
     invoke-virtual {v1, p2, v2, v3, v3}, Landroid/content/res/Resources$Theme;->obtainStyledAttributes(Landroid/util/AttributeSet;[III)Landroid/content/res/TypedArray;
 

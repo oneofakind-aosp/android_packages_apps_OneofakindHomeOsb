@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">ترتیب بندی برنامه ها</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">‏%1$s لغو نصب شود؟</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">لغو نصب برنامه</string>
-    <string name="home_application_name_txt">صفحه اصلی Xperia™‎</string>
+    <string name="home_application_name_txt">صفحه اصلی Oneofakind™‎</string>
     <string name="home_apptray_see_all_applications_bidi_txt">برای مشاهده تمام برنامه‌ها، انگشت خود را به چپ بکشید و ترتیب دلخواه یا الفبایی را انتخاب کنید.</string>
     <string name="home_apptray_see_all_applications_txt">برای مشاهده تمام برنامه‌ها، انگشت خود را به راست بکشید و ترتیب الفبا یا دلخواه را انتخاب کنید.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">لغو نصب</string>
@@ -162,7 +162,7 @@
     <string name="home_folder_dialog_create_new_txt">ايجاد پوشه جديد</string>
     <string name="home_folder_dialog_folder_name_txt">نام پوشه</string>
     <string name="home_folder_name_unused_apps_txt">برنامه های بدون استفاده</string>
-    <string name="home_grid_size_change_notification_text">صفحه اصلی Xperia™‎ شما به نسخه جدید ارتقا یافت. اندازه دسکتاپ تغییر کرده و برخی از میانبرها و ابزارک‌ها ممکن است جابجا شده باشند تا در چیدمان جدید جای بگیرند. شما همیشه می‌توانید دستکتاپتان را ترتیب‌بندی کنید تا بیشتر با موارد دلخواه شما سازگار شود.</string>
+    <string name="home_grid_size_change_notification_text">صفحه اصلی Oneofakind™‎ شما به نسخه جدید ارتقا یافت. اندازه دسکتاپ تغییر کرده و برخی از میانبرها و ابزارک‌ها ممکن است جابجا شده باشند تا در چیدمان جدید جای بگیرند. شما همیشه می‌توانید دستکتاپتان را ترتیب‌بندی کنید تا بیشتر با موارد دلخواه شما سازگار شود.</string>
     <string name="home_grid_size_change_notification_title">توجه</string>
     <string name="home_hint_my_applications_continue">تأیید، متوجه شدم.</string>
     <string name="home_hint_my_applications_info">برای مشاهده برنامه های خود اینجا را کلیک کنید</string>
@@ -184,13 +184,13 @@
     <string name="home_mode_manual_setting">کلاسیک</string>
     <string name="home_mode_toggle_heading">انتخاب طرح‌بندی</string>
     <string name="home_no_uninstallable_apps_txt">این برنامه ها را نمی توان حذف کرد</string>
-    <string name="home_permission_access_modify_configuration_description">به یک برنامه اجازه می دهد تا به پیکربندی کنونی صفحه اصلی Xperia™‎ دسترسی پیدا کرده و آن را تغییر دهد</string>
-    <string name="home_permission_access_modify_configuration_label">دسترسی و تغییر پیکربندی کنونی صفحه اصلی Xperia™‎</string>
+    <string name="home_permission_access_modify_configuration_description">به یک برنامه اجازه می دهد تا به پیکربندی کنونی صفحه اصلی Oneofakind™‎ دسترسی پیدا کرده و آن را تغییر دهد</string>
+    <string name="home_permission_access_modify_configuration_label">دسترسی و تغییر پیکربندی کنونی صفحه اصلی Oneofakind™‎</string>
     <string name="home_permission_install_widget_description">به برنامه اجازه می دهد ابزارک ها را بدون دخالت کاربر اضافه کند</string>
     <string name="home_permission_install_widget_label">نصب ابزارک</string>
-    <string name="home_permission_provider_insert_badge_description">به برنامه اجازه می‌دهد روی نمادهای برنامه خود در صفحه اصلی Xperia™‎ نشان‌های اعلان قرار دهد</string>
+    <string name="home_permission_provider_insert_badge_description">به برنامه اجازه می‌دهد روی نمادهای برنامه خود در صفحه اصلی Oneofakind™‎ نشان‌های اعلان قرار دهد</string>
     <string name="home_permission_provider_insert_badge_label">تنظیم نشان های برنامه ها</string>
-    <string name="home_permission_provider_read_badge_description">به برنامه اجازه می‌دهد روی نمادهای برنامه خود در صفحه اصلی Xperia™‎‎ نشان‌های اعلان نمایش دهد</string>
+    <string name="home_permission_provider_read_badge_description">به برنامه اجازه می‌دهد روی نمادهای برنامه خود در صفحه اصلی Oneofakind™‎‎ نشان‌های اعلان نمایش دهد</string>
     <string name="home_permission_provider_read_badge_label">دریافت نشان های برنامه ها</string>
     <string name="home_safe_mode_remove_widget_toast_txt">در حالت امن می توانید ابزارک ها را حذف کنید</string>
     <string name="home_search_disclaimer_dialog_message">اگر در زیر موافقت کنید، Sony Mobile اطلاعات استفاده (برنامه‌های استفاده‌شده و غیره) و توصیه‌های مکان شخصی‌شده را جمع‌آوری می‌کند. (شناسه تبلیغاتی Android™ و مکان با شرکای تبلیغاتی به اشتراک گذاشته می‌شود). Sony Mobile مطابق <a href="http://sonymobile.com/privacy">خط‌مشی رازداری</a> ما از داده‌های شما استفاده می‌کند.</string>
@@ -264,6 +264,6 @@
     <string name="settings_search_bar_dialog_title">نمایان بودن نوار جستجو</string>
     <string name="settings_search_bar_hide_button_text">پنهان کردن</string>
     <string name="settings_search_bar_show_button_text">نمایش</string>
-    <string name="settings_search_bar_visible_sub_text">برای بازگرداندن نوار جستجو، اطلاعات صفحه اصلی ‎Xperia™‎ را در قسمت تنظیمات > برنامه ها پاک کنید.</string>
+    <string name="settings_search_bar_visible_sub_text">برای بازگرداندن نوار جستجو، اطلاعات صفحه اصلی ‎Oneofakind™‎ را در قسمت تنظیمات > برنامه ها پاک کنید.</string>
     <string name="settings_search_bar_visible_text">نمایش در صفحه اصلی</string>
 </resources>

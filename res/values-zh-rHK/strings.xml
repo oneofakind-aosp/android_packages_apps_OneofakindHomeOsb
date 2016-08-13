@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">排列應用程式</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">解除安裝%1$s？</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">解除安裝應用程式</string>
-    <string name="home_application_name_txt">Xperia™主屏幕</string>
+    <string name="home_application_name_txt">Oneofakind™主屏幕</string>
     <string name="home_apptray_see_all_applications_bidi_txt">若要顯示所有的應用程式，請向左輕劃並選擇[自訂排序]或[字母順序]。</string>
     <string name="home_apptray_see_all_applications_txt">若要顯示所有的應用程式，請向右輕劃並選擇[自訂排序]或[字母順序]。</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">解除安裝</string>
@@ -162,7 +162,7 @@
     <string name="home_folder_dialog_create_new_txt">建立新文件夾</string>
     <string name="home_folder_dialog_folder_name_txt">文件夾名稱</string>
     <string name="home_folder_name_unused_apps_txt">未使用的應用程式</string>
-    <string name="home_grid_size_change_notification_text">您的Xperia™首頁已升級為新版本。由於桌面大小已更改，因此已移動某些捷徑和外掛件以符合新的編排。您隨時可以重新排列桌面以進一步配合您的個人偏好。</string>
+    <string name="home_grid_size_change_notification_text">您的Oneofakind™首頁已升級為新版本。由於桌面大小已更改，因此已移動某些捷徑和外掛件以符合新的編排。您隨時可以重新排列桌面以進一步配合您的個人偏好。</string>
     <string name="home_grid_size_change_notification_title">注意</string>
     <string name="home_hint_my_applications_continue">好，我知道了。</string>
     <string name="home_hint_my_applications_info">輕按這裡以檢視您的應用程式</string>
@@ -184,13 +184,13 @@
     <string name="home_mode_manual_setting">經典</string>
     <string name="home_mode_toggle_heading">選擇編排</string>
     <string name="home_no_uninstallable_apps_txt">無法解除安裝這些應用程式</string>
-    <string name="home_permission_access_modify_configuration_description">允許應用程式存取並更改目前的Xperia™主屏幕配置</string>
-    <string name="home_permission_access_modify_configuration_label">存取並更改目前的Xperia™主屏幕配置</string>
+    <string name="home_permission_access_modify_configuration_description">允許應用程式存取並更改目前的Oneofakind™主屏幕配置</string>
+    <string name="home_permission_access_modify_configuration_label">存取並更改目前的Oneofakind™主屏幕配置</string>
     <string name="home_permission_install_widget_description">允許應用程式不通過用戶操作自行新增外掛件</string>
     <string name="home_permission_install_widget_label">安裝外掛件</string>
-    <string name="home_permission_provider_insert_badge_description">允許應用程式在其Xperia™主屏幕應用程式圖示上設定通知標記</string>
+    <string name="home_permission_provider_insert_badge_description">允許應用程式在其Oneofakind™主屏幕應用程式圖示上設定通知標記</string>
     <string name="home_permission_provider_insert_badge_label">設定應用程式標記</string>
-    <string name="home_permission_provider_read_badge_description">允許應用程式在其Xperia™主屏幕應用程式圖示上顯示通知標記</string>
+    <string name="home_permission_provider_read_badge_description">允許應用程式在其Oneofakind™主屏幕應用程式圖示上顯示通知標記</string>
     <string name="home_permission_provider_read_badge_label">取得應用程式標記</string>
     <string name="home_safe_mode_remove_widget_toast_txt">您可以在安全模式中移除外掛件</string>
     <string name="home_search_disclaimer_dialog_message">如果您同意以下規定，Sony Mobile會收取使用資料(已使用的應用程式等)和個人化建議的地點。(Android™廣告ID和廣告夥伴會分享的地點)。Sony Mobile會根據我們的<a href="http://sonymobile.com/privacy">私隱政策</a>處理您的數據</string>
@@ -264,6 +264,6 @@
     <string name="settings_search_bar_dialog_title">搜尋列可見度</string>
     <string name="settings_search_bar_hide_button_text">隱藏</string>
     <string name="settings_search_bar_show_button_text">顯示</string>
-    <string name="settings_search_bar_visible_sub_text">在[設定] > [應用程式]清除Xperia™主頁數據，以重新顯示搜尋列。</string>
+    <string name="settings_search_bar_visible_sub_text">在[設定] > [應用程式]清除Oneofakind™主頁數據，以重新顯示搜尋列。</string>
     <string name="settings_search_bar_visible_text">顯示於主屏幕</string>
 </resources>

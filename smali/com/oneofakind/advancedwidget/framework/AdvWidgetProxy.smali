@@ -1,5 +1,5 @@
-.class public final Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
-.super Lcom/sonyericsson/advancedwidget/framework/Proxy;
+.class public final Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
+.super Lcom/oneofakind/advancedwidget/framework/Proxy;
 .source "AdvWidgetProxy.java"
 
 
@@ -34,7 +34,7 @@
     .local p1, "comm":Ljava/util/Map;, "Ljava/util/Map<Ljava/lang/String;Ljava/lang/Object;>;"
     const/4 v0, 0x0
 
-    invoke-direct {p0, p1, v0}, Lcom/sonyericsson/advancedwidget/framework/Proxy;-><init>(Ljava/util/Map;Z)V
+    invoke-direct {p0, p1, v0}, Lcom/oneofakind/advancedwidget/framework/Proxy;-><init>(Ljava/util/Map;Z)V
 
     .line 268
     return-void
@@ -74,14 +74,14 @@
     return-object v0
 .end method
 
-.method public static createAdvWidgetProxy(Ljava/lang/Class;)Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+.method public static createAdvWidgetProxy(Ljava/lang/Class;)Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
     .locals 5
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "(",
             "Ljava/lang/Class",
             "<*>;)",
-            "Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;"
+            "Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;"
         }
     .end annotation
 
@@ -91,12 +91,12 @@
     const/4 v1, 0x0
 
     .line 342
-    .local v1, "proxy":Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    .local v1, "proxy":Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
     if-eqz p0, :cond_0
 
     .line 344
     :try_start_0
-    new-instance v2, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    new-instance v2, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
 
     invoke-virtual {p0}, Ljava/lang/Class;->newInstance()Ljava/lang/Object;
 
@@ -104,18 +104,18 @@
 
     check-cast v3, Ljava/util/Map;
 
-    invoke-direct {v2, v3}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;-><init>(Ljava/util/Map;)V
+    invoke-direct {v2, v3}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;-><init>(Ljava/util/Map;)V
     :try_end_0
     .catch Ljava/lang/InstantiationException; {:try_start_0 .. :try_end_0} :catch_0
     .catch Ljava/lang/IllegalAccessException; {:try_start_0 .. :try_end_0} :catch_1
 
-    .end local v1    # "proxy":Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
-    .local v2, "proxy":Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    .end local v1    # "proxy":Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
+    .local v2, "proxy":Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
     move-object v1, v2
 
     .line 351
-    .end local v2    # "proxy":Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
-    .restart local v1    # "proxy":Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;
+    .end local v2    # "proxy":Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
+    .restart local v1    # "proxy":Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;
     :cond_0
     :goto_0
     return-object v1
@@ -160,7 +160,7 @@
     .line 214
     const-string v1, "configure"
 
-    invoke-virtual {p0, v1, p1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v1, p1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     move-result-object v0
 
@@ -183,7 +183,7 @@
     .line 222
     const-string v1, "customize"
 
-    invoke-virtual {p0, v1, p1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v1, p1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     move-result-object v0
 
@@ -217,7 +217,7 @@
 
     const/4 v1, 0x0
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     move-result-object v0
 
@@ -235,7 +235,7 @@
 
     const/4 v1, 0x0
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     move-result-object v0
 
@@ -257,7 +257,7 @@
 
     const/4 v1, 0x0
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     move-result-object v0
 
@@ -275,7 +275,7 @@
 
     const/4 v1, 0x0
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     move-result-object v0
 
@@ -293,20 +293,20 @@
 
     .prologue
     .line 74
-    iget-object v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mId:Ljava/util/UUID;
+    iget-object v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mId:Ljava/util/UUID;
 
     return-object v0
 .end method
 
-.method public init(Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;)V
+.method public init(Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;)V
     .locals 1
-    .param p1, "host"    # Lcom/sonyericsson/advancedwidget/framework/AdvWidgetHost;
+    .param p1, "host"    # Lcom/oneofakind/advancedwidget/framework/AdvWidgetHost;
 
     .prologue
     .line 81
     const-string v0, "init"
 
-    invoke-virtual {p0, v0, p1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, p1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 82
     return-void
@@ -324,7 +324,7 @@
 
     move-result-object v1
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 201
     return-void
@@ -336,19 +336,19 @@
 
     .prologue
     .line 98
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mCreated:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mCreated:Z
 
     if-nez v0, :cond_0
 
     .line 99
     const/4 v0, 0x1
 
-    iput-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mCreated:Z
+    iput-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mCreated:Z
 
     .line 100
     const-string v0, "onCreate"
 
-    invoke-virtual {p0, v0, p1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, p1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 102
     :cond_0
@@ -360,25 +360,25 @@
 
     .prologue
     .line 108
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mFocused:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mFocused:Z
 
     if-eqz v0, :cond_0
 
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
 
     if-eqz v0, :cond_0
 
     .line 109
     const/4 v0, 0x0
 
-    iput-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mFocused:Z
+    iput-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mFocused:Z
 
     .line 110
     const-string v0, "onDefocus"
 
     const/4 v1, 0x0
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 112
     :cond_0
@@ -390,30 +390,30 @@
 
     .prologue
     .line 186
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mCreated:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mCreated:Z
 
     if-eqz v0, :cond_1
 
     .line 187
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mStarted:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mStarted:Z
 
     if-eqz v0, :cond_0
 
     .line 189
-    invoke-virtual {p0}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->onStop()V
+    invoke-virtual {p0}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->onStop()V
 
     .line 191
     :cond_0
     const/4 v0, 0x0
 
-    iput-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mCreated:Z
+    iput-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mCreated:Z
 
     .line 192
     const-string v0, "onDestroy"
 
     const/4 v1, 0x0
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 194
     :cond_1
@@ -425,25 +425,25 @@
 
     .prologue
     .line 118
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mFocused:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mFocused:Z
 
     if-nez v0, :cond_0
 
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
 
     if-eqz v0, :cond_0
 
     .line 119
     const/4 v0, 0x1
 
-    iput-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mFocused:Z
+    iput-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mFocused:Z
 
     .line 120
     const-string v0, "onFocus"
 
     const/4 v1, 0x0
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 122
     :cond_0
@@ -455,30 +455,30 @@
 
     .prologue
     .line 148
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
 
     if-eqz v0, :cond_1
 
     .line 149
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mFocused:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mFocused:Z
 
     if-eqz v0, :cond_0
 
     .line 151
-    invoke-virtual {p0}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->onDefocus()V
+    invoke-virtual {p0}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->onDefocus()V
 
     .line 153
     :cond_0
     const/4 v0, 0x0
 
-    iput-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
+    iput-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
 
     .line 154
     const-string v0, "onPause"
 
     const/4 v1, 0x0
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 156
     :cond_1
@@ -490,21 +490,21 @@
 
     .prologue
     .line 133
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
 
     if-nez v0, :cond_0
 
     .line 134
     const/4 v0, 0x1
 
-    iput-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
+    iput-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
 
     .line 135
     const-string v0, "onResume"
 
     const/4 v1, 0x0
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 137
     :cond_0
@@ -516,21 +516,21 @@
 
     .prologue
     .line 162
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mStarted:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mStarted:Z
 
     if-nez v0, :cond_0
 
     .line 163
     const/4 v0, 0x1
 
-    iput-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mStarted:Z
+    iput-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mStarted:Z
 
     .line 164
     const-string v0, "onStart"
 
     const/4 v1, 0x0
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 166
     :cond_0
@@ -542,30 +542,30 @@
 
     .prologue
     .line 172
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mStarted:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mStarted:Z
 
     if-eqz v0, :cond_1
 
     .line 173
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mResumed:Z
 
     if-eqz v0, :cond_0
 
     .line 175
-    invoke-virtual {p0}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->onPause()V
+    invoke-virtual {p0}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->onPause()V
 
     .line 177
     :cond_0
     const/4 v0, 0x0
 
-    iput-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mStarted:Z
+    iput-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mStarted:Z
 
     .line 178
     const-string v0, "onStop"
 
     const/4 v1, 0x0
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 180
     :cond_1
@@ -584,7 +584,7 @@
 
     move-result-object v1
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 208
     return-void
@@ -595,12 +595,12 @@
 
     .prologue
     .line 88
-    iget-boolean v0, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mCreated:Z
+    iget-boolean v0, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mCreated:Z
 
     if-eqz v0, :cond_0
 
     .line 89
-    invoke-virtual {p0}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->onDestroy()V
+    invoke-virtual {p0}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->onDestroy()V
 
     .line 91
     :cond_0
@@ -608,7 +608,7 @@
 
     const/4 v1, 0x0
 
-    invoke-virtual {p0, v0, v1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, v1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 92
     return-void
@@ -622,7 +622,7 @@
     .line 257
     const-string v0, "setActivity"
 
-    invoke-virtual {p0, v0, p1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, p1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 258
     return-void
@@ -634,12 +634,12 @@
 
     .prologue
     .line 64
-    iput-object p1, p0, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->mId:Ljava/util/UUID;
+    iput-object p1, p0, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->mId:Ljava/util/UUID;
 
     .line 65
     const-string v0, "setId"
 
-    invoke-virtual {p0, v0, p1}, Lcom/sonyericsson/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+    invoke-virtual {p0, v0, p1}, Lcom/oneofakind/advancedwidget/framework/AdvWidgetProxy;->call(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 66
     return-void

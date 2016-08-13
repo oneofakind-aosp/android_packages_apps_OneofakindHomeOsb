@@ -186,7 +186,7 @@
 
     .line 72
     .local v4, "json":Lorg/json/JSONObject;
-    const-string v7, "XperiaHomeConfiguration"
+    const-string v7, "OneofakindHomeConfiguration"
 
     const-string v8, "type"
 
@@ -203,7 +203,7 @@
     .line 73
     new-instance v7, Lcom/sonymobile/home/configuration/ConfigException;
 
-    const-string v8, "Only type XperiaHomeConfiguration is supported"
+    const-string v8, "Only type OneofakindHomeConfiguration is supported"
 
     invoke-direct {v7, v8}, Lcom/sonymobile/home/configuration/ConfigException;-><init>(Ljava/lang/String;)V
 

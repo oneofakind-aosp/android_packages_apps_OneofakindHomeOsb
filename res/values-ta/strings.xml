@@ -76,7 +76,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">பயன்பாடு. வரிசைப்படு.</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">%1$s -ஐ நிறுவல்நீக்கவா?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">பயன்பாட்டை நிறுவல்நீ.</string>
-    <string name="home_application_name_txt">Xperia™ முகப்பு</string>
+    <string name="home_application_name_txt">Oneofakind™ முகப்பு</string>
     <string name="home_apptray_see_all_applications_bidi_txt">அனைத்துப் பயன்பாடுகளையும் பார்க்க, இடதுபுறம் தேய்த்து தனிப்பயனாக்கிய ஒழுங்குவரிசை அல்லது அகரவரிசையைத் தேர்ந்தெடுக்கவும்.</string>
     <string name="home_apptray_see_all_applications_txt">அனைத்து பயன்பாடுகளையும் பார்க்க, வலதுபுறம் தேய்த்து, தனிப்பயனாக்கிய ஒழுங்குவரிசை அல்லது அகரவரிசையைத் தேர்ந்தெடுக்கவும்.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">நிறுவல்நீக்கு</string>
@@ -112,7 +112,7 @@
     <string name="home_folder_dialog_create_new_txt">புதிய கோப். உருவாக.</string>
     <string name="home_folder_dialog_folder_name_txt">கோப்புறை பெயர்</string>
     <string name="home_folder_name_unused_apps_txt">பயன்படுத்தா. பயன்பா.</string>
-    <string name="home_grid_size_change_notification_text">உங்கள் Xperia™ முகப்பு ஒரு புதிய பதிப்புக்கு புதுப்பிக்கப்பட்டுள்ளது. டெஸ்க்டாப் அளவு மாற்றப்பட்டுள்ளது மற்றும் புதிய தோற்றஅமைப்புக்குப் பொருந்துகின்ற வகையில் உங்களது சில சுருக்குவழிகளும், விட்ஜட்களும் நகர்த்தப்பட்டுள்ளன. உங்கள் தனிப்பட்ட முன்னுரிமைகளுக்கு சிறப்பாக பொருந்துகின்ற வகையில் உங்கள் டெஸ்க்டாப்பை நீங்கள் எப்போதும் மறுசீராக்கலாம்.</string>
+    <string name="home_grid_size_change_notification_text">உங்கள் Oneofakind™ முகப்பு ஒரு புதிய பதிப்புக்கு புதுப்பிக்கப்பட்டுள்ளது. டெஸ்க்டாப் அளவு மாற்றப்பட்டுள்ளது மற்றும் புதிய தோற்றஅமைப்புக்குப் பொருந்துகின்ற வகையில் உங்களது சில சுருக்குவழிகளும், விட்ஜட்களும் நகர்த்தப்பட்டுள்ளன. உங்கள் தனிப்பட்ட முன்னுரிமைகளுக்கு சிறப்பாக பொருந்துகின்ற வகையில் உங்கள் டெஸ்க்டாப்பை நீங்கள் எப்போதும் மறுசீராக்கலாம்.</string>
     <string name="home_grid_size_change_notification_title">குறிப்பு</string>
     <string name="home_hint_my_applications_continue">சரி, கிடைத்தது.</string>
     <string name="home_hint_my_applications_info">உங்கள் பயன்பாடுகளை பார்க்க இங்கே தட்டவும்</string>
@@ -134,13 +134,13 @@
     <string name="home_mode_manual_setting">கிளாசிக்</string>
     <string name="home_mode_toggle_heading">தோற்றஅமைப்பை தேர்வுசெய்யவும்</string>
     <string name="home_no_uninstallable_apps_txt">இந்தப் பயன்பாடுகளை நிறுவநீக்க முடியாது</string>
-    <string name="home_permission_access_modify_configuration_description">நடப்பு Xperia™ முகப்பு திரை உள்ளமைவை மாற்றவதற்கும், அணுகுவதற்கும் பயன்பாட்டை அனுமதிக்கிறது</string>
-    <string name="home_permission_access_modify_configuration_label">அணுகுதல் மற்றும் நடப்பு Xperia™ முகப்பு திரை உள்ளமைவை மாற்றுதல்</string>
+    <string name="home_permission_access_modify_configuration_description">நடப்பு Oneofakind™ முகப்பு திரை உள்ளமைவை மாற்றவதற்கும், அணுகுவதற்கும் பயன்பாட்டை அனுமதிக்கிறது</string>
+    <string name="home_permission_access_modify_configuration_label">அணுகுதல் மற்றும் நடப்பு Oneofakind™ முகப்பு திரை உள்ளமைவை மாற்றுதல்</string>
     <string name="home_permission_install_widget_description">பயனரின் குறுக்கீடு இல்லாமல் விட்ஜட்களைச் சேர்க்க ஒரு பயன்பாட்டை அனுமதிக்கிறது</string>
     <string name="home_permission_install_widget_label">விட்ஜட்களை நிறுவு</string>
-    <string name="home_permission_provider_insert_badge_description">அறிவிப்பு பேட்ஜ்களை அதன் Xperia™ முகப்புப் பயன்பாட்டுப் படவுருக்களில் அமைக்க பயன்பாட்டை அனுமதிக்கிறது</string>
+    <string name="home_permission_provider_insert_badge_description">அறிவிப்பு பேட்ஜ்களை அதன் Oneofakind™ முகப்புப் பயன்பாட்டுப் படவுருக்களில் அமைக்க பயன்பாட்டை அனுமதிக்கிறது</string>
     <string name="home_permission_provider_insert_badge_label">பயன்பாட்டு பேட்ஜ்களை அமை</string>
-    <string name="home_permission_provider_read_badge_description">அறிவிப்பு பேட்ஜ்களை அதன் Xperia™ முகப்புப் பயன்பாட்டுப் படவுருக்களில் காண்பிக்க பயன்பாட்டை அனுமதிக்கிறது</string>
+    <string name="home_permission_provider_read_badge_description">அறிவிப்பு பேட்ஜ்களை அதன் Oneofakind™ முகப்புப் பயன்பாட்டுப் படவுருக்களில் காண்பிக்க பயன்பாட்டை அனுமதிக்கிறது</string>
     <string name="home_permission_provider_read_badge_label">பயன்பாட்டு பேட்ஜ்களைப் பெறவும்</string>
     <string name="home_safe_mode_remove_widget_toast_txt">நீங்கள் பாதுகாப்பு பயன்முறையில் விட்ஜட்டுகளை அகற்றலாம்.</string>
     <string name="home_search_disclaimer_dialog_message">கீழே நீங்கள் ஏற்றுக்கொண்டால், பரிந்துரைகளை தனிப்பயனாக்குவதற்கு பயன்பாட்டுத் தகவல் (பயன்படுத்திய பயன்பாடுகள் போன்றவை) மற்றும் இடத்தை Sony Mobile சேகரிக்கும் (விளம்பர பங்குதாரர்களுடன் Android™ விளம்பர ID மற்றும் இடம் பகிரப்படும்). உங்களது தரவை எங்கள் <a href="http://sonymobile.com/privacy">தனியுரிமை கொள்கைக்கு</a> ஏற்ப Sony Mobile கையாளும்.</string>
@@ -214,6 +214,6 @@
     <string name="settings_search_bar_dialog_title">தேடுத. பட். தெரிவு.</string>
     <string name="settings_search_bar_hide_button_text">மறை</string>
     <string name="settings_search_bar_show_button_text">காண்பி</string>
-    <string name="settings_search_bar_visible_sub_text">தேடல் பட்டியை மீண்டும் கொண்டுவர அமைப்புகள் > பயன்பாடுகள் என்பதில் Xperia™ முகப்பு தரவை அழி.</string>
+    <string name="settings_search_bar_visible_sub_text">தேடல் பட்டியை மீண்டும் கொண்டுவர அமைப்புகள் > பயன்பாடுகள் என்பதில் Oneofakind™ முகப்பு தரவை அழி.</string>
     <string name="settings_search_bar_visible_text">முகப்பு திரையில் காண்பி</string>
 </resources>

@@ -127,7 +127,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Sortiranje aplikacija</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Deinstalirati %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Deinstaliraj aplikaciju</string>
-    <string name="home_application_name_txt">Xperia™ početni ekran</string>
+    <string name="home_application_name_txt">Oneofakind™ početni ekran</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Prevucite nalevo i izaberite stavku Prilagođeni redosled ili Abecedno da biste videli sve aplikacije.</string>
     <string name="home_apptray_see_all_applications_txt">Prevucite nadesno i izaberite stavku Prilagođeni redosled ili Abecedno da biste videli sve aplikacije.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Deinstaliraj</string>
@@ -163,7 +163,7 @@ Napomena: Ona će i dalje biti uskladištena na SD kartici."</string>
     <string name="home_folder_dialog_create_new_txt">Napravi novu fasciklu</string>
     <string name="home_folder_dialog_folder_name_txt">Ime fascikle</string>
     <string name="home_folder_name_unused_apps_txt">Nekorišćene aplikacije</string>
-    <string name="home_grid_size_change_notification_text">Vaš Xperia™ početni ekran je nadograđen na novu verziju. Veličina radne površine je promenjena i neke prečice i vidžeti su premešteni kako bi se uklopili u novi raspored. Uvek možete da preuredite radnu površinu da bi više odgovarala vašim ličnim željama.</string>
+    <string name="home_grid_size_change_notification_text">Vaš Oneofakind™ početni ekran je nadograđen na novu verziju. Veličina radne površine je promenjena i neke prečice i vidžeti su premešteni kako bi se uklopili u novi raspored. Uvek možete da preuredite radnu površinu da bi više odgovarala vašim ličnim željama.</string>
     <string name="home_grid_size_change_notification_title">Napomena</string>
     <string name="home_hint_my_applications_continue">U redu, razumeo sam!</string>
     <string name="home_hint_my_applications_info">Dodirnite ovde da biste videli svoje aplikacije</string>
@@ -185,13 +185,13 @@ Napomena: Ona će i dalje biti uskladištena na SD kartici."</string>
     <string name="home_mode_manual_setting">Klasični</string>
     <string name="home_mode_toggle_heading">Odaberite raspored</string>
     <string name="home_no_uninstallable_apps_txt">Nije moguće deinstalirati ove aplikacije</string>
-    <string name="home_permission_access_modify_configuration_description">Dozvoljava aplikaciji da pristupi trenutnoj konfiguraciji Xperia™ početnog ekrana i promeni je</string>
-    <string name="home_permission_access_modify_configuration_label">Pristup trenutnoj konfiguraciji Xperia™ početnog ekrana i njena promena</string>
+    <string name="home_permission_access_modify_configuration_description">Dozvoljava aplikaciji da pristupi trenutnoj konfiguraciji Oneofakind™ početnog ekrana i promeni je</string>
+    <string name="home_permission_access_modify_configuration_label">Pristup trenutnoj konfiguraciji Oneofakind™ početnog ekrana i njena promena</string>
     <string name="home_permission_install_widget_description">Omogućava aplikaciji da biste dodajete vidžete bez intervencije korisnika</string>
     <string name="home_permission_install_widget_label">Instaliranje vidžeta</string>
-    <string name="home_permission_provider_insert_badge_description">Omogućava aplikaciji da postavi bedževe obaveštenja na ikone aplikacije na Xperia™ početnom ekranu</string>
+    <string name="home_permission_provider_insert_badge_description">Omogućava aplikaciji da postavi bedževe obaveštenja na ikone aplikacije na Oneofakind™ početnom ekranu</string>
     <string name="home_permission_provider_insert_badge_label">postavljanje bedževa aplikacije</string>
-    <string name="home_permission_provider_read_badge_description">Dozvoljava aplikaciji da prikaže bedževe obaveštenja na ikonama aplikacije na Xperia™ početnom ekranu</string>
+    <string name="home_permission_provider_read_badge_description">Dozvoljava aplikaciji da prikaže bedževe obaveštenja na ikonama aplikacije na Oneofakind™ početnom ekranu</string>
     <string name="home_permission_provider_read_badge_label">preuzimanje bedževa aplikacije</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Možete ukloniti vidžete u bezbednom režimu</string>
     <string name="home_search_disclaimer_dialog_message">Ako se slažete sa dolenavedenim, Sony Mobile će prikupiti informacije o korišćenju (korišćene aplikacije itd.) i lokaciju radi personalizovanja preporuka. (Android™ ID oglašavanja i lokacija će biti deljeni sa partnerima za oglase). Sony Mobile će rukovati vašim podacima u skladu sa našim <a href="http://sonymobile.com/privacy">smernicama privatnosti</a></string>
@@ -265,6 +265,6 @@ Napomena: Ona će i dalje biti uskladištena na SD kartici."</string>
     <string name="settings_search_bar_dialog_title">Vidlj. trake za pret.</string>
     <string name="settings_search_bar_hide_button_text">Sakrij</string>
     <string name="settings_search_bar_show_button_text">Vrati</string>
-    <string name="settings_search_bar_visible_sub_text">Obrišite Xperia™ početne podatke u odeljku Podešavanja > Aplikacije da biste vratili traku za pretragu.</string>
+    <string name="settings_search_bar_visible_sub_text">Obrišite Oneofakind™ početne podatke u odeljku Podešavanja > Aplikacije da biste vratili traku za pretragu.</string>
     <string name="settings_search_bar_visible_text">Prikaži na početnom ekranu</string>
 </resources>

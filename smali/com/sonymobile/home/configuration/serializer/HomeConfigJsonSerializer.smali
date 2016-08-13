@@ -72,7 +72,7 @@
 
     const-string v1, "type"
 
-    const-string v2, "XperiaHomeConfiguration"
+    const-string v2, "OneofakindHomeConfiguration"
 
     invoke-virtual {v0, v1, v2}, Lorg/json/JSONObject;->put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;
 

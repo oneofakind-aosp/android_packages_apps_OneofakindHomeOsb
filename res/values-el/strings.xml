@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Ταξινόμηση εφαρμογών</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Να καταργηθεί η εγκατάσταση της εφαρμογής %1$s;</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Κατάργ.εγκατ. εφαρμογής</string>
-    <string name="home_application_name_txt">Αρχική οθόνη Xperia™</string>
+    <string name="home_application_name_txt">Αρχική οθόνη Oneofakind™</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Για να δείτε όλες τις εφαρμογές, σαρώστε προς τα αριστερά και επιλέξτε \"Προσαρμοσμένη ταξινόμηση\" ή \"Αλφαβητικά\".</string>
     <string name="home_apptray_see_all_applications_txt">Για να δείτε όλες τις εφαρμογές, σαρώστε προς τα δεξιά και επιλέξτε \"Προσαρμοσμένη ταξινόμηση\" ή \"Αλφαβητικά\".</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Κατάργηση εγκατ.</string>
@@ -162,7 +162,7 @@
     <string name="home_folder_dialog_create_new_txt">Δημιουργία νέου φακέλου</string>
     <string name="home_folder_dialog_folder_name_txt">Όνομα φακέλου</string>
     <string name="home_folder_name_unused_apps_txt">Μη χρησιμοποιούμ. εφαρμ.</string>
-    <string name="home_grid_size_change_notification_text">Η αρχική οθόνη του Xperia™ έχει αναβαθμιστεί σε νέα έκδοση. Το μέγεθος της επιφάνειας εργασίας έχει αλλάξει και ορισμένες από τις συντομεύσεις και τα widget σας έχουν μετακινηθεί ώστε να προσαρμόζονται στη νέα διάταξη. Μπορείτε να τακτοποιήσετε ξανά την επιφάνεια εργασίας σας σύμφωνα με τις προσωπικές σας προτιμήσεις.</string>
+    <string name="home_grid_size_change_notification_text">Η αρχική οθόνη του Oneofakind™ έχει αναβαθμιστεί σε νέα έκδοση. Το μέγεθος της επιφάνειας εργασίας έχει αλλάξει και ορισμένες από τις συντομεύσεις και τα widget σας έχουν μετακινηθεί ώστε να προσαρμόζονται στη νέα διάταξη. Μπορείτε να τακτοποιήσετε ξανά την επιφάνεια εργασίας σας σύμφωνα με τις προσωπικές σας προτιμήσεις.</string>
     <string name="home_grid_size_change_notification_title">Σημείωση</string>
     <string name="home_hint_my_applications_continue">Εντάξει, κατάλαβα!</string>
     <string name="home_hint_my_applications_info">Πατήστε εδώ, για να δείτε τις εφαρμογές σας</string>
@@ -184,13 +184,13 @@
     <string name="home_mode_manual_setting">Κλασική</string>
     <string name="home_mode_toggle_heading">Επιλογή διάταξης</string>
     <string name="home_no_uninstallable_apps_txt">Δεν είναι δυνατή η κατάργηση της εγκατάστασης αυτών των εφαρμογών</string>
-    <string name="home_permission_access_modify_configuration_description">Επιτρέπει σε μια εφαρμογή να αποκτά πρόσβαση και να αλλάζει την τρέχουσα διαμόρφωση της αρχικής οθόνης του Xperia™</string>
-    <string name="home_permission_access_modify_configuration_label">Πρόσβαση στην τρέχουσα διαμόρφωση της αρχικής οθόνης του Xperia™ και δυνατότητα αλλαγής της</string>
+    <string name="home_permission_access_modify_configuration_description">Επιτρέπει σε μια εφαρμογή να αποκτά πρόσβαση και να αλλάζει την τρέχουσα διαμόρφωση της αρχικής οθόνης του Oneofakind™</string>
+    <string name="home_permission_access_modify_configuration_label">Πρόσβαση στην τρέχουσα διαμόρφωση της αρχικής οθόνης του Oneofakind™ και δυνατότητα αλλαγής της</string>
     <string name="home_permission_install_widget_description">Επιτρέπει σε μια εφαρμογή να προσθέτει widget χωρίς την παρέμβαση του χρήστη</string>
     <string name="home_permission_install_widget_label">Εγκατάσταση widget</string>
-    <string name="home_permission_provider_insert_badge_description">Επιτρέπει σε μια εφαρμογή να ορίζει διακριτικά ειδοποίησης στα εικονίδια εφαρμογών της αρχικής οθόνης του Xperia™</string>
+    <string name="home_permission_provider_insert_badge_description">Επιτρέπει σε μια εφαρμογή να ορίζει διακριτικά ειδοποίησης στα εικονίδια εφαρμογών της αρχικής οθόνης του Oneofakind™</string>
     <string name="home_permission_provider_insert_badge_label">ορισμός διακριτικών εφαρμογών</string>
-    <string name="home_permission_provider_read_badge_description">Επιτρέπει σε μια εφαρμογή να εμφανίζει διακριτικά ειδοποίησης στα εικονίδια εφαρμογών της αρχικής οθόνης του Xperia™</string>
+    <string name="home_permission_provider_read_badge_description">Επιτρέπει σε μια εφαρμογή να εμφανίζει διακριτικά ειδοποίησης στα εικονίδια εφαρμογών της αρχικής οθόνης του Oneofakind™</string>
     <string name="home_permission_provider_read_badge_label">λήψη διακριτικών εφαρμογών</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Μπορείτε να καταργήσετε widget στην ασφαλή λειτουργία</string>
     <string name="home_search_disclaimer_dialog_message">Εάν συμφωνήσετε παρακάτω, η Sony Mobile θα συλλέξει τις πληροφορίες χρήσης σας (εφαρμογές που χρησιμοποιούνται, κ.λπ.) και την τοποθεσία, για εξατομίκευση των προτάσεων. (Το αναγνωριστικό διαφημίσεων Android™ και η τοποθεσία θα κοινοποιηθούν στους διαφημιζόμενους συνεργάτες). Η Sony Mobile θα χειριστεί τα δεδομένα σας σύμφωνα με την <a href="http://sonymobile.com/privacy">Πολιτική απορρήτου</a></string>
@@ -264,6 +264,6 @@
     <string name="settings_search_bar_dialog_title">Ορατ. γραμμ. αναζήτ.</string>
     <string name="settings_search_bar_hide_button_text">Απόκρυψη</string>
     <string name="settings_search_bar_show_button_text">Εμφάνιση</string>
-    <string name="settings_search_bar_visible_sub_text">Εκκαθαρίστε τα δεδομένα αρχικής οθόνης του Xperia™ από τις Ρυθμίσεις > Εφαρμογές για επαναφορά της γραμμής αναζήτησης.</string>
+    <string name="settings_search_bar_visible_sub_text">Εκκαθαρίστε τα δεδομένα αρχικής οθόνης του Oneofakind™ από τις Ρυθμίσεις > Εφαρμογές για επαναφορά της γραμμής αναζήτησης.</string>
     <string name="settings_search_bar_visible_text">Εμφάνιση στην αρχική οθόνη</string>
 </resources>

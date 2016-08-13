@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Uygulamaları sırala</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">%1$s uygulaması kaldırılsın mı?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Uygulamayı kaldır</string>
-    <string name="home_application_name_txt">Xperia™ Ana Sayfası</string>
+    <string name="home_application_name_txt">Oneofakind™ Ana Sayfası</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Tüm uygulamaları görmek için sola kaydırın ve Özel sıra ya da Alfabetik kategorisini seçin.</string>
     <string name="home_apptray_see_all_applications_txt">Tüm uygulamaları görmek için sağa kaydırın ve Özel sıra ya da Alfabetik kategorisini seçin.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Kaldır</string>
@@ -162,7 +162,7 @@ Not: SD kartta depolanmaya devam eder."</string>
     <string name="home_folder_dialog_create_new_txt">Yeni klasör oluştur</string>
     <string name="home_folder_dialog_folder_name_txt">Klasör adı</string>
     <string name="home_folder_name_unused_apps_txt">Kullanılmayan uygulamalar</string>
-    <string name="home_grid_size_change_notification_text">Xperia™ Ev cihazınız yeni bir sürüme yükseltildi. Masaüstü boyutu değiştirildi; kısayollarınızın ve widgetlerinizin bir kısmı yeni düzene uyacak şekilde taşındı. Kişisel tercihlerinize daha uygun olması için masaüstünüzü her zaman yeniden düzenleyebilirsiniz.</string>
+    <string name="home_grid_size_change_notification_text">Oneofakind™ Ev cihazınız yeni bir sürüme yükseltildi. Masaüstü boyutu değiştirildi; kısayollarınızın ve widgetlerinizin bir kısmı yeni düzene uyacak şekilde taşındı. Kişisel tercihlerinize daha uygun olması için masaüstünüzü her zaman yeniden düzenleyebilirsiniz.</string>
     <string name="home_grid_size_change_notification_title">Not</string>
     <string name="home_hint_my_applications_continue">Tamam, anladım!</string>
     <string name="home_hint_my_applications_info">Uygulamalarınızı görüntülemek için buraya dokunun</string>
@@ -184,13 +184,13 @@ Not: SD kartta depolanmaya devam eder."</string>
     <string name="home_mode_manual_setting">Klasik</string>
     <string name="home_mode_toggle_heading">Ekran düzeni seç</string>
     <string name="home_no_uninstallable_apps_txt">Bu uygulamalar kaldırılamaz</string>
-    <string name="home_permission_access_modify_configuration_description">Bir uygulamanın geçerli Xperia™ ana ekran uygulamasına erişmesine ve değiştirmesine izin verir</string>
-    <string name="home_permission_access_modify_configuration_label">Geçerli Xperia™ ana ekran yapılandırmasına eriş ve değiştir</string>
+    <string name="home_permission_access_modify_configuration_description">Bir uygulamanın geçerli Oneofakind™ ana ekran uygulamasına erişmesine ve değiştirmesine izin verir</string>
+    <string name="home_permission_access_modify_configuration_label">Geçerli Oneofakind™ ana ekran yapılandırmasına eriş ve değiştir</string>
     <string name="home_permission_install_widget_description">Kullanıcı müdahalesi olmadan widget eklemek için uygulamaya izin verir</string>
     <string name="home_permission_install_widget_label">Widget yükleme</string>
-    <string name="home_permission_provider_insert_badge_description">Bir uygulamanın Xperia™ Ana Ekran uygulama simgelerinde bildirim rozetleri ayarlamasına izin verir</string>
+    <string name="home_permission_provider_insert_badge_description">Bir uygulamanın Oneofakind™ Ana Ekran uygulama simgelerinde bildirim rozetleri ayarlamasına izin verir</string>
     <string name="home_permission_provider_insert_badge_label">uygulama rozetleri ayarla</string>
-    <string name="home_permission_provider_read_badge_description">Bir uygulamanın Xperia™ Ana Ekran uygulama simgelerinde bildirim rozetlerini görüntülemesine izin verir</string>
+    <string name="home_permission_provider_read_badge_description">Bir uygulamanın Oneofakind™ Ana Ekran uygulama simgelerinde bildirim rozetlerini görüntülemesine izin verir</string>
     <string name="home_permission_provider_read_badge_label">uygulama rozetlerini al</string>
     <string name="home_safe_mode_remove_widget_toast_txt">"Güvenli modda widget'ları kaldırabilirsiniz"</string>
     <string name="home_search_disclaimer_dialog_message">Aşağıdakileri kabul ederseniz Sony Mobile önerileri kişiselleştirmek için kullanım bilgilerini (kullanılan uygulamalar vs.) toplayacak. (Android™ reklam kimliği ve konum reklam ortaklarıyla paylaşılacak.) Sony Mobile, verilerinizi <a href="http://sonymobile.com/privacy">Gizlilik Politikamıza</a> uygun olarak işler</string>
@@ -264,6 +264,6 @@ Not: SD kartta depolanmaya devam eder."</string>
     <string name="settings_search_bar_dialog_title">Arama çbğu grnrlüğü</string>
     <string name="settings_search_bar_hide_button_text">Gizle</string>
     <string name="settings_search_bar_show_button_text">Göster</string>
-    <string name="settings_search_bar_visible_sub_text">Arama çubuğunun tekrar gösterilmesi için Ayarlar > Uygulamalar altından Xperia™ Ana Ekran verilerini temizleyin.</string>
+    <string name="settings_search_bar_visible_sub_text">Arama çubuğunun tekrar gösterilmesi için Ayarlar > Uygulamalar altından Oneofakind™ Ana Ekran verilerini temizleyin.</string>
     <string name="settings_search_bar_visible_text">Ana ekranda göster</string>
 </resources>

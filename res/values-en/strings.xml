@@ -18,7 +18,7 @@ Note: It will still be stored on the SD card."</string>
 %3$s"</string>
     <string name="home_missing_permission_dialog_phone_rationale">To call the contact</string>
     <string name="home_missing_permission_dialog_title">%1$s permission</string>
-    <string name="home_permission_access_modify_configuration_description">Allows an application to access and change the current Xperia™ home screen configuration</string>
+    <string name="home_permission_access_modify_configuration_description">Allows an application to access and change the current Oneofakind™ home screen configuration</string>
     <string name="home_search_disclaimer_dialog_message">If you agree below, Sony Mobile will collect usage info (apps used etc.) and location to personalise recommendations. (Android™ advertising ID and location will be shared with ad partners). Sony Mobile will handle your data according to our <a href="http://sonymobile.com/privacy">Privacy Policy</a></string>
     <string name="home_settings_allow_rotate_summary">Allow auto-rotation on the home screen</string>
     <string name="home_settings_allow_rotate_title">Auto-rotation</string>

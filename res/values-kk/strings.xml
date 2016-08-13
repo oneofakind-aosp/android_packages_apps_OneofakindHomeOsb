@@ -77,7 +77,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Қолданбаларды сұрыптау</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">%1$s жою керек пе?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Бағдарламаны жою</string>
-    <string name="home_application_name_txt">Xperia™ басты беті</string>
+    <string name="home_application_name_txt">Oneofakind™ басты беті</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Барлық қолданбаларды көру үшін солға жанап өтіңіз және «Теңшелетін» немесе «Әліпбилік» параметрін таңдаңыз.</string>
     <string name="home_apptray_see_all_applications_txt">Барлық қолданбаларды көру үшін оңға жанап өтіңіз және «Теңшелетін» немесе «Әліпбилік» параметрін таңдаңыз.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Жою</string>
@@ -113,7 +113,7 @@
     <string name="home_folder_dialog_create_new_txt">Жаңа қалта жасау</string>
     <string name="home_folder_dialog_folder_name_txt">Қалта атауы</string>
     <string name="home_folder_name_unused_apps_txt">Пайд-майтын қолданбалар</string>
-    <string name="home_grid_size_change_notification_text">Xperia™ негізгі экраны жаңа нұсқаға жаңартылды. Жұмыс үстелінің өлшемі өзгертілді және кейбір төте жолдар және виджеттер жаңа орналастыруға қиыстыру үшін жылжытылды. Жеке таңдауға жақсырақ сәйкес болуы үшін жұмыс үстеліңізді кез келген уақытта қайта реттей аласыз.</string>
+    <string name="home_grid_size_change_notification_text">Oneofakind™ негізгі экраны жаңа нұсқаға жаңартылды. Жұмыс үстелінің өлшемі өзгертілді және кейбір төте жолдар және виджеттер жаңа орналастыруға қиыстыру үшін жылжытылды. Жеке таңдауға жақсырақ сәйкес болуы үшін жұмыс үстеліңізді кез келген уақытта қайта реттей аласыз.</string>
     <string name="home_grid_size_change_notification_title">Ескертпе</string>
     <string name="home_hint_my_applications_continue">OK, түсіндім!</string>
     <string name="home_hint_my_applications_info">Қолданбаларды көру үшін осы жерді түртіңіз</string>
@@ -135,13 +135,13 @@
     <string name="home_mode_manual_setting">Классикалық</string>
     <string name="home_mode_toggle_heading">Орналасуды таңдау</string>
     <string name="home_no_uninstallable_apps_txt">Бұл қолданбалар жойылмады</string>
-    <string name="home_permission_access_modify_configuration_description">Қолданбаға ағымдағы Xperia™ негізгі экранының конфигурациясына қол жеткізуге және өзгертуге мүмкіндік береді</string>
-    <string name="home_permission_access_modify_configuration_label">Ағымдағы Xperia™ негізгі экранының конфигурациясына қол жеткізу және оны өзгерту</string>
+    <string name="home_permission_access_modify_configuration_description">Қолданбаға ағымдағы Oneofakind™ негізгі экранының конфигурациясына қол жеткізуге және өзгертуге мүмкіндік береді</string>
+    <string name="home_permission_access_modify_configuration_label">Ағымдағы Oneofakind™ негізгі экранының конфигурациясына қол жеткізу және оны өзгерту</string>
     <string name="home_permission_install_widget_description">Қолданбаға пайдаланушының араласуынсыз виджеттерді қосуға мүмкіндік береді</string>
     <string name="home_permission_install_widget_label">Виджеттерді орнату</string>
-    <string name="home_permission_provider_insert_badge_description">Қолданбаға Xperia™ негізгі экранындағы қолданба белгішелерінде ескертпе бейджиктерін орнатуға мүмкіндік береді</string>
+    <string name="home_permission_provider_insert_badge_description">Қолданбаға Oneofakind™ негізгі экранындағы қолданба белгішелерінде ескертпе бейджиктерін орнатуға мүмкіндік береді</string>
     <string name="home_permission_provider_insert_badge_label">қолданба белгішелерін орнату</string>
-    <string name="home_permission_provider_read_badge_description">Қолданбаға Xperia™ негізгі экранындағы қолданба белгішелерінде ескертпе бейджиктерін көрсетуге мүмкіндік береді</string>
+    <string name="home_permission_provider_read_badge_description">Қолданбаға Oneofakind™ негізгі экранындағы қолданба белгішелерінде ескертпе бейджиктерін көрсетуге мүмкіндік береді</string>
     <string name="home_permission_provider_read_badge_label">қолданба белгішелерін алу</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Қауіпсіз режимде виджеттерді жоюға болады</string>
     <string name="home_search_disclaimer_dialog_message">Төменде келіссеңіз, Sony Mobile ұсыныстарды жекелендіру үшін пайдалану туралы ақпаратты (пайдаланылған қолданбалар, т.б.) және орынды жинайды. (Android™ жарнамалық идентификаторы және орын жарнамалық серіктестермен ортақтастырылады). Sony Mobile деректеріңізді <a href="http://sonymobile.com/privacy">Құпиялық саясатына</a> сай өңдейді</string>
@@ -215,6 +215,6 @@
     <string name="settings_search_bar_dialog_title">Іздеу жолағын. көрін.</string>
     <string name="settings_search_bar_hide_button_text">Жасыру</string>
     <string name="settings_search_bar_show_button_text">Көрсету</string>
-    <string name="settings_search_bar_visible_sub_text">Іздеу жолағын қайтару үшін «Параметрлер» > «Қолданбалар» тармағында Xperia™ негізгі экран деректерін өшіріңіз.</string>
+    <string name="settings_search_bar_visible_sub_text">Іздеу жолағын қайтару үшін «Параметрлер» > «Қолданбалар» тармағында Oneofakind™ негізгі экран деректерін өшіріңіз.</string>
     <string name="settings_search_bar_visible_text">Негізгі экранда көрсету</string>
 </resources>

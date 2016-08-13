@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">アプリの並べ替え</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">[%1$s]をアンインストールしますか?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">アプリアンインストール</string>
-    <string name="home_application_name_txt">Xperia™ホーム</string>
+    <string name="home_application_name_txt">Oneofakind™ホーム</string>
     <string name="home_apptray_see_all_applications_bidi_txt">すべてのアプリケーションを表示するには、左にスワイプして、カスタムまたはアルファベット順を選択してください。</string>
     <string name="home_apptray_see_all_applications_txt">すべてのアプリケーションを表示するには、右にスワイプして、カスタムまたはアルファベット順を選択してください。</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">アンインストール</string>
@@ -162,7 +162,7 @@
     <string name="home_folder_dialog_create_new_txt">新規フォルダの作成</string>
     <string name="home_folder_dialog_folder_name_txt">フォルダ名</string>
     <string name="home_folder_name_unused_apps_txt">使用していないアプリ</string>
-    <string name="home_grid_size_change_notification_text">Xperia™ホームは新しいバージョンにアップグレードされました。デスクトップサイズが変更され、いくつかのショートカットやウィジェットは、新しいレイアウトに合うように配置されました。お好みに合わせて、いつでもデスクトップの並べ替えができます。</string>
+    <string name="home_grid_size_change_notification_text">Oneofakind™ホームは新しいバージョンにアップグレードされました。デスクトップサイズが変更され、いくつかのショートカットやウィジェットは、新しいレイアウトに合うように配置されました。お好みに合わせて、いつでもデスクトップの並べ替えができます。</string>
     <string name="home_grid_size_change_notification_title">注意</string>
     <string name="home_hint_my_applications_continue">了解しました。</string>
     <string name="home_hint_my_applications_info">ここをタップしてアプリケーションを表示します</string>
@@ -184,13 +184,13 @@
     <string name="home_mode_manual_setting">クラシック</string>
     <string name="home_mode_toggle_heading">レイアウト選択</string>
     <string name="home_no_uninstallable_apps_txt">これらのアプリは削除できません</string>
-    <string name="home_permission_access_modify_configuration_description">現在のXperia™ホーム画面設定へのアクセスおよび変更を行うことをアプリケーションに許可します</string>
-    <string name="home_permission_access_modify_configuration_label">現在のXperia™ホーム画面設定へのアクセスおよび変更を行います</string>
+    <string name="home_permission_access_modify_configuration_description">現在のOneofakind™ホーム画面設定へのアクセスおよび変更を行うことをアプリケーションに許可します</string>
+    <string name="home_permission_access_modify_configuration_label">現在のOneofakind™ホーム画面設定へのアクセスおよび変更を行います</string>
     <string name="home_permission_install_widget_description">ユーザー操作なしでウィジェットの追加をアプリケーションに許可します</string>
     <string name="home_permission_install_widget_label">ウィジェットのインストール</string>
-    <string name="home_permission_provider_insert_badge_description">Xperia™ホームアプリケーションのアイコンに、通知バッジを設定することをアプリケーションに許可します</string>
+    <string name="home_permission_provider_insert_badge_description">Oneofakind™ホームアプリケーションのアイコンに、通知バッジを設定することをアプリケーションに許可します</string>
     <string name="home_permission_provider_insert_badge_label">アプリケーションバッジの設定</string>
-    <string name="home_permission_provider_read_badge_description">Xperia™ホームアプリケーションのアイコンに、通知バッジを表示することをアプリケーションに許可します</string>
+    <string name="home_permission_provider_read_badge_description">Oneofakind™ホームアプリケーションのアイコンに、通知バッジを表示することをアプリケーションに許可します</string>
     <string name="home_permission_provider_read_badge_label">アプリケーションバッジの取得</string>
     <string name="home_safe_mode_remove_widget_toast_txt">セーフモードでウィジェットを削除できます</string>
     <string name="home_search_disclaimer_dialog_message">以下に同意すると、Sony Mobileはおすすめ情報をカスタマイズするため、使用情報(使用しているアプリなど)、位置情報を収集します。(Android™広告IDおよび位置情報は広告パートナーと共有されます)。Sony Mobileは、<a href="http://sonymobile.com/privacy">プライバシーポリシー</a>に基づいてデータを取り扱います。</string>
@@ -264,6 +264,6 @@
     <string name="settings_search_bar_dialog_title">検索バー表示</string>
     <string name="settings_search_bar_hide_button_text">非表示</string>
     <string name="settings_search_bar_show_button_text">表示</string>
-    <string name="settings_search_bar_visible_sub_text">検索バーを元に戻すには、[設定] > [アプリ]でXperia™ホームのデータを削除してください。</string>
+    <string name="settings_search_bar_visible_sub_text">検索バーを元に戻すには、[設定] > [アプリ]でOneofakind™ホームのデータを削除してください。</string>
     <string name="settings_search_bar_visible_text">ホーム画面に表示</string>
 </resources>

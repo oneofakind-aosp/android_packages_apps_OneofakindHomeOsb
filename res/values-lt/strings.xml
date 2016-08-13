@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Rikiuoti programas</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">Pašalinti „%1$s“?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">Programos šalinimas</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Jei norite matyti visas programas, braukite kairėn ir pasirinkite „Pasirinktinė tvarka“ arba „Abėcėlinė“.</string>
     <string name="home_apptray_see_all_applications_txt">Jei norite matyti visas programas, braukite dešinėn ir pasirinkite „Pasirinktinė tvarka“ arba „Abėcėlinė“.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">Pašalinti</string>
@@ -162,7 +162,7 @@ Pastaba: ji liks išsaugota SD kortelėje."</string>
     <string name="home_folder_dialog_create_new_txt">Kurti naują aplanką</string>
     <string name="home_folder_dialog_folder_name_txt">Aplanko pavadinimas</string>
     <string name="home_folder_name_unused_apps_txt">Nenaudojamos programos</string>
-    <string name="home_grid_size_change_notification_text">Atnaujinta jūsų „Xperia™“ pagrindinio puslapio naujausia versija. Darbalaukio dydis pasikeitė ir kai kurios nuorodos bei valdikliai perkelti, kad tiktų prie naujo maketo. Galite pertvarkyti savo darbalaukį, kad atitiktų jūsų asmenines nuostatas.</string>
+    <string name="home_grid_size_change_notification_text">Atnaujinta jūsų „Oneofakind™“ pagrindinio puslapio naujausia versija. Darbalaukio dydis pasikeitė ir kai kurios nuorodos bei valdikliai perkelti, kad tiktų prie naujo maketo. Galite pertvarkyti savo darbalaukį, kad atitiktų jūsų asmenines nuostatas.</string>
     <string name="home_grid_size_change_notification_title">Pastaba</string>
     <string name="home_hint_my_applications_continue">Gerai, supratau!</string>
     <string name="home_hint_my_applications_info">Bakstelėkite čia ir peržiūrėkite programas</string>
@@ -184,13 +184,13 @@ Pastaba: ji liks išsaugota SD kortelėje."</string>
     <string name="home_mode_manual_setting">Klasikinis</string>
     <string name="home_mode_toggle_heading">Pasirinkti išdėstymą</string>
     <string name="home_no_uninstallable_apps_txt">Šių programų negalima pašalinti</string>
-    <string name="home_permission_access_modify_configuration_description">Leidžia programai pasiekti ir keisti esamą „Xperia™“ pagrindinio ekrano konfigūraciją</string>
-    <string name="home_permission_access_modify_configuration_label">Pasiekti ir keisti esamą „Xperia™“ pagrindinio ekrano konfigūraciją</string>
+    <string name="home_permission_access_modify_configuration_description">Leidžia programai pasiekti ir keisti esamą „Oneofakind™“ pagrindinio ekrano konfigūraciją</string>
+    <string name="home_permission_access_modify_configuration_label">Pasiekti ir keisti esamą „Oneofakind™“ pagrindinio ekrano konfigūraciją</string>
     <string name="home_permission_install_widget_description">Leidžia programai įtraukti įtaisų be naudotojo įsikišimo</string>
     <string name="home_permission_install_widget_label">Įdiegti įtaisus</string>
-    <string name="home_permission_provider_insert_badge_description">Leidžia programai nustatyti pranešimo ženklelius „Xperia™“ pagrindinio ekrano programų piktogramose</string>
+    <string name="home_permission_provider_insert_badge_description">Leidžia programai nustatyti pranešimo ženklelius „Oneofakind™“ pagrindinio ekrano programų piktogramose</string>
     <string name="home_permission_provider_insert_badge_label">nustatyti programos ženklelius</string>
-    <string name="home_permission_provider_read_badge_description">Leidžia programai rodyti pranešimo ženklelius „Xperia™“ pagrindinio ekrano programų piktogramose</string>
+    <string name="home_permission_provider_read_badge_description">Leidžia programai rodyti pranešimo ženklelius „Oneofakind™“ pagrindinio ekrano programų piktogramose</string>
     <string name="home_permission_provider_read_badge_label">gauti programos ženklelių</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Dirbdami saugiuoju režimu galite pašalinti įtaisus</string>
     <string name="home_search_disclaimer_dialog_message">Jei toliau sutiksite, „Sony Mobile“ rinks naudojimo informaciją (apie naudotas programas ir t. t.) ir vietos duomenis, kad rekomendacijas galėtų pritaikyti jums. („Android™“ reklamavimo ID ir vietos informacija bus bendrinami su reklamos partneriais). „Sony Mobile“ jūsų duomenis naudos vadovaudamasi <a href="http://sonymobile.com/privacy">privatumo politika</a></string>
@@ -264,6 +264,6 @@ Pastaba: ji liks išsaugota SD kortelėje."</string>
     <string name="settings_search_bar_dialog_title">Paieškos juostos mat.</string>
     <string name="settings_search_bar_hide_button_text">Slėpti</string>
     <string name="settings_search_bar_show_button_text">Rodyti</string>
-    <string name="settings_search_bar_visible_sub_text">Norėdami grąžinti paieškos juostą, išvalykite „Xperia™“ pagrindinio ekrano duomenis pasirinkę „Nustatymai > Programos“.</string>
+    <string name="settings_search_bar_visible_sub_text">Norėdami grąžinti paieškos juostą, išvalykite „Oneofakind™“ pagrindinio ekrano duomenis pasirinkę „Nustatymai > Programos“.</string>
     <string name="settings_search_bar_visible_text">Rodoma pagrindiniame ekrane</string>
 </resources>

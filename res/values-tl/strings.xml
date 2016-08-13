@@ -126,7 +126,7 @@
     <string name="home_app_tray_sort_mode_dialog_title_txt">Ayusin ang mga app</string>
     <string name="home_app_tray_uninstall_dialog_content_txt">I-uninstall ang %1$s?</string>
     <string name="home_app_tray_uninstall_dialog_title_txt">I-uninstall ang application</string>
-    <string name="home_application_name_txt">Xperia™ Home</string>
+    <string name="home_application_name_txt">Oneofakind™ Home</string>
     <string name="home_apptray_see_all_applications_bidi_txt">Upang makita ang lahat ng application, mag-swipe pakaliwa at piliin ang Custom na pagkakasunud-sunod o Ayon sa alpabeto.</string>
     <string name="home_apptray_see_all_applications_txt">Upang makita ang lahat ng application, mag-swipe pakanan at piliin ang Custome na pagkakasunud-sunod o Ayon sa alpabeto.</string>
     <string name="home_apptray_uninstall_dialog_ok_button_txt">I-uninstall</string>
@@ -162,7 +162,7 @@ Tandaan: iiimbak pa rin ito sa SD card."</string>
     <string name="home_folder_dialog_create_new_txt">Lumikha ng bagong folder</string>
     <string name="home_folder_dialog_folder_name_txt">Pangalan ng folder</string>
     <string name="home_folder_name_unused_apps_txt">Mga hindi ginagamit na app</string>
-    <string name="home_grid_size_change_notification_text">Ang iyong Xperia™ Home ay na-upgrade na sa isang bagong bersyon. Binago ang laki ng desktop at inilipat ang ilan sa iyong mga shortcut at widget upang kumasya sa bagong layout. Maaari mong isaayos ulit ang iyong desktop anumang oras upang mas tumugma ito sa iyong mga personal na kagustuahan.</string>
+    <string name="home_grid_size_change_notification_text">Ang iyong Oneofakind™ Home ay na-upgrade na sa isang bagong bersyon. Binago ang laki ng desktop at inilipat ang ilan sa iyong mga shortcut at widget upang kumasya sa bagong layout. Maaari mong isaayos ulit ang iyong desktop anumang oras upang mas tumugma ito sa iyong mga personal na kagustuahan.</string>
     <string name="home_grid_size_change_notification_title">Tandaan</string>
     <string name="home_hint_my_applications_continue">OK, nakuha ko!</string>
     <string name="home_hint_my_applications_info">Tumapik dito upang tingnan ang iyong mga application</string>
@@ -184,13 +184,13 @@ Tandaan: iiimbak pa rin ito sa SD card."</string>
     <string name="home_mode_manual_setting">Classic</string>
     <string name="home_mode_toggle_heading">Pumili ng layout</string>
     <string name="home_no_uninstallable_apps_txt">Hindi maaaring i-unistall ang apps na ito</string>
-    <string name="home_permission_access_modify_configuration_description">Pinapayagan ang isang application na i-access at baguhin ang configuration ng Xperia™ home screen</string>
-    <string name="home_permission_access_modify_configuration_label">I-access at baguhin ang kasalukuyang configuration ng Xperia™ home screen</string>
+    <string name="home_permission_access_modify_configuration_description">Pinapayagan ang isang application na i-access at baguhin ang configuration ng Oneofakind™ home screen</string>
+    <string name="home_permission_access_modify_configuration_label">I-access at baguhin ang kasalukuyang configuration ng Oneofakind™ home screen</string>
     <string name="home_permission_install_widget_description">Nagbibigay-daan sa isang application na magdagdag ng mga widget nang hindi namamagitan ang user</string>
     <string name="home_permission_install_widget_label">I-install ang mga widget</string>
-    <string name="home_permission_provider_insert_badge_description">Pinapayagan ang isang application na magtakda ng mga badge ng notification sa mga icon ng Xperia™ Home application</string>
+    <string name="home_permission_provider_insert_badge_description">Pinapayagan ang isang application na magtakda ng mga badge ng notification sa mga icon ng Oneofakind™ Home application</string>
     <string name="home_permission_provider_insert_badge_label">mag-set ng mga badge ng application</string>
-    <string name="home_permission_provider_read_badge_description">Pinapayagan ang isang application na magpakita ng mga badge ng notification sa mga icon ng Xperia™ Home application</string>
+    <string name="home_permission_provider_read_badge_description">Pinapayagan ang isang application na magpakita ng mga badge ng notification sa mga icon ng Oneofakind™ Home application</string>
     <string name="home_permission_provider_read_badge_label">kunin ang mga badge ng application</string>
     <string name="home_safe_mode_remove_widget_toast_txt">Maaari kang mag-alis ng mga widget sa safe mode</string>
     <string name="home_search_disclaimer_dialog_message">Kung sumasang-ayon ka sa ibaba, mangongolekta ang Sony Mobile ng impormasyon ng paggamit (mga app na ginagamit atbp.) at lokasyon upang mag-personalize ng mga rekomendasyon. (Ibabahagi ang Android™ advertising ID at lokasyon sa mga ad partner). Papangasiwaan ng Sony Mobile ang iyong data alinsunod sa aming <a href="http://sonymobile.com/privacy">Patakaran sa Privacy</a></string>
@@ -264,6 +264,6 @@ Tandaan: iiimbak pa rin ito sa SD card."</string>
     <string name="settings_search_bar_dialog_title">Visibility ng search bar</string>
     <string name="settings_search_bar_hide_button_text">Itago</string>
     <string name="settings_search_bar_show_button_text">Ipakita</string>
-    <string name="settings_search_bar_visible_sub_text">I-clear ang data ng Xperia™ Home sa Mga Setting > Apps upang ibalik ang bar ng Paghahanap.</string>
+    <string name="settings_search_bar_visible_sub_text">I-clear ang data ng Oneofakind™ Home sa Mga Setting > Apps upang ibalik ang bar ng Paghahanap.</string>
     <string name="settings_search_bar_visible_text">Ipakita sa Home screen</string>
 </resources>

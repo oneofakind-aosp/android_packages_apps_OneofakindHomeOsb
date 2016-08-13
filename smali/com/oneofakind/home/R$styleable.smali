@@ -1,11 +1,11 @@
-.class public final Lcom/sonyericsson/home/R$styleable;
+.class public final Lcom/oneofakind/home/R$styleable;
 .super Ljava/lang/Object;
 .source "R.java"
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/sonyericsson/home/R;
+    value = Lcom/oneofakind/home/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;
@@ -888,7 +888,7 @@
 
     fill-array-data v0, :array_0
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ActionBar:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ActionBar:[I
 
     .line 4240
     new-array v0, v3, [I
@@ -897,7 +897,7 @@
 
     aput v1, v0, v2
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ActionBarLayout:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ActionBarLayout:[I
 
     .line 4259
     new-array v0, v3, [I
@@ -906,12 +906,12 @@
 
     aput v1, v0, v2
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ActionMenuItemView:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ActionMenuItemView:[I
 
     .line 4270
     new-array v0, v2, [I
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ActionMenuView:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ActionMenuView:[I
 
     .line 4293
     const/4 v0, 0x6
@@ -920,14 +920,14 @@
 
     fill-array-data v0, :array_1
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ActionMode:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ActionMode:[I
 
     .line 4377
     new-array v0, v4, [I
 
     fill-array-data v0, :array_2
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ActivityChooserView:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ActivityChooserView:[I
 
     .line 4424
     const/4 v0, 0x6
@@ -936,28 +936,28 @@
 
     fill-array-data v0, :array_3
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->AlertDialog:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->AlertDialog:[I
 
     .line 4498
     new-array v0, v5, [I
 
     fill-array-data v0, :array_4
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->AppBarLayout:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->AppBarLayout:[I
 
     .line 4549
     new-array v0, v4, [I
 
     fill-array-data v0, :array_5
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->AppBarLayout_LayoutParams:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->AppBarLayout_LayoutParams:[I
 
     .line 4594
     new-array v0, v4, [I
 
     fill-array-data v0, :array_6
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->AppCompatTextView:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->AppCompatTextView:[I
 
     .line 4624
     new-array v0, v3, [I
@@ -966,14 +966,14 @@
 
     aput v1, v0, v2
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ButtonBarLayout:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ButtonBarLayout:[I
 
     .line 4653
     new-array v0, v4, [I
 
     fill-array-data v0, :array_7
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->CollapsingAppBarLayout_LayoutParams:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->CollapsingAppBarLayout_LayoutParams:[I
 
     .line 4724
     const/16 v0, 0xe
@@ -982,28 +982,28 @@
 
     fill-array-data v0, :array_8
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->CollapsingToolbarLayout:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->CollapsingToolbarLayout:[I
 
     .line 4962
     new-array v0, v5, [I
 
     fill-array-data v0, :array_9
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->CompoundButton:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->CompoundButton:[I
 
     .line 5018
     new-array v0, v4, [I
 
     fill-array-data v0, :array_a
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->CoordinatorLayout:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->CoordinatorLayout:[I
 
     .line 5059
     new-array v0, v6, [I
 
     fill-array-data v0, :array_b
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->CoordinatorLayout_LayoutParams:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->CoordinatorLayout_LayoutParams:[I
 
     .line 5160
     const/16 v0, 0x8
@@ -1012,7 +1012,7 @@
 
     fill-array-data v0, :array_c
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->DrawerArrowToggle:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->DrawerArrowToggle:[I
 
     .line 5311
     const/4 v0, 0x7
@@ -1021,14 +1021,14 @@
 
     fill-array-data v0, :array_d
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->FloatingActionButton:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->FloatingActionButton:[I
 
     .line 5444
     new-array v0, v5, [I
 
     fill-array-data v0, :array_e
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ForegroundLinearLayout:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ForegroundLinearLayout:[I
 
     .line 5499
     const/16 v0, 0x9
@@ -1037,7 +1037,7 @@
 
     fill-array-data v0, :array_f
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->LinearLayoutCompat:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->LinearLayoutCompat:[I
 
     .line 5609
     const/4 v0, 0x4
@@ -1046,21 +1046,21 @@
 
     fill-array-data v0, :array_10
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->LinearLayoutCompat_Layout:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->LinearLayoutCompat_Layout:[I
 
     .line 5648
     new-array v0, v4, [I
 
     fill-array-data v0, :array_11
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ListPopupWindow:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ListPopupWindow:[I
 
     .line 5677
     new-array v0, v5, [I
 
     fill-array-data v0, :array_12
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->LoadingImageView:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->LoadingImageView:[I
 
     .line 5746
     const/4 v0, 0x6
@@ -1069,7 +1069,7 @@
 
     fill-array-data v0, :array_13
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->MenuGroup:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->MenuGroup:[I
 
     .line 5828
     const/16 v0, 0x11
@@ -1078,7 +1078,7 @@
 
     fill-array-data v0, :array_14
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->MenuItem:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->MenuItem:[I
 
     .line 5995
     const/16 v0, 0x8
@@ -1087,7 +1087,7 @@
 
     fill-array-data v0, :array_15
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->MenuView:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->MenuView:[I
 
     .line 6083
     const/16 v0, 0xa
@@ -1096,14 +1096,14 @@
 
     fill-array-data v0, :array_16
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->NavigationView:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->NavigationView:[I
 
     .line 6204
     new-array v0, v4, [I
 
     fill-array-data v0, :array_17
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->PopupWindow:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->PopupWindow:[I
 
     .line 6237
     new-array v0, v3, [I
@@ -1112,14 +1112,14 @@
 
     aput v1, v0, v2
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->PopupWindowBackgroundState:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->PopupWindowBackgroundState:[I
 
     .line 6272
     new-array v0, v6, [I
 
     fill-array-data v0, :array_18
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->RecyclerView:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->RecyclerView:[I
 
     .line 6348
     new-array v0, v3, [I
@@ -1128,7 +1128,7 @@
 
     aput v1, v0, v2
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ScrimInsetsFrameLayout:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ScrimInsetsFrameLayout:[I
 
     .line 6373
     new-array v0, v3, [I
@@ -1137,7 +1137,7 @@
 
     aput v1, v0, v2
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ScrollingViewBehavior_Params:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ScrollingViewBehavior_Params:[I
 
     .line 6434
     const/16 v0, 0x11
@@ -1146,14 +1146,14 @@
 
     fill-array-data v0, :array_19
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->SearchView:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->SearchView:[I
 
     .line 6621
     new-array v0, v5, [I
 
     fill-array-data v0, :array_1a
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->SnackbarLayout:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->SnackbarLayout:[I
 
     .line 6678
     const/4 v0, 0x4
@@ -1162,7 +1162,7 @@
 
     fill-array-data v0, :array_1b
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->Spinner:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->Spinner:[I
 
     .line 6737
     const/16 v0, 0xa
@@ -1171,7 +1171,7 @@
 
     fill-array-data v0, :array_1c
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->SwitchCompat:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->SwitchCompat:[I
 
     .line 6896
     const/16 v0, 0x10
@@ -1180,7 +1180,7 @@
 
     fill-array-data v0, :array_1d
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->TabLayout:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->TabLayout:[I
 
     .line 7171
     const/16 v0, 0x9
@@ -1189,7 +1189,7 @@
 
     fill-array-data v0, :array_1e
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->TextAppearance:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->TextAppearance:[I
 
     .line 7263
     const/16 v0, 0xa
@@ -1198,7 +1198,7 @@
 
     fill-array-data v0, :array_1f
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->TextInputLayout:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->TextInputLayout:[I
 
     .line 7604
     const/16 v0, 0x6e
@@ -1207,7 +1207,7 @@
 
     fill-array-data v0, :array_20
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->Theme:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->Theme:[I
 
     .line 8968
     const/16 v0, 0x19
@@ -1216,7 +1216,7 @@
 
     fill-array-data v0, :array_21
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->Toolbar:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->Toolbar:[I
 
     .line 9319
     new-array v0, v3, [I
@@ -1225,28 +1225,28 @@
 
     aput v1, v0, v2
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ValuedRadioButton:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ValuedRadioButton:[I
 
     .line 9354
     new-array v0, v6, [I
 
     fill-array-data v0, :array_22
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->View:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->View:[I
 
     .line 9426
     new-array v0, v5, [I
 
     fill-array-data v0, :array_23
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ViewBackgroundHelper:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ViewBackgroundHelper:[I
 
     .line 9484
     new-array v0, v5, [I
 
     fill-array-data v0, :array_24
 
-    sput-object v0, Lcom/sonyericsson/home/R$styleable;->ViewStubCompat:[I
+    sput-object v0, Lcom/oneofakind/home/R$styleable;->ViewStubCompat:[I
 
     return-void
 
