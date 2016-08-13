@@ -148,22 +148,6 @@
     .line 48
     iget-object v0, p0, Lcom/sonymobile/home/cui/CuiGridMainMenuModel$1;->this$0:Lcom/sonymobile/home/cui/CuiGridMainMenuModel;
 
-    # getter for: Lcom/sonymobile/home/cui/CuiGridMainMenuModel;->mEnableThemes:Z
-    invoke-static {v0}, Lcom/sonymobile/home/cui/CuiGridMainMenuModel;->access$000(Lcom/sonymobile/home/cui/CuiGridMainMenuModel;)Z
-
-    move-result v0
-
-    if-eqz v0, :cond_0
-
-    .line 49
-    const v0, 0x7f020059
-
-    const v1, 0x7f080086
-
-    sget-object v2, Lcom/sonymobile/home/cui/CuiGridItem$CuiGridItemType;->ITEM_MAIN_MENU_THEMES:Lcom/sonymobile/home/cui/CuiGridItem$CuiGridItemType;
-
-    invoke-direct {p0, v0, v1, v2}, Lcom/sonymobile/home/cui/CuiGridMainMenuModel$1;->addGridItem(IILcom/sonymobile/home/cui/CuiGridItem$CuiGridItemType;)V
-
     .line 52
     :cond_0
     const v0, 0x7f020058
