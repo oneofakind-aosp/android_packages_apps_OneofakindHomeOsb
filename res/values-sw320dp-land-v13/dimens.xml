@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="apptray_cell_height">68.0dip</dimen>
+    <dimen name="apptray_cell_width">100.0dip</dimen>
+    <dimen name="apptray_grid_height">276.0dip</dimen>
+    <dimen name="apptray_grid_offset">20.0dip</dimen>
+    <dimen name="apptray_grid_zoom_offset">42.0dip</dimen>
+    <dimen name="cui_grid_height_large">155.0dip</dimen>
+    <dimen name="cui_grid_height_small">155.0dip</dimen>
+    <dimen name="cui_main_menu_cell_height">74.0dip</dimen>
+    <item type="dimen" name="cui_main_menu_cell_width">@dimen/cui_grid_height_small</item>
+    <dimen name="desktop_cell_height">74.0dip</dimen>
+    <dimen name="desktop_cell_width">106.0dip</dimen>
+    <dimen name="stage_cell_height">62.0dip</dimen>
+    <dimen name="stage_cell_width">68.0dip</dimen>
+    <dimen name="apptray_icon_image_size">44.0dip</dimen>
+    <dimen name="apptray_icon_label_max_text_size">13.0dip</dimen>
+    <dimen name="desktop_grid_horizontal_offset">-61.0dip</dimen>
+    <dimen name="desktop_grid_vertical_offset">12.0dip</dimen>
+    <dimen name="desktop_icon_label_max_text_size">14.0dip</dimen>
+    <dimen name="desktop_low_zoom_vertical_position">12.0dip</dimen>
+</resources>

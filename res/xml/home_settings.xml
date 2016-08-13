@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/home_settings_layout_category" android:key="home_settings_layout_category">
+        <PreferenceScreen android:title="@string/home_settings_home_mode" android:key="user_settings_desktop_home_screen_style" />
+        <SwitchPreference android:title="@string/home_settings_allow_rotate_title" android:key="user_settings_allow_auto_rotation" android:summary="@string/home_settings_allow_rotate_summary" android:defaultValue="@bool/autoRotate" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/home_settings_icon_category" android:key="home_settings_icons_category">
+        <ListPreference android:entries="@array/home_settings_icon_size_labels" android:title="@string/home_settings_icon_size_title" android:key="user_settings_icon_size_mode" android:defaultValue="@string/icon_size_large" android:entryValues="@array/home_settings_icon_size_values" />
+        <Preference android:title="@string/home_settings_icon_pack_title" android:key="user_settings_set_icon_pack" android:summary="@string/home_settings_icon_pack_summary" />
+        <SwitchPreference android:title="@string/home_settings_show_labels_in_stage_title" android:key="user_settings_show_stage_labels" android:summary="@string/home_settings_show_labels_in_stage_summary" android:defaultValue="@bool/enable_stage_icon_labels" />
+        <SwitchPreference android:title="@string/home_settings_auto_pack_desktop_items" android:key="user_settings_auto_pack_desktop_items" android:summary="@string/home_settings_auto_pack_desktop_items_summary" android:defaultValue="@bool/default_auto_pack_desktop_items" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/home_settings_effects_category" android:key="home_settings_effects_category">
+        <Preference android:title="@string/home_settings_page_transition_title" android:key="home_settings_page_transition" android:summary="@string/home_settings_page_transition_summary" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/home_settings_search_category" android:key="home_settings_search_category">
+        <SwitchPreference android:title="@string/home_settings_search_recommendations_title" android:key="home_settings_app_recommendations" android:summary="@string/home_settings_search_recommendations_summary" android:defaultValue="@bool/default_home_enable_online_suggestions_preference" />
+        <SwitchPreference android:title="@string/home_settings_search_personalize_title" android:key="user_settings_personalize_recommendations" android:summary="@string/home_settings_search_personalize_summary" android:dependency="home_settings_app_recommendations" android:defaultValue="@bool/search_personalize_recommendations" />
+        <SwitchPreference android:title="@string/home_settings_show_keyboard_when_entering_search_apps_title" android:key="user_settings_show_keyboard_when_entering_search_apps" android:summary="@string/home_settings_show_keyboard_when_entering_search_apps_summary" android:defaultValue="@bool/enable_show_keyboard_when_entering_search_apps" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/home_settings_advanced_category" android:key="home_settings_advanced_category">
+        <SwitchPreference android:title="@string/home_settings_straight_to_desktop_title" android:key="user_settings_straight_to_desktop_mode" android:summary="@string/home_settings_straight_to_desktop_summary" android:defaultValue="@bool/enable_straight_to_desktop_mode" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/home_settings_about_category" android:key="@string/home_settings_about_category">
+        <PreferenceScreen android:title="@string/home_settings_license_title" android:key="user_settings_license_information" android:summary="@string/home_settings_license_button_summary" />
+        <PreferenceScreen android:title="@string/home_settings_version_title" android:key="user_settings_about_version" android:summary="@android:string/unknownName" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="desktop_page_indicator_autohide">false</bool>
+    <bool name="transparent_status_and_nav_bar">true</bool>
+</resources>

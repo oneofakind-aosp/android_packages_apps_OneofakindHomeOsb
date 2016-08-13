@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/home_settings_license_dialog_horizontal_padding" android:paddingRight="@dimen/home_settings_license_dialog_horizontal_padding" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/home_settings_license_title" android:lines="1" style="@android:style/TextAppearance.DeviceDefault.Widget.ActionMode.Title" />
+    <TextView android:textSize="@dimen/home_settings_license_text_size" android:id="@id/license_text" android:layout_width="fill_parent" android:layout_height="0.0px" android:layout_weight="1.0" style="@style/HomeLicenseBodyText" />
+    <Button android:layout_gravity="end" android:id="@id/dismiss_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/home_settings_license_button_top_margin" android:text="@android:string/ok" style="@android:style/Widget.DeviceDefault.Button.Borderless" />
+</LinearLayout>

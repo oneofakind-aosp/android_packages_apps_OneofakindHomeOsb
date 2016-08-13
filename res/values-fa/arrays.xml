@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>پوشه</item>
+        <item>اجتماعي</item>
+        <item>سرگرمي</item>
+        <item>رسانه</item>
+        <item>موارد دلخواه</item>
+        <item>سلامت</item>
+        <item>برنامه های مفید</item>
+        <item>اخبار</item>
+        <item>قابلیت</item>
+        <item>سرویس های Google™‎</item>
+        <item>ایجاد کردن</item>
+        <item>ابزارها</item>
+        <item>ديگر</item>
+    </string-array>
+</resources>

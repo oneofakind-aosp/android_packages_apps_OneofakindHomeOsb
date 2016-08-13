@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="apptray_cell_height">92.0dip</dimen>
+    <dimen name="apptray_cell_width">75.0dip</dimen>
+    <dimen name="apptray_grid_height">468.0dip</dimen>
+    <dimen name="apptray_grid_offset">0.0dip</dimen>
+    <dimen name="apptray_grid_zoom_offset">15.0dip</dimen>
+    <dimen name="cui_grid_height_large">180.0dip</dimen>
+    <dimen name="cui_grid_height_small">136.0dip</dimen>
+    <item type="dimen" name="cui_main_menu_cell_height">@dimen/cui_grid_height_small</item>
+    <dimen name="cui_main_menu_cell_width">80.0dip</dimen>
+    <item type="dimen" name="desktop_cell_height">@dimen/desktop_cell_height_port</item>
+    <item type="dimen" name="desktop_cell_width">@dimen/desktop_cell_width_port</item>
+    <dimen name="stage_cell_height">86.0dip</dimen>
+    <dimen name="stage_cell_width">64.0dip</dimen>
+    <item type="dimen" name="apptray_icon_label_max_text_size">@dimen/icon_label_text_size</item>
+    <dimen name="desktop_grid_horizontal_offset">0.0dip</dimen>
+    <dimen name="desktop_grid_vertical_offset">-74.0dip</dimen>
+    <dimen name="desktop_low_zoom_vertical_position">-41.0dip</dimen>
+    <dimen name="desktop_cell_height_land">74.0dip</dimen>
+    <dimen name="desktop_cell_height_port">100.0dip</dimen>
+    <dimen name="desktop_cell_width_land">106.0dip</dimen>
+    <dimen name="desktop_cell_width_port">80.0dip</dimen>
+    <dimen name="icon_label_text_size">12.0sp</dimen>
+    <dimen name="open_folder_cell_height">80.0dip</dimen>
+    <dimen name="open_folder_cell_width">74.0dip</dimen>
+    <dimen name="open_folder_header_horizontal_component_padding">20.0dip</dimen>
+    <dimen name="open_folder_header_horizontal_margin">5.0dip</dimen>
+    <dimen name="open_folder_screen_margin">0.0dip</dimen>
+    <dimen name="open_folder_side_margin">12.0dip</dimen>
+</resources>

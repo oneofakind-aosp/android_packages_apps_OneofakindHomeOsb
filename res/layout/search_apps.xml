@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/home_search_apps_container" android:focusable="true" android:focusableInTouchMode="true" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:background="@drawable/search_box_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/search_activity_input_box_margin" android:layout_marginStart="@dimen/search_activity_input_box_margin" android:layout_marginEnd="@dimen/search_activity_input_box_margin" android:elevation="@dimen/search_activity_input_box_elevation">
+        <FrameLayout android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:paddingStart="@dimen/search_activity_input_field_padding_start">
+            <EditText android:id="@id/home_search_apps_auto_complete_edit_text" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:inputType="none" android:alpha="0.4" style="@style/SearchEditTextStyle" />
+            <EditText android:id="@id/home_search_apps_search_edit_text" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="@string/app_tray_drawer_search_hint" android:inputType="textNoSuggestions" style="@style/SearchEditTextStyle" />
+        </FrameLayout>
+        <ImageButton android:layout_gravity="center" android:id="@id/home_search_suggestion_close_icon" android:background="?android:selectableItemBackgroundBorderless" android:padding="@dimen/search_activity_clear_button_padding" android:visibility="invisible" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/search_close" android:layout_weight="0.0" android:contentDescription="@string/home_accessibility_app_search_clear_button" />
+    </LinearLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/search_activity_vertical_margin" android:layout_marginEnd="@dimen/search_activity_vertical_margin">
+        <com.sonymobile.home.search.SearchRecyclerView android:id="@id/home_search_apps_recycler_view" android:paddingTop="@dimen/search_recycler_view_padding_top" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <ProgressBar android:layout_gravity="center" android:id="@id/progress_bar" android:paddingTop="@dimen/search_activity_progress_bar_padding_top" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" android:indeterminateTint="?android:textColorPrimaryInverse" />
+    </FrameLayout>
+</LinearLayout>

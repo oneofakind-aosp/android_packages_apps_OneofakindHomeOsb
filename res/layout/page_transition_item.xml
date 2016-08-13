@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:id="@id/page_transition_preference" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="center_vertical" android:layout_gravity="center" android:id="@android:id/icon" android:focusable="false" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:scaleType="fitCenter" android:layout_marginStart="16.0dip" android:layout_marginEnd="8.0dip" android:backgroundTint="?android:colorAccent" />
+    <TextView android:textAppearance="?android:textAppearanceListItem" android:ellipsize="end" android:id="@android:id/title" android:focusable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" />
+    <RadioButton android:gravity="end|center" android:orientation="vertical" android:id="@id/page_transition_radio" android:background="@null" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginEnd="16.0dip" />
+</LinearLayout>

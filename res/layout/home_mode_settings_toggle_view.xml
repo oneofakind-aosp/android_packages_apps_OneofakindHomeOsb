@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:sonymobile="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/home_mode_selector_side_margin" android:layout_marginTop="@dimen/home_mode_selector_top_margin" android:layout_marginRight="@dimen/home_mode_selector_side_margin">
+        <RadioGroup android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@id/home_mode_selection_radio_button_group" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.sonymobile.home.settings.ValuedRadioButton android:background="@drawable/home_mode_settings_classic_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:button="@null" android:layout_marginEnd="8.0dip" sonymobile:value="false" />
+            <com.sonymobile.home.settings.ValuedRadioButton android:background="@drawable/home_mode_settings_desktop_automatic_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:button="@null" android:layout_marginStart="8.0dip" sonymobile:value="true" />
+        </RadioGroup>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:weightSum="1.0">
+            <TextView android:textAppearance="@android:style/TextAppearance.Material.Subhead" android:gravity="center_horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/home_mode_manual_setting" android:layout_weight="0.5" android:layout_marginEnd="8.0dip" />
+            <TextView android:textAppearance="@android:style/TextAppearance.Material.Subhead" android:gravity="center_horizontal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/home_mode_automatic_setting" android:layout_weight="0.5" android:layout_marginStart="8.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:textAppearance="@android:style/TextAppearance.Material.Body1" android:textColor="?android:textColorSecondary" android:id="@id/home_mode_toggle_information_text" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/home_mode_selector_side_margin" android:layout_marginTop="@dimen/home_mode_selector_top_margin" android:layout_marginRight="@dimen/home_mode_selector_side_margin" android:layout_marginBottom="@dimen/home_mode_selector_bottom_margin" android:lines="@integer/home_mode_selector_nbr_of_lines" />
+</merge>

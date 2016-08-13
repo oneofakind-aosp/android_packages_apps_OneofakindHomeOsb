@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>ഫോള്‍ഡര്‍</item>
+        <item>സോഷ്യല്‍</item>
+        <item>എന്‍റര്‍ടൈന്‍‍മെന്‍റ്</item>
+        <item>മീഡിയ</item>
+        <item>പ്രിയപ്പെട്ടവ</item>
+        <item>ആരോഗ്യം</item>
+        <item>യൂട്ടിലിറ്റികള്‍</item>
+        <item>വാര്‍ത്തകള്‍</item>
+        <item>ഫിറ്റ്നസ്സ്</item>
+        <item>Google™ സേവനങ്ങള്‍</item>
+        <item>സൃഷ്ടിക്കുക</item>
+        <item>ടൂളുകള്‍</item>
+        <item>മറ്റുള്ളവ</item>
+    </string-array>
+</resources>

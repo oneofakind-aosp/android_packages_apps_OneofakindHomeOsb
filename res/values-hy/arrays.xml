@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Պանակ</item>
+        <item>Սոցիալական</item>
+        <item>Ժամանց</item>
+        <item>Մեդիա</item>
+        <item>Ընտրյալներ</item>
+        <item>Առողջություն</item>
+        <item>Օգտակար ծրագրեր</item>
+        <item>Նորություններ</item>
+        <item>Ֆիտնես</item>
+        <item>Google™ ծռյթյննր</item>
+        <item>Ստեղծել</item>
+        <item>Գործիքներ</item>
+        <item>Ուրիշ</item>
+    </string-array>
+</resources>

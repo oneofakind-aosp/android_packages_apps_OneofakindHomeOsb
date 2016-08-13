@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="1">
+    <groups type="stage">
+        <group>
+            <groups type="folders">
+                <group>
+                    <setting key="name">Google</setting>
+                    <setting key="id">google</setting>
+                    <setting key="position">1</setting>
+                </group>
+            </groups>
+            <groups type="activities">
+                <group>
+                    <setting key="name">.SearchActivity</setting>
+                    <setting key="package-name">com.google.android.googlequicksearchbox</setting>
+                    <setting key="folder">google</setting>
+                </group>
+                <group>
+                    <setting key="name">com.google.android.apps.chrome.Main</setting>
+                    <setting key="package-name">com.android.chrome</setting>
+                    <setting key="folder">google</setting>
+                </group>
+                <group>
+                    <setting key="name">.ConversationListActivityGmail</setting>
+                    <setting key="package-name">com.google.android.gm</setting>
+                    <setting key="folder">google</setting>
+                </group>
+                <group>
+                    <setting key="name">com.google.android.maps.MapsActivity</setting>
+                    <setting key="package-name">com.google.android.apps.maps</setting>
+                    <setting key="folder">google</setting>
+                </group>
+                <group>
+                    <setting key="name">.app.honeycomb.Shell$HomeActivity</setting>
+                    <setting key="package-name">com.google.android.youtube</setting>
+                    <setting key="folder">google</setting>
+                </group>
+                <group>
+                    <setting key="name">.app.NewMainProxyActivity</setting>
+                    <setting key="package-name">com.google.android.apps.docs</setting>
+                    <setting key="folder">google</setting>
+                </group>
+                <group>
+                    <setting key="name">com.android.music.activitymanagement.TopLevelActivity</setting>
+                    <setting key="package-name">com.google.android.music</setting>
+                    <setting key="folder">google</setting>
+                </group>
+                <group>
+                    <setting key="name">com.google.android.youtube.videos.EntryPoint</setting>
+                    <setting key="package-name">com.google.android.videos</setting>
+                    <setting key="folder">google</setting>
+                </group>
+                <group>
+                    <setting key="name">.SigningInActivity</setting>
+                    <setting key="package-name">com.google.android.talk</setting>
+                    <setting key="folder">google</setting>
+                </group>
+                <group>
+                    <setting key="name">.home.HomeActivity</setting>
+                    <setting key="package-name">com.google.android.apps.photos</setting>
+                    <setting key="folder">google</setting>
+                </group>
+                <group>
+                    <setting key="name">.AssetBrowserActivity</setting>
+                    <setting key="package-name">com.android.vending</setting>
+                    <setting key="position">2</setting>
+                </group>
+                <group>
+                    <setting key="name">.Settings</setting>
+                    <setting key="package-name">com.android.settings</setting>
+                    <setting key="position">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.dashboard.DashboardActivity</setting>
+                    <setting key="package-name">com.sonymobile.sketch</setting>
+                    <setting key="position">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.activity.Welcome</setting>
+                    <setting key="package-name">com.android.email</setting>
+                    <setting key="position">4</setting>
+                </group>
+                <group>
+                    <setting key="name">.ui.ConversationListActivity</setting>
+                    <setting key="package-name">com.sonyericsson.conversations</setting>
+                    <setting key="position">4</setting>
+                </group>
+                <group>
+                    <setting key="name">.LaunchActivity</setting>
+                    <setting key="package-name">com.android.calendar</setting>
+                    <setting key="position">5</setting>
+                </group>
+                <group>
+                    <setting key="name">.DialerEntryActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.socialphonebook</setting>
+                    <setting key="position">5</setting>
+                </group>
+                <group>
+                    <setting key="name">.CameraActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.camera</setting>
+                    <setting key="position">6</setting>
+                </group>
+            </groups>
+        </group>
+    </groups>
+</settings>

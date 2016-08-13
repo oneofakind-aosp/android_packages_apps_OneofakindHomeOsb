@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="raw" name="desktop_cui_zoom_horizontal_position_factor">0.0</item>
+    <item type="raw" name="desktop_cui_zoom_vertical_position_factor">0.7</item>
+    <item type="raw" name="desktop_low_zoom_depth">-0.5</item>
+    <item type="raw" name="desktop_cui_zoom_depth">-2.2</item>
+    <item type="raw" name="icon_text_margin_land">0.26</item>
+    <item type="raw" name="camera_perspective_factor">1.4</item>
+    <item type="raw" name="desktop_page_indicator_vertical_offset">0.0</item>
+    <item type="raw" name="icon_text_margin_port">0.27</item>
+</resources>

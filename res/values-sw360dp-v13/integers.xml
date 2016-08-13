@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="apptray_grid_columns">4</integer>
+    <integer name="apptray_grid_rows">5</integer>
+    <integer name="apptray_item_text_lines">2</integer>
+    <integer name="desktop_grid_columns">4</integer>
+    <integer name="desktop_grid_rows">5</integer>
+    <integer name="open_folder_item_text_lines">2</integer>
+</resources>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="1">
+    <groups type="desktop">
+        <group>
+            <groups type="widgets">
+                <group>
+                    <setting key="package-name">com.google.android.googlequicksearchbox</setting>
+                    <setting key="name">.SearchWidgetProvider</setting>
+                    <setting key="width">6</setting>
+                    <setting key="height">1</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">2</setting>
+                </group>
+                <group>
+                    <setting key="package-name">com.sonymobile.entrance</setting>
+                    <setting key="name">.widget.WhatsNewAppWidgetProvider</setting>
+                    <setting key="width">6</setting>
+                    <setting key="height">3</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">2</setting>
+                </group>
+                <group>
+                    <setting key="package-name">com.sonyericsson.music</setting>
+                    <setting key="name">.musicwidget.MusicWidgetProvider</setting>
+                    <setting key="width">4</setting>
+                    <setting key="height">1</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="package-name">com.sonymobile.camerawidget</setting>
+                    <setting key="name">.CameraWidgetProvider</setting>
+                    <setting key="width">4</setting>
+                    <setting key="height">1</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">3</setting>
+                </group>
+            </groups>
+            <groups type="advanced-widgets">
+                <group>
+                    <setting key="package-name">com.sonyericsson.advancedwidget.weather</setting>
+                    <setting key="name">.WideWeatherWidget</setting>
+                    <setting key="width">4</setting>
+                    <setting key="height">1</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="package-name">com.sonyericsson.advancedwidget.photo</setting>
+                    <setting key="name">.SemcWidget</setting>
+                    <setting key="width">4</setting>
+                    <setting key="height">2</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">2</setting>
+                    <setting key="pane">3</setting>
+                </group>
+            </groups>
+            <groups type="activities">
+                <group>
+                    <setting key="name">.SearchActivity</setting>
+                    <setting key="package-name">com.google.android.googlequicksearchbox</setting>
+                    <setting key="x">2</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">.login.StartActivity</setting>
+                    <setting key="package-name">com.sonymobile.lifelog</setting>
+                    <setting key="x">3</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">.MusicActivity</setting>
+                    <setting key="package-name">com.sonyericsson.music</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">2</setting>
+                </group>
+                <group>
+                    <setting key="name">.MainActivity</setting>
+                    <setting key="package-name">com.sonyericsson.album</setting>
+                    <setting key="x">2</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">2</setting>
+                </group>
+                <group>
+                    <setting key="name">.browser.BrowserActivity</setting>
+                    <setting key="package-name">com.sonyericsson.video</setting>
+                    <setting key="x">3</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">2</setting>
+                </group>
+                <group>
+                    <setting key="name">.activities.LaunchActivity</setting>
+                    <setting key="package-name">com.sonymobile.sonyselect</setting>
+                    <setting key="x">4</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">2</setting>
+                </group>
+                <group>
+                    <setting key="name">.EntranceActivity</setting>
+                    <setting key="package-name">com.sonymobile.entrance</setting>
+                    <setting key="x">4</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">2</setting>
+                </group>
+                <group>
+                    <setting key="name">.activity.EulaActivity</setting>
+                    <setting key="package-name">com.scee.psxandroid</setting>
+                    <setting key="x">4</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">2</setting>
+                </group>
+                <group>
+                    <setting key="name">.activity.TopActivity</setting>
+                    <setting key="package-name">com.scee.psxandroid</setting>
+                    <setting key="x">4</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">2</setting>
+                </group>
+                <group>
+                    <setting key="name">.MainActivity</setting>
+                    <setting key="package-name">com.sony.snei.psnportal</setting>
+                    <setting key="x">4</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">2</setting>
+                </group>
+            </groups>
+        </group>
+    </groups>
+</settings>

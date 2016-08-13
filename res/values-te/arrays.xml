@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>ఫోల్డర్</item>
+        <item>సామాజిక</item>
+        <item>వినోదం</item>
+        <item>మీడియా</item>
+        <item>ఇష్టమైనవి</item>
+        <item>ఆరోగ్యం</item>
+        <item>యుటిలిటీస్</item>
+        <item>వార్తలు</item>
+        <item>యోగ్యత</item>
+        <item>Google™ సేవలు</item>
+        <item>రూపొందించు</item>
+        <item>ఉపకరణాలు</item>
+        <item>ఇతర</item>
+    </string-array>
+</resources>

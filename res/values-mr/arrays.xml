@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>फोल्डर</item>
+        <item>सोशल</item>
+        <item>मनोरंजन</item>
+        <item>मिडिया</item>
+        <item>मनपसंत</item>
+        <item>आरोग्य</item>
+        <item>उपयोगिता</item>
+        <item>बातम्या</item>
+        <item>फिटनेस</item>
+        <item>Google™ सेवा</item>
+        <item>बनवा</item>
+        <item>साधने</item>
+        <item>इतर</item>
+    </string-array>
+</resources>

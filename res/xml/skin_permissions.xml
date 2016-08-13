@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overlay-resources>
+    <filter-group group="nine-patch">
+        <filter type="type" value="nine-patch" />
+    </filter-group>
+    <filter-group group="bitmap">
+        <filter type="type" value="bitmap" />
+    </filter-group>
+    <filter-group group="image">
+        <filter type="type" value="bitmap,nine-patch" />
+    </filter-group>
+    <filter-group group="color">
+        <filter type="type" value="color" />
+    </filter-group>
+    <filter-group group="pagination">
+        <filter type="size" minWidth="12dp" maxWidth="48dp" minHeight="12dp" maxHeight="32dp" />
+    </filter-group>
+    <overlay id="@drawable/home_pagination_selected" filters="bitmap,pagination" />
+    <overlay id="@drawable/home_pagination_deselected" filters="bitmap,pagination" />
+    <overlay id="@drawable/home_apptray_normal" filters="bitmap">
+        <filter type="size" minWidth="30dp" maxWidth="72dp" minHeight="30dp" maxHeight="72dp" />
+    </overlay>
+    <overlay id="@drawable/apptray_home_normal" filters="bitmap">
+        <filter type="size" minWidth="30dp" maxWidth="72dp" minHeight="30dp" maxHeight="72dp" />
+    </overlay>
+    <overlay id="@drawable/home_remove" filters="bitmap">
+        <filter type="size" minWidth="30dp" maxWidth="72dp" minHeight="30dp" maxHeight="72dp" />
+    </overlay>
+    <overlay id="@drawable/home_cancel" filters="bitmap">
+        <filter type="size" minWidth="20dp" maxWidth="34dp" minHeight="20dp" maxHeight="34dp" />
+    </overlay>
+    <filter-group group="trashcan">
+        <filter type="size" minWidth="30dp" maxWidth="64dp" minHeight="10dp" maxHeight="44dp" />
+    </filter-group>
+    <overlay id="@drawable/trash_bin" filters="bitmap,trashcan" />
+    <overlay id="@drawable/trash_lid" filters="bitmap,trashcan" />
+    <overlay id="@drawable/home_stage_bg" filters="image">
+        <filter type="size" minWidth="1dp" maxWidth="540dp" minHeight="1dp" maxHeight="540dp" />
+    </overlay>
+    <overlay id="@drawable/home_stage_bg_v2" filters="image">
+        <filter type="size" minWidth="1dp" maxWidth="540dp" minHeight="1dp" maxHeight="540dp" />
+    </overlay>
+    <overlay id="@drawable/home_stage_bg_v3" filters="image">
+        <filter type="size" minWidth="1dp" maxWidth="540dp" minHeight="1dp" maxHeight="540dp" />
+    </overlay>
+    <overlay id="@drawable/home_stage_bg_v4" filters="image">
+        <filter type="size" minWidth="1dp" maxWidth="540dp" minHeight="1dp" maxHeight="540dp" />
+    </overlay>
+    <overlay id="@drawable/home_stage_at_bottom_in_landscape_bg" filters="image">
+        <filter type="size" minWidth="1dp" maxWidth="1280dp" minHeight="1dp" maxHeight="540dp" />
+    </overlay>
+    <overlay id="@color/stage_text_color" filters="color" />
+    <overlay id="@color/stage_text_shadow_color" filters="color" />
+    <overlay id="@drawable/home_desktop_remove_dropzone" filters="image">
+        <filter type="size" minWidth="100dp" maxWidth="1182dp" minHeight="50dp" maxHeight="120dp" />
+    </overlay>
+    <overlay id="@drawable/home_desktop_remove_dropzone_top" filters="image">
+        <filter type="size" minWidth="1dp" maxWidth="1280dp" minHeight="1dp" maxHeight="252dp" />
+    </overlay>
+    <overlay id="@color/delete_dropzone_text_color" filters="color" />
+    <overlay id="@color/delete_dropzone_text_shadow_color" filters="color" />
+    <overlay id="@drawable/home_desktop_remove_dropzone_trashcan" filters="bitmap">
+        <filter type="size" minWidth="1dp" maxWidth="34dp" minHeight="1dp" maxHeight="34dp" />
+    </overlay>
+    <overlay id="@drawable/home_pane_pagination_deselected" filters="bitmap,pagination" />
+    <overlay id="@drawable/home_pane_pagination_selected" filters="bitmap,pagination" />
+    <filter-group group="desktop-pane">
+        <filter type="size" minWidth="1dp" maxWidth="240dp" minHeight="1dp" maxHeight="240dp" />
+    </filter-group>
+    <overlay id="@drawable/desktop_pane" filters="nine-patch,desktop-pane" />
+    <overlay id="@drawable/desktop_add_pane" filters="nine-patch,desktop-pane" />
+    <overlay id="@drawable/add_pane" filters="bitmap">
+        <filter type="size" minWidth="2dp" maxWidth="96dp" minHeight="2dp" maxHeight="96dp" />
+    </overlay>
+    <overlay id="@bool/cui_dimming" />
+    <overlay id="@color/desktop_text_color" filters="color" />
+    <overlay id="@color/desktop_text_shadow_color" filters="color" />
+    <filter-group group="pane-action">
+        <filter type="size" minWidth="40dp" maxWidth="66dp" minHeight="40dp" maxHeight="66dp" />
+    </filter-group>
+    <overlay id="@drawable/set_home_pane_on" filters="bitmap,pane-action" />
+    <overlay id="@drawable/set_home_pane_off" filters="bitmap,pane-action" />
+    <overlay id="@drawable/delete_pane" filters="bitmap,pane-action" />
+    <overlay id="@drawable/cust_bar_bg" filters="nine-patch">
+        <filter type="size" minWidth="1dp" maxWidth="154dp" minHeight="1dp" maxHeight="154dp" />
+    </overlay>
+    <overlay id="@drawable/cust_bar_landscape_bottom_bg" filters="nine-patch">
+        <filter type="size" minWidth="1dp" maxWidth="154dp" minHeight="1dp" maxHeight="154dp" />
+    </overlay>
+    <overlay id="@drawable/home_pagination_drawer" filters="bitmap,pagination" />
+    <filter-group group="tray-bg">
+        <filter type="size" minWidth="1px" maxWidth="540dp" minHeight="1px" maxHeight="540dp" />
+    </filter-group>
+    <overlay id="@drawable/apptray_pane_bg" filters="nine-patch,tray-bg" />
+    <overlay id="@drawable/apptray_pane_bg_v2" filters="nine-patch,tray-bg" />
+    <overlay id="@drawable/apptray_pane_bg_v3" filters="nine-patch,tray-bg" />
+    <overlay id="@drawable/apptray_pane_uninstall_bg" filters="nine-patch,tray-bg" />
+    <overlay id="@drawable/apptray_pane_uninstall_bg_v2" filters="nine-patch,tray-bg" />
+    <overlay id="@drawable/apptray_pane_edit_mode_bg" filters="nine-patch,tray-bg" />
+    <overlay id="@bool/apptray_dimming" />
+    <overlay id="@color/apptray_text_color" filters="color" />
+    <overlay id="@color/apptray_text_shadow_color" filters="color" />
+    <overlay id="@drawable/delete_badge" filters="bitmap">
+        <filter type="size" minWidth="20dp" maxWidth="24dp" minHeight="20dp" maxHeight="24dp" />
+    </overlay>
+    <filter-group group="folder-34x68">
+        <filter type="size" minWidth="1dp" maxWidth="34dp" minHeight="1dp" maxHeight="68dp" />
+    </filter-group>
+    <overlay id="@drawable/home_folder_folder" filters="bitmap">
+        <filter type="size" minWidth="1dp" maxWidth="64dp" minHeight="1dp" maxHeight="64dp" />
+    </overlay>
+    <overlay id="@drawable/home_folder_folder_v2" filters="bitmap">
+        <filter type="size" minWidth="1dp" maxWidth="64dp" minHeight="1dp" maxHeight="64dp" />
+    </overlay>
+    <overlay id="@drawable/home_folder_popup_header_left" filters="nine-patch,folder-34x68" />
+    <overlay id="@drawable/home_folder_popup_header_left_pressed" filters="nine-patch,folder-34x68" />
+    <overlay id="@drawable/home_folder_popup_header_right" filters="nine-patch,folder-34x68" />
+    <overlay id="@drawable/home_folder_popup_header_right_pressed" filters="nine-patch,folder-34x68" />
+    <overlay id="@drawable/home_folder_popup_body" filters="nine-patch">
+        <filter type="size" minWidth="1dp" maxWidth="72dp" minHeight="1dp" maxHeight="40dp" />
+    </overlay>
+    <overlay id="@drawable/home_folder_popup_body_top_fade" filters="nine-patch">
+        <filter type="size" minWidth="1dp" maxWidth="72dp" minHeight="1dp" maxHeight="32dp" />
+    </overlay>
+    <overlay id="@drawable/home_folder_popup_body_bottom_fade" filters="nine-patch">
+        <filter type="size" minWidth="1dp" maxWidth="72dp" minHeight="1dp" maxHeight="32dp" />
+    </overlay>
+    <overlay id="@drawable/home_folder_header_edit_icn" filters="bitmap">
+        <filter type="size" minWidth="1dp" maxWidth="22dp" minHeight="1dp" maxHeight="22dp" />
+    </overlay>
+    <overlay id="@drawable/home_folder_popup_header_left_v2" filters="nine-patch,folder-34x68" />
+    <overlay id="@drawable/home_folder_popup_header_left_pressed_v2" filters="nine-patch,folder-34x68" />
+    <overlay id="@drawable/home_folder_popup_header_right_v2" filters="nine-patch,folder-34x68" />
+    <overlay id="@drawable/home_folder_popup_header_right_pressed_v2" filters="nine-patch,folder-34x68" />
+    <overlay id="@drawable/home_folder_popup_body_v2" filters="nine-patch">
+        <filter type="size" minWidth="1dp" maxWidth="72dp" minHeight="1dp" maxHeight="40dp" />
+    </overlay>
+    <overlay id="@drawable/home_folder_popup_body_top_fade_v2" filters="nine-patch">
+        <filter type="size" minWidth="1dp" maxWidth="72dp" minHeight="1dp" maxHeight="32dp" />
+    </overlay>
+    <overlay id="@drawable/home_folder_popup_body_bottom_fade_v2" filters="nine-patch">
+        <filter type="size" minWidth="1dp" maxWidth="72dp" minHeight="1dp" maxHeight="32dp" />
+    </overlay>
+    <overlay id="@color/open_folder_header_text_color" filters="color" />
+    <overlay id="@color/open_folder_item_text_color" filters="color" />
+    <filter-group group="drop-zone">
+        <filter type="size" minWidth="320dp" maxWidth="1182dp" minHeight="40dp" maxHeight="100dp" />
+    </filter-group>
+    <overlay id="@drawable/home_apptray_dropzone" filters="image,drop-zone" />
+    <overlay id="@drawable/home_apptray_dropzone_full" filters="image,drop-zone" />
+    <overlay id="@drawable/home_apptray_dropzone_home" filters="bitmap">
+        <filter type="size" minWidth="1dp" maxWidth="35dp" minHeight="1dp" maxHeight="35dp" />
+    </overlay>
+    <overlay id="@color/apptray_drop_zone_text_color" filters="color" />
+    <overlay id="@color/apptray_drop_zone_text_shadow_color" filters="color" />
+    <overlay id="@drawable/apptray_drawer_background">
+        <filter type="type" value="bitmap,nine-patch,color" />
+        <filter type="size" minWidth="1dp" maxWidth="20dp" minHeight="1dp" maxHeight="20dp" />
+    </overlay>
+    <overlay id="@drawable/drawer_list_divider" filters="image">
+        <filter type="size" minWidth="1px" maxWidth="34dp" minHeight="1px" maxHeight="2px" />
+    </overlay>
+    <filter-group group="action-icon">
+        <filter type="size" minWidth="1dp" maxWidth="30dp" minHeight="1dp" maxHeight="30dp" />
+    </filter-group>
+    <overlay id="@drawable/apptray_search" filters="bitmap,action-icon" />
+    <overlay id="@drawable/drawer_icn_uninstall" filters="bitmap,action-icon" />
+    <overlay id="@drawable/drawer_icn_own_order" filters="bitmap,action-icon" />
+    <overlay id="@drawable/drawer_icn_own_alphabetical" filters="bitmap,action-icon" />
+    <overlay id="@drawable/drawer_icn_own_most_used" filters="bitmap,action-icon" />
+    <overlay id="@drawable/drawer_icn_own_downloaded" filters="bitmap,action-icon" />
+    <overlay id="@drawable/drawer_search" filters="bitmap,action-icon" />
+    <overlay id="@drawable/actionbar_more" filters="bitmap">
+        <filter type="size" minWidth="20dp" maxWidth="24dp" minHeight="20dp" maxHeight="24dp" />
+    </overlay>
+    <overlay id="@drawable/actionbar_back" filters="bitmap">
+        <filter type="size" minWidth="20dp" maxWidth="24dp" minHeight="20dp" maxHeight="24dp" />
+    </overlay>
+    <overlay id="@drawable/actionbar_back_v2" filters="bitmap">
+        <filter type="size" minWidth="20dp" maxWidth="24dp" minHeight="20dp" maxHeight="24dp" />
+    </overlay>
+    <overlay id="@drawable/desktop_settings" filters="bitmap">
+        <filter type="size" minWidth="20dp" maxWidth="24dp" minHeight="20dp" maxHeight="24dp" />
+    </overlay>
+    <overlay id="@drawable/cui_fab_add" filters="bitmap">
+        <filter type="size" minWidth="20dp" maxWidth="24dp" minHeight="20dp" maxHeight="24dp" />
+    </overlay>
+    <overlay id="@drawable/drawer_list_selected" filters="image,action-icon" />
+    <overlay id="@drawable/ab_search_apptray" filters="bitmap">
+        <filter type="size" minWidth="1dp" maxWidth="46dp" minHeight="1dp" maxHeight="46dp" />
+    </overlay>
+    <overlay id="@drawable/jump_to_app" filters="bitmap">
+        <filter type="size" minWidth="30dp" maxWidth="40dp" minHeight="30dp" maxHeight="40dp" />
+    </overlay>
+    <overlay id="@drawable/search_close" filters="bitmap">
+        <filter type="size" minWidth="20dp" maxWidth="24dp" minHeight="20dp" maxHeight="24dp" />
+    </overlay>
+    <overlay id="@drawable/search_box_bg" filters="nine-patch" />
+    <overlay id="@color/search_activity_input_text_color_link" filters="color" />
+    <overlay id="@color/search_activity_input_text_color_highlight" filters="color" />
+    <overlay id="@drawable/actionbar_search_frame_v2" filters="nine-patch" />
+    <overlay id="@color/search_activity_text_color" filters="color" />
+    <overlay id="@color/search_activity_hint_text_color" filters="color" />
+    <overlay id="@color/search_activity_online_suggestion_item_divider_color" filters="color" />
+    <overlay id="@drawable/ic_search_apps" filters="bitmap">
+        <filter type="size" minWidth="1dp" maxWidth="48dp" minHeight="1dp" maxHeight="48dp" />
+    </overlay>
+    <overlay id="@drawable/search_suggestion_bg" filters="nine-patch" />
+    <overlay id="@color/apptray_search_activity_suggestion_primary_color" filters="color" />
+    <overlay id="@drawable/drawer_badge" filters="nine-patch">
+        <filter type="size" minWidth="1dp" maxWidth="30dp" minHeight="1dp" maxHeight="30dp" />
+    </overlay>
+    <overlay id="@color/apptray_drawer_text_color" filters="color" />
+    <overlay id="@color/apptray_drawer_badge_text_color" filters="color" />
+    <overlay id="@bool/enable_translucent_system_bars" />
+    <overlay id="@drawable/bg_gradient_v2" filters="nine-patch">
+        <filter type="size" minWidth="1px" maxWidth="1280dp" minHeight="1px" maxHeight="1280dp" />
+    </overlay>
+    <overlay id="@string/theme_icon_pack" />
+</overlay-resources>

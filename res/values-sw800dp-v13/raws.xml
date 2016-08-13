@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="raw" name="apptray_page_indicator_vertical_offset">0.045</item>
+    <item type="raw" name="apptray_zoom_out_max_position">0.1</item>
+    <item type="raw" name="apptray_zoomed_screen_fraction_per_page_modifier">0.9</item>
+    <item type="raw" name="desktop_cui_zoom_horizontal_position_factor">0.0</item>
+    <item type="raw" name="desktop_cui_zoom_vertical_position_factor">0.4</item>
+    <item type="raw" name="desktop_low_zoom_depth">-0.2</item>
+    <item type="raw" name="desktop_zoomed_screen_fraction_per_page_modifier">1.03</item>
+    <item type="raw" name="desktop_zoomed_visible_distance_per_page_modifier">1.23</item>
+    <item type="raw" name="desktop_cui_zoom_depth">-0.2</item>
+    <item type="raw" name="camera_perspective_factor">1.0</item>
+    <item type="raw" name="desktop_page_indicator_vertical_offset">1.55</item>
+    <item type="raw" name="desktop_backplate_height_scale_factor">1.0</item>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="desktop_page_indicator_autohide">false</bool>
+    <bool name="is_large_screen">true</bool>
+    <bool name="autoRotate">true</bool>
+    <bool name="support_alternate_resources">false</bool>
+    <bool name="transparent_status_and_nav_bar">true</bool>
+    <bool name="cui_menu_horizontal_in_landscape">true</bool>
+    <bool name="desktop_compress_items">true</bool>
+    <bool name="portrait_layout_in_landscape">true</bool>
+</resources>

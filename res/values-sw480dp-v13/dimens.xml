@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionbar_height">55.0dip</dimen>
+    <dimen name="apptray_cell_height">122.0dip</dimen>
+    <dimen name="apptray_cell_width">92.0dip</dimen>
+    <dimen name="apptray_dropzone_height">40.0dip</dimen>
+    <dimen name="apptray_grid_height">760.0dip</dimen>
+    <dimen name="apptray_grid_offset">-16.0dip</dimen>
+    <dimen name="cui_applications_cell_height">108.0dip</dimen>
+    <dimen name="cui_applications_cell_width">108.0dip</dimen>
+    <dimen name="cui_grid_height_large">216.0dip</dimen>
+    <dimen name="cui_grid_height_small">140.0dip</dimen>
+    <item type="dimen" name="cui_main_menu_cell_height">@dimen/cui_grid_height_small</item>
+    <dimen name="cui_main_menu_cell_width">120.0dip</dimen>
+    <dimen name="cui_wallpaper_cell_height">108.0dip</dimen>
+    <dimen name="cui_wallpaper_cell_width">108.0dip</dimen>
+    <dimen name="cui_widget_cell_height">108.0dip</dimen>
+    <dimen name="cui_widget_cell_width">192.0dip</dimen>
+    <item type="dimen" name="desktop_cell_height">@dimen/desktop_cell_height_port</item>
+    <item type="dimen" name="desktop_cell_width">@dimen/desktop_cell_width_port</item>
+    <dimen name="desktop_cui_fab_horizontal_offset">2.0dip</dimen>
+    <dimen name="desktop_cui_fab_vertical_offset">-12.0dip</dimen>
+    <dimen name="desktop_page_switch_margin_right">24.0dip</dimen>
+    <dimen name="stage_cell_height">92.0dip</dimen>
+    <dimen name="stage_cell_width">96.0dip</dimen>
+    <item type="dimen" name="apptray_icon_image_size">@dimen/icon_image_size</item>
+    <item type="dimen" name="apptray_icon_label_max_text_size">@dimen/icon_label_text_size</item>
+    <dimen name="desktop_grid_horizontal_offset">0.0dip</dimen>
+    <dimen name="desktop_grid_vertical_offset">-71.0dip</dimen>
+    <item type="dimen" name="desktop_icon_label_max_text_size">@dimen/icon_label_text_size</item>
+    <dimen name="desktop_low_zoom_vertical_position">-70.0dip</dimen>
+    <dimen name="desktop_cell_height_land">90.0dip</dimen>
+    <dimen name="desktop_cell_height_port">122.0dip</dimen>
+    <dimen name="desktop_cell_width_land">128.0dip</dimen>
+    <dimen name="desktop_cell_width_port">96.0dip</dimen>
+    <dimen name="icon_label_text_size">17.0sp</dimen>
+    <dimen name="open_folder_cell_height">120.0dip</dimen>
+    <dimen name="open_folder_cell_width">100.0dip</dimen>
+    <dimen name="open_folder_screen_margin">14.0dip</dimen>
+    <item type="dimen" name="apptray_icon_image_size_small">@dimen/icon_image_size_small</item>
+    <item type="dimen" name="desktop_multi_line_icon_label_max_text_size">@dimen/icon_label_text_size</item>
+    <dimen name="icon_image_size">64.0dip</dimen>
+    <dimen name="icon_image_size_small">48.0dip</dimen>
+    <item type="dimen" name="icon_label_max_text_size">@dimen/icon_label_text_size</item>
+    <item type="dimen" name="stage_icon_image_size">@dimen/icon_image_size</item>
+    <item type="dimen" name="stage_icon_image_size_small">@dimen/icon_image_size_small</item>
+    <dimen name="stage_mirror_size">14.0dip</dimen>
+    <item type="dimen" name="desktop_cui_page_switch_margin_right">@dimen/desktop_page_switch_margin_right</item>
+    <dimen name="desktop_page_switch_margin_left">24.0dip</dimen>
+    <dimen name="apptray_page_switch_margin_left">36.0dip</dimen>
+    <dimen name="apptray_page_switch_margin_right">36.0dip</dimen>
+    <dimen name="apptray_page_switch_nudge_offset">36.0dip</dimen>
+    <item type="dimen" name="delete_dropzone_text_size">@dimen/dropzone_text_size</item>
+    <dimen name="desktop_tip_info_text_size">17.0sp</dimen>
+    <dimen name="desktop_tip_title_text_size">18.0sp</dimen>
+    <dimen name="dropzone_text_size">18.0sp</dimen>
+    <dimen name="search_activity_google_play_search_heading_text_size">17.0sp</dimen>
+    <dimen name="search_activity_header_subtext_size">17.0sp</dimen>
+    <dimen name="search_activity_header_text_size">18.0sp</dimen>
+    <dimen name="search_activity_item_primary_text_size">17.0sp</dimen>
+    <dimen name="search_activity_item_secondary_text_size">10.0sp</dimen>
+    <dimen name="search_personal_data_dialog_item_text_size">18.0sp</dimen>
+    <dimen name="search_welcome_button_text_size">14.0sp</dimen>
+    <dimen name="search_welcome_screen_privacy_text_size">14.0sp</dimen>
+</resources>

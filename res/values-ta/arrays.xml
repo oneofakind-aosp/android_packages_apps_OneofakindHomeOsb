@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>கோப்புறை</item>
+        <item>சமூகம்</item>
+        <item>பொழுதுபோக்கு</item>
+        <item>மீடியா</item>
+        <item>பிடித்தவை</item>
+        <item>உடல்நலம்</item>
+        <item>பயன்பாடுகள்</item>
+        <item>செய்திகள்</item>
+        <item>ஃபிட்னெஸ்</item>
+        <item>Google™ சேவைகள்</item>
+        <item>உருவாக்கு</item>
+        <item>கருவிகள்</item>
+        <item>மற்றவை</item>
+    </string-array>
+</resources>

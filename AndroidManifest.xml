@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="com.sonyericsson.home" android:sharedUserLabel="@string/home_application_name_txt" package="com.sonyericsson.home" platformBuildVersionCode="23" platformBuildVersionName="6.0-1">
+    <uses-permission android:name="android.permission.BIND_APPWIDGET"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.SET_WALLPAPER"/>
+    <uses-permission android:name="android.permission.SET_WALLPAPER_HINTS"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.RECEIVE_STK_COMMANDS"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.DELETE_PACKAGES"/>
+    <uses-permission android:name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+    <permission android:name="com.sonymobile.home.permission.TEST_MODE" android:protectionLevel="signatureOrSystem"/>
+    <permission android:description="@string/home_permission_install_widget_description" android:label="@string/home_permission_install_widget_label" android:name="com.sonymobile.home.permission.INSTALL_WIDGET" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.sonymobile.home.permission.CONFIGURATION" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.sonymobile.home.permission.REMOTE_CONFIGURATION" android:protectionLevel="signatureOrSystem"/>
+    <permission android:description="@string/home_permission_provider_insert_badge_description" android:label="@string/home_permission_provider_insert_badge_label" android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" android:protectionLevel="normal"/>
+    <permission android:description="@string/home_permission_provider_insert_badge_description" android:label="@string/home_permission_provider_insert_badge_label" android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE_PROXY" android:protectionLevel="signatureOrSystem"/>
+    <permission android:description="@string/home_permission_provider_read_badge_description" android:label="@string/home_permission_provider_read_badge_label" android:name="com.sonymobile.home.permission.PROVIDER_READ_BADGE" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.sonymobile.home.permission.WIFIOFFLOAD" android:protectionLevel="signature"/>
+    <permission android:name="com.sonymobile.home.permission.PRELOAD" android:protectionLevel="signatureOrSystem"/>
+    <application android:allowBackup="false" android:fullBackupContent="false" android:icon="@drawable/homescreen_application_launcher" android:label="@string/home_application_name_txt" android:largeHeap="true" android:name="com.sonymobile.home.HomeApplication" android:supportsRtl="true">
+        <meta-data android:name="com.sonymobile.runtimeskinning.LAF_VERSION" android:value="1"/>
+        <meta-data android:name="com.sonymobile.runtimeskinning.SKIN_PERMISSIONS" android:resource="@xml/skin_permissions"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <activity android:configChanges="keyboardHidden|mcc|mnc" android:label="@string/home_application_name_txt" android:launchMode="singleTask" android:name="com.sonymobile.home.HomeActivity" android:taskAffinity="" android:theme="@style/HomeTheme" android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.HOME"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.MONKEY"/>
+            </intent-filter>
+        </activity>
+        <activity-alias android:configChanges="keyboardHidden|mcc|mnc" android:label="@string/home_application_name_txt" android:launchMode="singleTask" android:name="com.sonyericsson.home.HomeActivity" android:targetActivity="com.sonymobile.home.HomeActivity" android:theme="@style/HomeTheme" android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity-alias>
+        <activity android:label="@string/app_tray_drawer_list_item_search" android:launchMode="singleTop" android:name="com.sonymobile.home.search.SearchActivity" android:theme="@style/SearchTheme"/>
+        <activity android:label="@string/interal_settings_activity_title" android:launchMode="singleTop" android:name="com.sonymobile.home.settings.HomeSettingsActivity" android:theme="@style/HomeSettingsTheme">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.sonymobile.home.HomeActivity"/>
+        </activity>
+        <activity android:label="@string/home_mode_toggle_heading" android:launchMode="singleTop" android:name="com.sonymobile.home.settings.HomeModeSettingsActivity" android:theme="@android:style/Theme.DeviceDefault.Settings">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.sonymobile.home.HomeActivity"/>
+        </activity>
+        <activity android:label="@string/internal_page_transition_activity_title" android:launchMode="singleTop" android:name="com.sonymobile.home.settings.PageTransitionPreferenceActivity" android:theme="@style/HomeSettingsTheme">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.sonymobile.home.settings.HomeSettingsActivity"/>
+        </activity>
+        <service android:name="com.sonymobile.home.AppWidgetRestoredService"/>
+        <receiver android:name="com.sonymobile.home.AppWidgetRestoredService$AppWidgetRestoredReceiver">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_HOST_RESTORED"/>
+            </intent-filter>
+        </receiver>
+        <activity android:name="com.sonymobile.home.search.suggest.PrivacyConsentActivity" android:theme="@style/SearchTheme"/>
+        <activity android:name="com.sonymobile.home.permissions.LocationConsentActivity" android:theme="@style/DialogTheme"/>
+        <activity android:label="@string/internal_icon_pack_activity_title" android:launchMode="singleTop" android:name="com.sonymobile.home.iconpacks.IconPacksActivity" android:theme="@style/HomeSettingsTheme">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.sonymobile.home.settings.HomeSettingsActivity"/>
+            <intent-filter>
+                <action android:name="com.sonymobile.home.SET_ICON_PACK"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:name="com.sonymobile.home.shortcut.ShortcutService"/>
+        <receiver android:name="com.sonymobile.home.shortcut.ShortcutService$InstallShortcutReceiver" android:permission="com.android.launcher.permission.INSTALL_SHORTCUT">
+            <intent-filter>
+                <action android:name="com.android.launcher.action.INSTALL_SHORTCUT"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.sonymobile.home.stk.StkCommandService"/>
+        <receiver android:name="com.sonymobile.home.stk.StkCommandReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.stk.command"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.sonymobile.home.WidgetService"/>
+        <receiver android:name="com.sonymobile.home.WidgetService$InstallWidgetReceiver" android:permission="com.sonymobile.home.permission.INSTALL_WIDGET">
+            <intent-filter>
+                <action android:name="com.sonymobile.home.action.INSTALL_WIDGET"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.sonymobile.home.configuration.RemoteConfigurationService"/>
+        <receiver android:name="com.sonymobile.home.configuration.RemoteConfigurationService$ConfigurationReceiver" android:permission="com.sonymobile.home.permission.CONFIGURATION">
+            <intent-filter>
+                <action android:name="com.sonymobile.home.SET_HOME_SCREEN"/>
+                <action android:name="com.sonymobile.home.GET_HOME_SCREEN"/>
+                <action android:name="com.sonymobile.home.RESTORE_HOME_SCREEN"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.sonymobile.home.configuration.RemoteConfigurationService$RemoteConfigurationReceiver" android:permission="com.sonymobile.home.permission.REMOTE_CONFIGURATION">
+            <intent-filter>
+                <action android:name="com.sonymobile.home.action.SET_CONFIGURATION"/>
+                <action android:name="com.sonymobile.home.action.GET_CONFIGURATION"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.sonymobile.home.PackageChangedService"/>
+        <receiver android:name="com.sonymobile.home.PackageChangedService$PackageChangedReceiver">
+            <intent-filter android:priority="1">
+                <action android:name="android.intent.action.PACKAGE_ADDED"/>
+                <action android:name="android.intent.action.PACKAGE_CHANGED"/>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.sonymobile.home.BootCompletedService"/>
+        <receiver android:name="com.sonymobile.home.BootCompletedService$BootCompletedReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.sonymobile.home.resourceprovider" android:exported="true" android:name="com.sonymobile.home.resourceprovider.HomeResourceProvider" android:syncable="false"/>
+        <service android:name="com.sonymobile.home.PreloadService"/>
+        <receiver android:name="com.sonymobile.home.PreloadService$PreloadReceiver" android:permission="com.sonymobile.home.permission.PRELOAD">
+            <intent-filter>
+                <action android:name="com.sonymobile.home.action.PRELOAD"/>
+            </intent-filter>
+        </receiver>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.analytics.AnalyticsService"/>
+        <receiver android:enabled="true" android:name="com.google.android.gms.analytics.AnalyticsReceiver">
+            <intent-filter>
+                <action android:name="com.google.android.gms.analytics.ANALYTICS_DISPATCH"/>
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="android.nfc.disable_beam_default" android:value="true"/>
+    </application>
+</manifest>

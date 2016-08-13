@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Qovluq</item>
+        <item>Sosial</item>
+        <item>Əyləncə</item>
+        <item>Media</item>
+        <item>Sevimlilər</item>
+        <item>Sağlamlıq</item>
+        <item>Kommunal xidmətlər</item>
+        <item>Xəbərlər</item>
+        <item>Fitnes</item>
+        <item>Google™ xidmətləri</item>
+        <item>Yarat</item>
+        <item>Alətlər</item>
+        <item>Digər</item>
+    </string-array>
+</resources>

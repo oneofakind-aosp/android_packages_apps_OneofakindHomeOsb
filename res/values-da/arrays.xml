@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Mappe</item>
+        <item>Sociale</item>
+        <item>Underholdning</item>
+        <item>Medie</item>
+        <item>Favoritter</item>
+        <item>Sundhed</item>
+        <item>Værktøjer</item>
+        <item>Nyheder</item>
+        <item>Egnethed</item>
+        <item>Google™-tjenester</item>
+        <item>Opret</item>
+        <item>Værktøj</item>
+        <item>Andre</item>
+    </string-array>
+</resources>

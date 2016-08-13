@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">64.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20.0dip</dimen>
+    <dimen name="actionbar_height">56.0dip</dimen>
+    <dimen name="apptray_cell_height">132.0dip</dimen>
+    <dimen name="apptray_cell_width">120.0dip</dimen>
+    <dimen name="apptray_grid_height">820.0dip</dimen>
+    <dimen name="apptray_grid_offset">0.0dip</dimen>
+    <dimen name="cui_main_menu_cell_width">150.0dip</dimen>
+    <item type="dimen" name="desktop_cell_height">@dimen/desktop_cell_height_port</item>
+    <item type="dimen" name="desktop_cell_width">@dimen/desktop_cell_width_port</item>
+    <dimen name="desktop_cui_fab_horizontal_offset">-2.0dip</dimen>
+    <dimen name="desktop_cui_fab_vertical_offset">0.0dip</dimen>
+    <item type="dimen" name="min_cell_height">@dimen/desktop_cell_height_land</item>
+    <item type="dimen" name="min_cell_width">@dimen/desktop_cell_width_port</item>
+    <dimen name="stage_cell_height">99.0dip</dimen>
+    <dimen name="stage_cell_width">86.0dip</dimen>
+    <dimen name="abc_config_prefDialogWidth">580.0dip</dimen>
+    <item type="dimen" name="apptray_icon_image_size">@dimen/icon_image_size</item>
+    <item type="dimen" name="apptray_icon_label_max_text_size">@dimen/icon_label_text_size</item>
+    <dimen name="desktop_grid_vertical_offset">-80.0dip</dimen>
+    <item type="dimen" name="desktop_icon_label_max_text_size">@dimen/icon_label_text_size</item>
+    <dimen name="desktop_low_zoom_vertical_position">-70.0dip</dimen>
+    <dimen name="desktop_cell_height_land">100.0dip</dimen>
+    <dimen name="desktop_cell_height_port">136.0dip</dimen>
+    <dimen name="desktop_cell_width_land">135.0dip</dimen>
+    <dimen name="desktop_cell_width_port">100.0dip</dimen>
+    <dimen name="icon_label_text_size">16.0sp</dimen>
+    <dimen name="open_folder_cell_height">130.0dip</dimen>
+    <dimen name="open_folder_cell_width">110.0dip</dimen>
+    <item type="dimen" name="desktop_multi_line_icon_label_max_text_size">@dimen/icon_label_text_size</item>
+    <dimen name="icon_image_size">72.0dip</dimen>
+    <dimen name="icon_image_size_small">56.0dip</dimen>
+    <dimen name="stage_icon_image_size">64.0dip</dimen>
+    <item type="dimen" name="stage_icon_label_max_text_size">@dimen/icon_label_text_size</item>
+    <item type="dimen" name="delete_dropzone_text_size">@dimen/dropzone_text_size</item>
+    <dimen name="search_activity_item_secondary_text_size">11.0sp</dimen>
+    <dimen name="delete_dropzone_horizontal_height">60.0dip</dimen>
+    <dimen name="abc_action_bar_content_inset_material">24.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">8.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">8.0dip</dimen>
+    <dimen name="actionbar_side_margin">20.0dip</dimen>
+    <dimen name="design_snackbar_action_inline_max_width">0.0dip</dimen>
+    <dimen name="design_snackbar_background_corner_radius">2.0dip</dimen>
+    <dimen name="design_snackbar_extra_spacing_horizontal">24.0dip</dimen>
+    <dimen name="design_snackbar_max_width">576.0dip</dimen>
+    <dimen name="design_snackbar_min_width">320.0dip</dimen>
+    <item type="dimen" name="design_snackbar_padding_vertical_2lines">@dimen/design_snackbar_padding_vertical</item>
+    <dimen name="design_tab_scrollable_min_width">160.0dip</dimen>
+    <dimen name="open_folder_bottom_margin">15.0dip</dimen>
+    <item type="dimen" name="stage_icon_label_text_size">@dimen/icon_label_text_size</item>
+</resources>

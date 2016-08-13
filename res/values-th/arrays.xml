@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>โฟลเดอร์</item>
+        <item>สังคม</item>
+        <item>ความบันเทิง</item>
+        <item>Media</item>
+        <item>รายการโปรด</item>
+        <item>สุขภาพ</item>
+        <item>โปรแกรมอรรถประโยชน์</item>
+        <item>ข่าว</item>
+        <item>ความเหมาะสม</item>
+        <item>บริการต่างๆ ของ Google™</item>
+        <item>สร้าง</item>
+        <item>เครื่องมือ</item>
+        <item>อื่นๆ</item>
+    </string-array>
+</resources>

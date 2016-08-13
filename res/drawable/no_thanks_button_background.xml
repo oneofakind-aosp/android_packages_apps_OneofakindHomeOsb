@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/welcome_screen_text_color"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <selector>
+            <item android:state_focused="true">
+                <shape android:shape="rectangle">
+                    <stroke android:width="0.5dip" android:color="@color/welcome_screen_text_color" />
+                    <solid android:color="@color/welcome_screen_no_thanks_button_color" />
+                    <corners android:radius="2.0dip" />
+                </shape>
+            </item>
+            <item>
+                <shape android:shape="rectangle">
+                    <stroke android:width="0.5dip" android:color="@color/welcome_screen_no_thanks_button_color" />
+                    <solid android:color="@color/welcome_screen_no_thanks_button_color" />
+                    <corners android:radius="2.0dip" />
+                </shape>
+            </item>
+        </selector>
+    </item>
+</ripple>

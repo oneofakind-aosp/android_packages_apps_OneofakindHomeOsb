@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:id="@id/page_transition_preview_flow_animation" android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00000" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00001" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00002" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00003" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00004" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00005" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00006" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00007" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00008" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00009" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00010" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00011" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00012" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00013" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00014" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00015" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00016" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00017" />
+    <item android:duration="30" android:drawable="@drawable/transition_preview_flow_00018" />
+    <item android:duration="400" android:drawable="@drawable/transition_preview_flow_00019" />
+</animation-list>

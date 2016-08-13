@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="apptray_grid_columns">5</integer>
+    <integer name="apptray_grid_rows">6</integer>
+    <integer name="cui_applications_grid_columns">4</integer>
+    <integer name="cui_applications_grid_rows">2</integer>
+    <integer name="cui_main_menu_grid_columns">4</integer>
+    <integer name="cui_main_menu_grid_rows">1</integer>
+    <integer name="cui_wallpaper_grid_columns">4</integer>
+    <integer name="cui_wallpaper_grid_rows">2</integer>
+    <integer name="cui_widget_grid_columns">4</integer>
+    <integer name="cui_widget_grid_rows">2</integer>
+    <integer name="stage_grid_columns">5</integer>
+    <integer name="stage_grid_rows">1</integer>
+    <integer name="desktop_grid_columns">5</integer>
+    <integer name="desktop_grid_rows">5</integer>
+    <integer name="max_stage_items">4</integer>
+    <integer name="max_stage_items_dynamic">5</integer>
+    <integer name="search_max_suggested_items_offline">20</integer>
+    <integer name="search_max_suggested_items_online">10</integer>
+</resources>

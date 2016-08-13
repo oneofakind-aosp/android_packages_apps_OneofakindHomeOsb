@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>ಫೋಲ್ಡರ್</item>
+        <item>ಸಾಮಾಜಿಕ</item>
+        <item>ಮನೋರಂಜನೆ</item>
+        <item>ಮಾಧ್ಯಮ</item>
+        <item>ಪ್ರಿಯವಾದವುಗಳು</item>
+        <item>ಆರೋಗ್ಯ</item>
+        <item>ಯುಟಿಲಿಟಿಸ್</item>
+        <item>ಸುದ್ದಿ</item>
+        <item>ಫಿಟ್‌ನೆಸ್</item>
+        <item>Google™ ಸೇವೆಗಳು</item>
+        <item>ರಚಿಸಿ</item>
+        <item>ಉಪಕರಣಗಳು</item>
+        <item>ಇತರ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>フォルダ</item>
+        <item>ソーシャル</item>
+        <item>エンターテインメント</item>
+        <item>メディア</item>
+        <item>お気に入り</item>
+        <item>ヘルスケア</item>
+        <item>ユーティリティ</item>
+        <item>ニュース</item>
+        <item>フィットネス</item>
+        <item>Google™サービス</item>
+        <item>作成</item>
+        <item>ツール</item>
+        <item>その他</item>
+    </string-array>
+</resources>

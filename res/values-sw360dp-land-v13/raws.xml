@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="raw" name="apptray_actionbar_zoom_position">1.9</item>
+    <item type="raw" name="apptray_page_indicator_vertical_offset">-0.005</item>
+    <item type="raw" name="apptray_zoom_out_max_position">1.65</item>
+    <item type="raw" name="desktop_cui_zoom_horizontal_position_factor">0.95</item>
+    <item type="raw" name="desktop_cui_zoom_vertical_position_factor">-0.1</item>
+    <item type="raw" name="desktop_low_zoom_depth">-0.7</item>
+    <item type="raw" name="apptray_dragndrop_zoom_position">-0.7</item>
+    <item type="raw" name="apptray_folder_hint_scale_factor">1.3</item>
+</resources>

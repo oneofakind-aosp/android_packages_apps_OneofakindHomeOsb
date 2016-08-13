@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>المجلد</item>
+        <item>اجتماعي</item>
+        <item>ترفيه</item>
+        <item>الوسائط</item>
+        <item>المفضلات</item>
+        <item>الصحة</item>
+        <item>أدوات</item>
+        <item>أخبار</item>
+        <item>الملاءمة</item>
+        <item>خدمات Google™‎</item>
+        <item>إنشاء</item>
+        <item>أدوات</item>
+        <item>أخرى</item>
+    </string-array>
+</resources>

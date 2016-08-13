@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Folder</item>
+        <item>Social</item>
+        <item>Divertisment</item>
+        <item>Media</item>
+        <item>Preferinţe</item>
+        <item>Sănătate</item>
+        <item>Utilitare</item>
+        <item>Ştiri</item>
+        <item>Potrivire</item>
+        <item>Servicii Google™</item>
+        <item>Creare</item>
+        <item>Instrumente</item>
+        <item>Altele</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Folder</item>
+        <item>Social</item>
+        <item>Entertainment</item>
+        <item>Media</item>
+        <item>Mga Paborito</item>
+        <item>Kalusugan</item>
+        <item>Mga Utility</item>
+        <item>Balita</item>
+        <item>Kaangkupan</item>
+        <item>Mga serbisyo ng Google™</item>
+        <item>Lumikha</item>
+        <item>Mga kasangkapan</item>
+        <item>Iba pa</item>
+    </string-array>
+</resources>

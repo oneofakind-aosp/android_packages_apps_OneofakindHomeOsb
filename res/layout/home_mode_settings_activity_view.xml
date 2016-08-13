@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sonymobile.home.settings.HomeModeSettingsToggleView android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/activity_home_mode_selection_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip">
+        <include android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/home_mode_settings_toggle_view" />
+    </com.sonymobile.home.settings.HomeModeSettingsToggleView>
+</ScrollView>

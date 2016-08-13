@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionbar_height">60.0dip</dimen>
+    <dimen name="apptray_cell_height">148.0dip</dimen>
+    <dimen name="apptray_cell_width">143.0dip</dimen>
+    <dimen name="apptray_dropzone_height">50.0dip</dimen>
+    <dimen name="apptray_grid_height">620.0dip</dimen>
+    <dimen name="apptray_grid_offset">-3.0dip</dimen>
+    <dimen name="cui_applications_cell_height">130.0dip</dimen>
+    <dimen name="cui_grid_height_large">130.0dip</dimen>
+    <dimen name="cui_grid_height_small">170.0dip</dimen>
+    <dimen name="cui_main_menu_cell_height">130.0dip</dimen>
+    <dimen name="cui_main_menu_cell_width">220.0dip</dimen>
+    <dimen name="cui_wallpaper_cell_height">130.0dip</dimen>
+    <dimen name="cui_widget_cell_height">130.0dip</dimen>
+    <dimen name="cui_widget_cell_width">160.0dip</dimen>
+    <item type="dimen" name="desktop_cell_height">@dimen/desktop_cell_height_land</item>
+    <item type="dimen" name="desktop_cell_width">@dimen/desktop_cell_width_land</item>
+    <dimen name="desktop_cui_fab_horizontal_offset">-49.0dip</dimen>
+    <dimen name="desktop_cui_fab_vertical_offset">-14.0dip</dimen>
+    <dimen name="desktop_page_switch_margin_right">60.0dip</dimen>
+    <dimen name="desktop_page_switch_nudge_offset">20.0dip</dimen>
+    <item type="dimen" name="stage_breadth">@dimen/stage_cell_height</item>
+    <dimen name="stage_cell_height">98.0dip</dimen>
+    <dimen name="stage_cell_width">117.0dip</dimen>
+    <dimen name="desktop_grid_vertical_offset">-81.0dip</dimen>
+    <dimen name="desktop_low_zoom_vertical_position">-82.0dip</dimen>
+    <dimen name="desktop_cui_page_switch_margin_right">60.0dip</dimen>
+    <dimen name="apptray_actionbar_search_button_right_margin">74.0dip</dimen>
+    <dimen name="delete_dropzone_horizontal_height">50.0dip</dimen>
+    <dimen name="cui_scrollbar_width">120.0dip</dimen>
+    <dimen name="desktop_backplate_top_offset">0.0dip</dimen>
+</resources>

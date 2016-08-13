@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Папка</item>
+        <item>Социаль</item>
+        <item>Кызыклары</item>
+        <item>Медиа</item>
+        <item>Сайланм</item>
+        <item>Сәләмәтлек</item>
+        <item>Утилиталар</item>
+        <item>Яңалыклар</item>
+        <item>Фитнесс</item>
+        <item>Google™ хезмәтләр</item>
+        <item>Төзү</item>
+        <item>Кораллар</item>
+        <item>Башка</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Folder</item>
+        <item>Sosial</item>
+        <item>Hiburan</item>
+        <item>Media</item>
+        <item>Kegemaran</item>
+        <item>Kesihatan</item>
+        <item>Utiliti</item>
+        <item>Berita</item>
+        <item>Kecergasan</item>
+        <item>Perkhidmatan Google™</item>
+        <item>Cipta</item>
+        <item>Perkakasan</item>
+        <item>Lain-lain</item>
+    </string-array>
+</resources>

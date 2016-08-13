@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="1">
+    <groups type="desktop-automatic">
+        <group>
+            <groups type="widgets">
+                <group>
+                    <setting key="package-name">com.google.android.googlequicksearchbox</setting>
+                    <setting key="name">com.google.android.googlequicksearchbox.SearchWidgetProvider</setting>
+                    <setting key="width">6</setting>
+                    <setting key="height">1</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">0</setting>
+                </group>
+                <group>
+                    <setting key="package-name">com.sonyericsson.advancedwidget.clock</setting>
+                    <setting key="name">com.sonymobile.clock.HSWhiteVerticalDigitalClock</setting>
+                    <setting key="width">6</setting>
+                    <setting key="height">3</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">0</setting>
+                </group>
+            </groups>
+            <groups type="folders">
+                <group>
+                    <setting key="name">Google</setting>
+                    <setting key="id">10</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">0</setting>
+                </group>
+                <groups type="activities">
+                    <group>
+                        <setting key="name">com.google.android.gm.ConversationListActivityGmail</setting>
+                        <setting key="package-name">com.google.android.gm</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.plus.phone.HomeActivity</setting>
+                        <setting key="package-name">com.google.android.apps.plus</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.android.music.activitymanagement.TopLevelActivity</setting>
+                        <setting key="package-name">com.google.android.music</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.youtube.videos.EntryPoint</setting>
+                        <setting key="package-name">com.google.android.videos</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.books.app.BooksActivity</setting>
+                        <setting key="package-name">com.google.android.apps.books</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.apps.dots.android.app.activity.CurrentsStartActivity</setting>
+                        <setting key="package-name">com.google.android.apps.magazines</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.gms.games.ui.destination.main.MainActivity</setting>
+                        <setting key="package-name">com.google.android.play.games</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.docs.app.NewMainProxyActivity</setting>
+                        <setting key="package-name">com.google.android.apps.docs</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.plus.phone.ConversationListActivity</setting>
+                        <setting key="package-name">com.google.android.apps.plus</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.talk.SigningInActivity</setting>
+                        <setting key="package-name">com.google.android.talk</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.genie.geniewidget.activities.NewsActivity</setting>
+                        <setting key="package-name">com.google.android.apps.genie.geniewidget</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.keep.activities.BrowseActivity</setting>
+                        <setting key="package-name">com.google.android.keep</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.gms.app.settings.GoogleSettingsActivity</setting>
+                        <setting key="package-name">com.google.android.gms</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.docs.app.NewMainProxyActivity</setting>
+                        <setting key="package-name">com.google.android.apps.docs.editors.docs</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.googlequicksearchbox.VoiceSearchActivity</setting>
+                        <setting key="package-name">com.google.android.googlequicksearchbox</setting>
+                        <setting key="folder">10</setting>
+                    </group>
+                </groups>
+            </groups>
+            <groups type="activities">
+                <group>
+                    <setting key="name">com.android.calendar.LaunchActivity</setting>
+                    <setting key="package-name">com.android.calendar</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">0</setting>
+                </group>
+                <group>
+                    <setting key="name">com.android.email.activity.Welcome</setting>
+                    <setting key="package-name">com.android.email</setting>
+                    <setting key="x">2</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">0</setting>
+                </group>
+                <group>
+                    <setting key="name">com.sonyericsson.music.MusicActivity</setting>
+                    <setting key="package-name">com.sonyericsson.music</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">com.sonyericsson.album.MainActivity</setting>
+                    <setting key="package-name">com.sonyericsson.album</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">com.sonyericsson.video.browser.BrowserActivity</setting>
+                    <setting key="package-name">com.sonyericsson.video</setting>
+                    <setting key="x">2</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">com.sonymobile.entrance.EntranceActivity</setting>
+                    <setting key="package-name">com.sonymobile.entrance</setting>
+                    <setting key="x">3</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">com.google.android.googlequicksearchbox.SearchActivity</setting>
+                    <setting key="package-name">com.google.android.googlequicksearchbox</setting>
+                    <setting key="x">4</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">com.google.android.maps.MapsActivity</setting>
+                    <setting key="package-name">com.google.android.apps.maps</setting>
+                    <setting key="x">5</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">com.google.android.youtube.app.honeycomb.Shell$HomeActivity</setting>
+                    <setting key="package-name">com.google.android.youtube</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">com.google.android.apps.chrome.Main</setting>
+                    <setting key="package-name">com.android.chrome</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">com.sonyericsson.fmradio.ui.FmRadioActivity</setting>
+                    <setting key="package-name">com.sonyericsson.fmradio</setting>
+                    <setting key="x">2</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">com.android.calculator2.Calculator</setting>
+                    <setting key="package-name">com.android.calculator2</setting>
+                    <setting key="x">3</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">com.sonyericsson.organizer.Organizer</setting>
+                    <setting key="package-name">com.sonyericsson.organizer</setting>
+                    <setting key="x">4</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="name">com.android.providers.downloads.ui.DownloadList</setting>
+                    <setting key="package-name">com.android.providers.downloads.ui</setting>
+                    <setting key="x">5</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">1</setting>
+                </group>
+            </groups>
+            <groups type="folders">
+                <group>
+                    <setting key="name">Sony</setting>
+                    <setting key="id">11</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">2</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <groups type="activities">
+                    <group>
+                        <setting key="name">com.sonymobile.sketch.dashboard.DashboardActivity</setting>
+                        <setting key="package-name">com.sonymobile.sketch</setting>
+                        <setting key="folder">11</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.sony.nfx.app.sfrc.npam.InitialActivity</setting>
+                        <setting key="package-name">com.sony.nfx.app.sfrc</setting>
+                        <setting key="folder">11</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.sonymobile.moviecreator.rmm.HighlightListActivity</setting>
+                        <setting key="package-name">com.sonymobile.moviecreator.rmm</setting>
+                        <setting key="folder">11</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.sonyericsson.trackid.activity.WidgetHandlerActivity</setting>
+                        <setting key="package-name">com.sonyericsson.trackid</setting>
+                        <setting key="folder">11</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.scee.psxandroid.activity.TopActivity</setting>
+                        <setting key="package-name">com.scee.psxandroid</setting>
+                        <setting key="folder">11</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.sony.snei.vu.storeclient.activity.StoreClientHomeActivity</setting>
+                        <setting key="package-name">com.sony.snei.vu</setting>
+                        <setting key="folder">11</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.sonymobile.helpapp7.MainActivity</setting>
+                        <setting key="package-name">com.sonymobile.helpapp7</setting>
+                        <setting key="folder">11</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.sonymobile.lifelog.login.StartActivity</setting>
+                        <setting key="package-name">com.sonymobile.lifelog</setting>
+                        <setting key="folder">11</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.sonymobile.xperialink.common.EntryActivity</setting>
+                        <setting key="package-name">com.sonymobile.xperialink</setting>
+                        <setting key="folder">11</setting>
+                    </group>
+                </groups>
+            </groups>
+            <groups type="folders">
+                <group>
+                    <setting key="name">Top Apps</setting>
+                    <setting key="id">12</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">2</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <groups type="activities">
+                    <group>
+                        <setting key="name">com.mobisystems.office.splashScreen.SplashScreenActivity</setting>
+                        <setting key="package-name">com.mobisystems.office</setting>
+                        <setting key="folder">12</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.s.antivirus.ProtectionMainActivity</setting>
+                        <setting key="package-name">com.s.antivirus</setting>
+                        <setting key="folder">12</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.facebook.katana.LoginActivity</setting>
+                        <setting key="package-name">com.facebook.katana</setting>
+                        <setting key="folder">12</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.navigon.navigator_select_sony_eu.hmi.CheckExistingRegistrationActivity</setting>
+                        <setting key="package-name">com.navigon.navigator_select_sony_eu</setting>
+                        <setting key="folder">12</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.mobisystems.files.FileBrowser</setting>
+                        <setting key="package-name">com.mobisystems.fileman</setting>
+                        <setting key="folder">12</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.sonymobile.xhs.activities.StartMenu</setting>
+                        <setting key="package-name">com.sonyericsson.xhs</setting>
+                        <setting key="folder">12</setting>
+                    </group>
+                </groups>
+            </groups>
+            <groups type="folders">
+                <group>
+                    <setting key="name">Developer</setting>
+                    <setting key="id">13</setting>
+                    <setting key="x">2</setting>
+                    <setting key="y">2</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <groups type="activities">
+                    <group>
+                        <setting key="name">com.sonymobile.crashloguploader.Launcher</setting>
+                        <setting key="package-name">com.sonymobile.crashloguploader</setting>
+                        <setting key="folder">13</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.sonyericsson.debugmenu.DebugMenu</setting>
+                        <setting key="package-name">com.sonyericsson.debugmenu</setting>
+                        <setting key="folder">13</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.sonyericsson.extras.liveware.ui.LaunchActivity</setting>
+                        <setting key="package-name">com.sonyericsson.extras.liveware</setting>
+                        <setting key="folder">13</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.sonymobile.modemlogenabler.ModemLogEnabler</setting>
+                        <setting key="package-name">com.sonymobile.modemlogenabler</setting>
+                        <setting key="folder">13</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.sonymobile.synchub.LaunchActivity</setting>
+                        <setting key="package-name">com.sonymobile.synchub</setting>
+                        <setting key="folder">13</setting>
+                    </group>
+                </groups>
+            </groups>
+            <groups type="activities">
+                <group>
+                    <setting key="name">com.android.settings.Settings</setting>
+                    <setting key="package-name">com.android.settings</setting>
+                    <setting key="x">3</setting>
+                    <setting key="y">2</setting>
+                    <setting key="pane">1</setting>
+                </group>
+            </groups>
+        </group>
+    </groups>
+</settings>

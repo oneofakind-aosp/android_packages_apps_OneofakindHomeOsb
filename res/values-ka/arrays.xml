@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>საქაღალდე</item>
+        <item>სოციალური</item>
+        <item>გართობა</item>
+        <item>მედია</item>
+        <item>რჩეული</item>
+        <item>ჯანმრთელობა</item>
+        <item>უტილ</item>
+        <item>ახალი ამბები</item>
+        <item>ფიტნესი</item>
+        <item>Google™–ის სერვისები</item>
+        <item>შექმნა</item>
+        <item>ხელსაწყ.</item>
+        <item>სხვა</item>
+    </string-array>
+</resources>

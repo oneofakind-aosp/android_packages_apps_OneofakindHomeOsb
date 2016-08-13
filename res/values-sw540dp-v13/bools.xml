@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="portrait_only">false</bool>
+    <bool name="is_large_screen">false</bool>
+    <bool name="autoRotate">true</bool>
+    <bool name="support_alternate_resources">true</bool>
+</resources>

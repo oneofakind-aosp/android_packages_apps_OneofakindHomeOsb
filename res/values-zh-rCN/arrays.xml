@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>文件夹</item>
+        <item>社交</item>
+        <item>娱乐</item>
+        <item>媒体</item>
+        <item>收藏</item>
+        <item>健康</item>
+        <item>实用程序</item>
+        <item>资讯</item>
+        <item>健身</item>
+        <item>Google™服务</item>
+        <item>创建</item>
+        <item>工具</item>
+        <item>其他</item>
+    </string-array>
+</resources>

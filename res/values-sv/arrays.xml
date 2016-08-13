@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Mapp</item>
+        <item>Socialt</item>
+        <item>Underhållning</item>
+        <item>Media</item>
+        <item>Favoriter</item>
+        <item>Hälsa</item>
+        <item>Verktyg</item>
+        <item>Nyheter</item>
+        <item>Fitness</item>
+        <item>Google™s tjänster</item>
+        <item>Skapa</item>
+        <item>Verktyg</item>
+        <item>Övrigt</item>
+    </string-array>
+</resources>

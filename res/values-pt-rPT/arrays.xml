@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Pasta</item>
+        <item>Social</item>
+        <item>Entretenimento</item>
+        <item>Multimédia</item>
+        <item>Favoritos</item>
+        <item>Saúde</item>
+        <item>Ferramentas</item>
+        <item>Notícias</item>
+        <item>Exercício</item>
+        <item>Serviços Google™</item>
+        <item>Criar</item>
+        <item>Ferramentas</item>
+        <item>Outro</item>
+    </string-array>
+</resources>

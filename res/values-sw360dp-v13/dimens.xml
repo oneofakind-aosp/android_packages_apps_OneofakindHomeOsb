@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="apptray_cell_height">98.0dip</dimen>
+    <dimen name="apptray_cell_width">84.0dip</dimen>
+    <dimen name="apptray_grid_height">512.0dip</dimen>
+    <dimen name="apptray_grid_offset">-8.0dip</dimen>
+    <dimen name="apptray_grid_zoom_offset">-32.0dip</dimen>
+    <dimen name="cui_grid_height_large">180.0dip</dimen>
+    <dimen name="cui_grid_height_small">85.0dip</dimen>
+    <item type="dimen" name="cui_main_menu_cell_height">@dimen/cui_grid_height_small</item>
+    <dimen name="cui_main_menu_cell_width">90.0dip</dimen>
+    <item type="dimen" name="desktop_cell_height">@dimen/desktop_cell_height_port</item>
+    <item type="dimen" name="desktop_cell_width">@dimen/desktop_cell_width_port</item>
+    <dimen name="min_cell_height">84.0dip</dimen>
+    <dimen name="min_cell_width">88.0dip</dimen>
+    <dimen name="stage_cell_height">78.0dip</dimen>
+    <dimen name="stage_cell_width">68.0dip</dimen>
+    <item type="dimen" name="apptray_icon_image_size">@dimen/icon_image_size</item>
+    <item type="dimen" name="apptray_icon_label_max_text_size">@dimen/icon_label_max_text_size</item>
+    <dimen name="desktop_grid_horizontal_offset">0.0dip</dimen>
+    <dimen name="desktop_grid_vertical_offset">-54.0dip</dimen>
+    <item type="dimen" name="desktop_icon_label_max_text_size">@dimen/icon_label_max_text_size</item>
+    <dimen name="desktop_low_zoom_vertical_position">-48.0dip</dimen>
+    <item type="dimen" name="desktop_cell_height_land">@dimen/desktop_cell_height_port</item>
+    <dimen name="desktop_cell_height_port">94.0dip</dimen>
+    <item type="dimen" name="desktop_cell_width_land">@dimen/desktop_cell_width_port</item>
+    <dimen name="desktop_cell_width_port">89.0dip</dimen>
+    <dimen name="icon_label_text_size">13.0sp</dimen>
+    <dimen name="open_folder_cell_height">98.0dip</dimen>
+    <dimen name="open_folder_cell_width">80.0dip</dimen>
+    <dimen name="open_folder_header_horizontal_component_padding">23.0dip</dimen>
+    <dimen name="open_folder_header_horizontal_margin">7.0dip</dimen>
+    <dimen name="open_folder_screen_margin">4.0dip</dimen>
+    <dimen name="open_folder_side_margin">18.0dip</dimen>
+    <item type="dimen" name="apptray_icon_image_size_small">@dimen/icon_image_size_small</item>
+    <item type="dimen" name="desktop_multi_line_icon_label_max_text_size">@dimen/icon_label_max_text_size</item>
+    <dimen name="icon_image_size">56.0dip</dimen>
+    <dimen name="icon_image_size_small">48.0dip</dimen>
+    <dimen name="icon_label_max_text_size">15.0dip</dimen>
+    <dimen name="stage_icon_image_size">52.0dip</dimen>
+    <dimen name="stage_icon_image_size_small">48.0dip</dimen>
+    <item type="dimen" name="stage_icon_label_max_text_size">@dimen/icon_label_max_text_size</item>
+    <dimen name="stage_mirror_size">10.0dip</dimen>
+</resources>

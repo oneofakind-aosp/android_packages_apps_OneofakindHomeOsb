@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Cartafol</item>
+        <item>Social</item>
+        <item>Entretemento</item>
+        <item>Multimedia</item>
+        <item>Favoritos</item>
+        <item>Saúde</item>
+        <item>Ferramentas</item>
+        <item>Novas</item>
+        <item>Ximnasia</item>
+        <item>Servizos de Google™</item>
+        <item>Crear</item>
+        <item>Ferramentas</item>
+        <item>Outros</item>
+    </string-array>
+</resources>

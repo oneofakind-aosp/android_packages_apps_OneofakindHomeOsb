@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Mappa</item>
+        <item>Közösségi</item>
+        <item>Szórakoztatás</item>
+        <item>Média</item>
+        <item>Kedvencek</item>
+        <item>Egészség</item>
+        <item>Hasznos alkalmazások</item>
+        <item>Hírek</item>
+        <item>Személyre szabott</item>
+        <item>Google™-szolgáltatások</item>
+        <item>Létrehozás</item>
+        <item>Eszközök</item>
+        <item>Egyéb</item>
+    </string-array>
+</resources>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="1">
+    <groups type="desktop">
+        <group>
+            <groups type="widgets">
+                <group>
+                    <setting key="package-name">com.sonymobile.xperiaweather</setting>
+                    <setting key="name">com.sonymobile.xperiaweather.widget.WidgetProvider</setting>
+                    <setting key="width">5</setting>
+                    <setting key="height">1</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="package-name">com.sonymobile.entrance</setting>
+                    <setting key="name">com.sonymobile.entrance.widget.WhatsNewAppWidgetProvider</setting>
+                    <setting key="width">5</setting>
+                    <setting key="height">3</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">1</setting>
+                </group>
+                <group>
+                    <setting key="package-name">com.google.android.googlequicksearchbox</setting>
+                    <setting key="name">com.google.android.googlequicksearchbox.SearchWidgetProvider</setting>
+                    <setting key="width">5</setting>
+                    <setting key="height">1</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">2</setting>
+                </group>
+                <group>
+                    <setting key="package-name">com.sonyericsson.advancedwidget.clock</setting>
+                    <setting key="name">com.sonymobile.clock.HSWhiteVerticalDigitalClock</setting>
+                    <setting key="width">3</setting>
+                    <setting key="height">2</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">2</setting>
+                </group>
+            </groups>
+            <groups type="folders">
+                <group>
+                    <setting key="name">Google</setting>
+                    <setting key="id">115</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">2</setting>
+                </group>
+                <groups type="activities">
+                    <group>
+                        <setting key="name">com.google.android.googlequicksearchbox.SearchActivity</setting>
+                        <setting key="package-name">com.google.android.googlequicksearchbox</setting>
+                        <setting key="folder">115</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.chrome.Main</setting>
+                        <setting key="package-name">com.android.chrome</setting>
+                        <setting key="folder">115</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.gm.ConversationListActivityGmail</setting>
+                        <setting key="package-name">com.google.android.gm</setting>
+                        <setting key="folder">115</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.maps.MapsActivity</setting>
+                        <setting key="package-name">com.google.android.apps.maps</setting>
+                        <setting key="folder">115</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.youtube.app.honeycomb.Shell$HomeActivity</setting>
+                        <setting key="package-name">com.google.android.youtube</setting>
+                        <setting key="folder">115</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.docs.app.NewMainProxyActivity</setting>
+                        <setting key="package-name">com.google.android.apps.docs</setting>
+                        <setting key="folder">115</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.android.music.activitymanagement.TopLevelActivity</setting>
+                        <setting key="package-name">com.google.android.music</setting>
+                        <setting key="folder">115</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.youtube.videos.EntryPoint</setting>
+                        <setting key="package-name">com.google.android.videos</setting>
+                        <setting key="folder">115</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.talk.SigningInActivity</setting>
+                        <setting key="package-name">com.google.android.talk</setting>
+                        <setting key="folder">115</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.photos.home.HomeActivity</setting>
+                        <setting key="package-name">com.google.android.apps.photos</setting>
+                        <setting key="folder">115</setting>
+                    </group>
+                </groups>
+            </groups>
+            <groups type="activities">
+                <group>
+                    <setting key="name">.AssetBrowserActivity</setting>
+                    <setting key="package-name">com.android.vending</setting>
+                    <setting key="x">4</setting>
+                    <setting key="y">4</setting>
+                    <setting key="pane">2</setting>
+                </group>
+                <group>
+                    <setting key="name">.MusicActivity</setting>
+                    <setting key="package-name">com.sonyericsson.music</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.MainActivity</setting>
+                    <setting key="package-name">com.sonyericsson.album</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.browser.BrowserActivity</setting>
+                    <setting key="package-name">com.sonyericsson.video</setting>
+                    <setting key="x">2</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.activity.TopActivity</setting>
+                    <setting key="package-name">com.scee.psxandroid</setting>
+                    <setting key="x">3</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.EntranceActivity</setting>
+                    <setting key="package-name">com.sonymobile.entrance</setting>
+                    <setting key="x">4</setting>
+                    <setting key="y">0</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.LaunchActivity</setting>
+                    <setting key="package-name">com.android.calendar</setting>
+                    <setting key="x">0</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.activity.Welcome</setting>
+                    <setting key="package-name">com.android.email</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.Organizer</setting>
+                    <setting key="package-name">com.sonyericsson.organizer</setting>
+                    <setting key="x">2</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.Calculator</setting>
+                    <setting key="package-name">com.android.calculator2</setting>
+                    <setting key="x">3</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.MainActivity</setting>
+                    <setting key="package-name">com.sonymobile.xperiaweather</setting>
+                    <setting key="x">4</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.LoginActivity</setting>
+                    <setting key="package-name">com.facebook.katana</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">2</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.SearchActivity</setting>
+                    <setting key="package-name">com.google.android.googlequicksearchbox</setting>
+                    <setting key="x">2</setting>
+                    <setting key="y">2</setting>
+                    <setting key="pane">3</setting>
+                </group>
+                <group>
+                    <setting key="name">.Settings</setting>
+                    <setting key="package-name">com.android.settings</setting>
+                    <setting key="x">3</setting>
+                    <setting key="y">2</setting>
+                    <setting key="pane">3</setting>
+                </group>
+            </groups>
+        </group>
+    </groups>
+</settings>

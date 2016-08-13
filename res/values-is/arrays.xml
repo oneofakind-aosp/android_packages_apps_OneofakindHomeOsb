@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Mappa</item>
+        <item>Netsamfélag</item>
+        <item>Afþreying</item>
+        <item>Miðlar</item>
+        <item>Uppáhalds</item>
+        <item>Heilsa</item>
+        <item>Gagnleg forrit</item>
+        <item>Fréttir</item>
+        <item>Líkamsrækt</item>
+        <item>Google™ þjónusta</item>
+        <item>Búa til</item>
+        <item>Verkfæri</item>
+        <item>Annað</item>
+    </string-array>
+</resources>

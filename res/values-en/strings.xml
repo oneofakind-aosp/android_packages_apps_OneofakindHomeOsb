@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desktop_add_dialog_apps_description">Add your favourite applications to the Home screen for easy access</string>
+    <string name="desktop_add_dialog_shortcuts_description">"Add shortcuts to frequently used functions – for example, a friend's phone number or a website"</string>
+    <string name="dialog_enable_location_service_body">To get recommendations based on your location, you must turn on Location services</string>
+    <string name="home_accessibility_desktop_customize_fab_txt">Customise</string>
+    <string name="home_accessibility_open_drawer">Swipe left to open application screen menu</string>
+    <string name="home_app_tray_cannot_customize_dialog_content_txt">The Application screen can only be customised in Own Order sorting mode. Sorting mode can be changed in the Options menu.</string>
+    <string name="home_app_tray_cannot_uninstall_dialog_app_info_button_txt">App info</string>
+    <string name="home_cui_title_customize">Customise</string>
+    <string name="home_delete_unloadable_app_dialog_content_txt">"Do you want to delete this app? 
+Note: It will still be stored on the SD card."</string>
+    <string name="home_hint_my_applications_continue">OK, understood!</string>
+    <string name="home_hint_my_home_screen_info">Touch and hold on an empty area to customise your Home screen</string>
+    <string name="home_missing_permission_dialog_content">"%1$s requires the following permission to perform this action:
+
+%2$s
+%3$s"</string>
+    <string name="home_missing_permission_dialog_phone_rationale">To call the contact</string>
+    <string name="home_missing_permission_dialog_title">%1$s permission</string>
+    <string name="home_permission_access_modify_configuration_description">Allows an application to access and change the current Xperia™ home screen configuration</string>
+    <string name="home_search_disclaimer_dialog_message">If you agree below, Sony Mobile will collect usage info (apps used etc.) and location to personalise recommendations. (Android™ advertising ID and location will be shared with ad partners). Sony Mobile will handle your data according to our <a href="http://sonymobile.com/privacy">Privacy Policy</a></string>
+    <string name="home_settings_allow_rotate_summary">Allow auto-rotation on the home screen</string>
+    <string name="home_settings_allow_rotate_title">Auto-rotation</string>
+    <string name="home_settings_auto_pack_desktop_items_summary">Place items closely together automatically on the desktop</string>
+    <string name="home_settings_icon_pack_button_apply">Apply</string>
+    <string name="home_settings_icon_pack_default_summary">Reset all icons to default appearance</string>
+    <string name="home_settings_icon_pack_summary">Choose icon pack or theme to apply icons from</string>
+    <string name="home_settings_license_button_summary">Information on the Home licence</string>
+    <string name="home_shortcut_already_exists_txt">Shortcut already exists: \"%s\"</string>
+    <string name="home_shortcut_created_txt">Shortcut created: \"%s\"</string>
+    <string name="home_stage_how_to_notification_text">You can now get quick access to your most used apps on all panes by adding them to the area at the bottom of the screen. To add apps, simply drag and drop them where you like.</string>
+    <string name="internal_icon_pack_activity_title">Icon appearance</string>
+</resources>

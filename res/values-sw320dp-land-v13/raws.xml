@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="raw" name="desktop_cui_zoom_horizontal_position_factor">0.93</item>
+    <item type="raw" name="desktop_cui_zoom_vertical_position_factor">-0.12</item>
+    <item type="raw" name="desktop_low_zoom_depth">-0.8</item>
+    <item type="raw" name="apptray_dragndrop_zoom_position">-0.9</item>
+    <item type="raw" name="apptray_folder_hint_scale_factor">1.1</item>
+    <item type="raw" name="desktop_cui_zoom_depth">-2.4</item>
+</resources>

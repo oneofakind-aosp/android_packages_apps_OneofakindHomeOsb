@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="apptray_grid_columns">4</integer>
+    <integer name="apptray_grid_rows">8</integer>
+    <integer name="apptray_item_text_lines">2</integer>
+    <integer name="cui_applications_grid_columns">5</integer>
+    <integer name="cui_applications_grid_rows">2</integer>
+    <integer name="cui_wallpaper_grid_columns">5</integer>
+    <integer name="cui_wallpaper_grid_rows">2</integer>
+    <integer name="cui_widget_grid_columns">4</integer>
+    <integer name="cui_widget_grid_rows">2</integer>
+    <integer name="stage_grid_columns">9</integer>
+    <integer name="stage_grid_rows">1</integer>
+    <integer name="desktop_grid_columns">7</integer>
+    <integer name="desktop_grid_rows">5</integer>
+    <integer name="open_folder_item_text_lines">2</integer>
+    <integer name="max_stage_items">8</integer>
+    <integer name="max_stage_items_dynamic">9</integer>
+    <integer name="desktop_cui_fab_size">0</integer>
+    <integer name="search_activity_grid_columns">5</integer>
+    <integer name="stage_item_text_lines">2</integer>
+    <integer name="move_items_to_stage_from_row_index">6</integer>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/i_agree_button" android:background="@drawable/i_agree_button_background" android:layout_width="@dimen/search_welcome_button_width" android:layout_height="@dimen/search_welcome_button_height" android:layout_marginTop="@dimen/search_welcome_screen_agree_button_margin_top" android:text="@string/home_search_welcome_screen_i_agree" style="@style/WelcomeScreenButtonStyle" />
+    <Button android:id="@id/not_now_button" android:background="@drawable/no_thanks_button_background" android:layout_width="@dimen/search_welcome_button_width" android:layout_height="@dimen/search_welcome_button_height" android:layout_marginTop="@dimen/search_welcome_screen_not_now_button_margin_top" android:text="@string/home_search_welcome_screen_not_now" style="@style/WelcomeScreenButtonStyle" />
+</merge>

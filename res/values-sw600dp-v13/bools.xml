@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="autoRotate">true</bool>
+    <bool name="transparent_status_and_nav_bar">true</bool>
+    <bool name="desktop_zoomed_screen_fade_page_buttons">true</bool>
+    <bool name="search_activity_portrait_only">false</bool>
+</resources>

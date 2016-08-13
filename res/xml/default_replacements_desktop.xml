@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="1">
+    <groups type="replace-activities">
+        <group>
+            <setting key="package-name-old">com.playstation.psstore</setting>
+            <setting key="name-old">com.playstation.psstore.HomeActivity</setting>
+            <setting key="package-name">com.scee.psxandroid</setting>
+            <setting key="name">com.scee.psxandroid.activity.TopActivity</setting>
+        </group>
+    </groups>
+    <groups type="replace-any-widget-with-app-widget">
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.music</setting>
+            <setting key="name-old">com.sonyericsson.advancedwidget.music.SemcWidget</setting>
+            <setting key="package-name">com.sonyericsson.music</setting>
+            <setting key="name">com.sonyericsson.music.musicwidget.MusicWidgetProvider</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name-old">com.sonyericsson.advancedwidget.clock.PlainDigitalWidget</setting>
+            <setting key="package-name">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name">com.sonymobile.clock.HSWhiteDigitalClock</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name-old">com.sonyericsson.advancedwidget.clock.LightDigitalWidget</setting>
+            <setting key="package-name">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name">com.sonymobile.clock.HSWhiteDigitalClock</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name-old">com.sonymobile.clock.HSWhiteDigitalClock</setting>
+            <setting key="package-name">com.sonymobile.appwidget.clock</setting>
+            <setting key="name">com.sonymobile.appwidget.clock.HSWhiteDigitalClock</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name-old">com.sonyericsson.advancedwidget.clock.DarkDigitalWidget</setting>
+            <setting key="package-name">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name">com.sonymobile.clock.HSWhiteDigitalClock</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name-old">com.sonyericsson.advancedwidget.clock.LightAnalogWidget</setting>
+            <setting key="package-name">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name">com.sonymobile.clock.HSWhiteAnalogClock</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name-old">com.sonymobile.clock.HSWhiteAnalogClock</setting>
+            <setting key="package-name">com.sonymobile.appwidget.clock</setting>
+            <setting key="name">com.sonymobile.appwidget.clock.HSWhiteAnalogClock</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name-old">com.sonyericsson.advancedwidget.clock.DarkAnalogWidget</setting>
+            <setting key="package-name">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name">com.sonymobile.clock.HSWhiteAnalogClock</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name-old">com.sonymobile.clock.HSBlackAnalogClock</setting>
+            <setting key="package-name">com.sonymobile.appwidget.clock</setting>
+            <setting key="name">com.sonymobile.appwidget.clock.HSWhiteAnalogClock</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name-old">com.sonymobile.clock.HSBlackVerticalDigitalClock</setting>
+            <setting key="package-name">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name">com.sonymobile.clock.HSWhiteVerticalDigitalClock</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name-old">com.sonymobile.clock.HSBlackDigitalClock</setting>
+            <setting key="package-name">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name">com.sonymobile.clock.HSWhiteDigitalClock</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name-old">com.sonymobile.clock.HSBlackDigitalClockPlain</setting>
+            <setting key="package-name">com.sonyericsson.advancedwidget.clock</setting>
+            <setting key="name">com.sonymobile.clock.HSWhiteDigitalClockPlain</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.weather</setting>
+            <setting key="name-old">com.sonyericsson.advancedwidget.weather.WideWeatherWidget</setting>
+            <setting key="package-name">com.sonyericsson.advancedwidget.weather</setting>
+            <setting key="name">com.sonymobile.appwidget.weather.WeatherWidget</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.weather</setting>
+            <setting key="name-old">com.sonymobile.appwidget.weather.WeatherWidget</setting>
+            <setting key="package-name">com.sonymobile.appwidget.weather</setting>
+            <setting key="name">com.sonymobile.appwidget.weather.WeatherWidget</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.photo</setting>
+            <setting key="name-old">com.sonyericsson.advancedwidget.photo.SemcWidget</setting>
+            <setting key="package-name">com.sonyericsson.advancedwidget.photo</setting>
+            <setting key="name">com.sonymobile.appwidget.PhotoWidget</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonyericsson.advancedwidget.photo</setting>
+            <setting key="name-old">com.sonymobile.appwidget.photo.PhotoWidget</setting>
+            <setting key="package-name">com.sonymobile.appwidget.photo</setting>
+            <setting key="name">com.sonymobile.appwidget.photo.PhotoWidget</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonymobile.appwidget.photo</setting>
+            <setting key="name-old">com.sonymobile.appwidget.photo.PhotoWidget</setting>
+            <setting key="package-name">com.sonyericsson.album</setting>
+            <setting key="name">com.sonyericsson.album.appwidget.PhotoWidget</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonymobile.advancedwidget.worldclock</setting>
+            <setting key="name-old">com.sonymobile.advancedwidget.worldclock.SemcWidget</setting>
+            <setting key="package-name">com.sonymobile.advancedwidget.worldclock</setting>
+            <setting key="name">com.sonymobile.appwidget.worldclock.WorldClockWidget</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonymobile.advancedwidget.worldclock</setting>
+            <setting key="name-old">com.sonymobile.appwidget.worldclock.WorldClockWidget</setting>
+            <setting key="package-name">com.sonymobile.appwidget.worldclock</setting>
+            <setting key="name">com.sonymobile.appwidget.worldclock.WorldClockWidget</setting>
+        </group>
+        <group>
+            <setting key="package-name-old">com.sonymobile.advancedwidget.entrance</setting>
+            <setting key="name-old">com.sonymobile.advancedwidget.entrance.widget.SonyEntranceWidget</setting>
+            <setting key="package-name">com.sonymobile.entrance</setting>
+            <setting key="name">com.sonymobile.entrance.widget.WhatsNewAppWidgetProvider</setting>
+        </group>
+    </groups>
+</settings>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="1">
+    <groups type="stage">
+        <group>
+            <groups type="activities">
+                <group>
+                    <setting key="name">.DialerEntryActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.socialphonebook</setting>
+                </group>
+                <group>
+                    <setting key="name">.ui.ConversationListActivity</setting>
+                    <setting key="package-name">com.sonyericsson.conversations</setting>
+                </group>
+                <group>
+                    <setting key="name">.LaunchActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.socialphonebook</setting>
+                </group>
+                <group>
+                    <setting key="name">.CameraActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.camera</setting>
+                </group>
+            </groups>
+        </group>
+    </groups>
+</settings>

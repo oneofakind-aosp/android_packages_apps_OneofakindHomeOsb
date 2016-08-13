@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Thư mục</item>
+        <item>Xã hội</item>
+        <item>Giải trí</item>
+        <item>Media</item>
+        <item>Mục ưa thích</item>
+        <item>Sức khoẻ</item>
+        <item>Tiện ích</item>
+        <item>Tin tức</item>
+        <item>Phù hợp</item>
+        <item>Dịch vụ của Google™</item>
+        <item>Tạo</item>
+        <item>Công cụ</item>
+        <item>Khác</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Φάκελος</item>
+        <item>Κοινωνικά δίκτυα</item>
+        <item>Ψυχαγωγία</item>
+        <item>Πολυμέσα</item>
+        <item>Αγαπημένα</item>
+        <item>Υγεία</item>
+        <item>Χρήσιμες εφαρμογές</item>
+        <item>Ειδήσεις</item>
+        <item>Καταλληλότητα</item>
+        <item>Υπηρεσίες Google™</item>
+        <item>Δημιουργία</item>
+        <item>Εργαλεία</item>
+        <item>Άλλο</item>
+    </string-array>
+</resources>

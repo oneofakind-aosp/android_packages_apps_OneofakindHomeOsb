@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Fascikla</item>
+        <item>Društveno</item>
+        <item>Zabava</item>
+        <item>Mediji</item>
+        <item>Omiljene</item>
+        <item>Zdravstvo</item>
+        <item>Uslužni programi</item>
+        <item>Vesti</item>
+        <item>Pogodnost</item>
+        <item>Google™ usluge</item>
+        <item>Napravi</item>
+        <item>Alatke</item>
+        <item>Ostalo</item>
+    </string-array>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48.0dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14.0dip</dimen>
+    <dimen name="actionbar_height">44.0dip</dimen>
+    <dimen name="apptray_cell_height">74.0dip</dimen>
+    <dimen name="apptray_cell_width">99.0dip</dimen>
+    <dimen name="apptray_dropzone_height">28.0dip</dimen>
+    <dimen name="apptray_grid_height">320.0dip</dimen>
+    <dimen name="apptray_grid_offset">0.0dip</dimen>
+    <dimen name="apptray_grid_width_padding">128.0dip</dimen>
+    <dimen name="apptray_grid_zoom_offset">24.0dip</dimen>
+    <dimen name="cui_applications_cell_height">90.0dip</dimen>
+    <dimen name="cui_applications_cell_width">78.0dip</dimen>
+    <dimen name="cui_grid_height_large">155.0dip</dimen>
+    <dimen name="cui_grid_height_small">155.0dip</dimen>
+    <dimen name="cui_main_menu_cell_height">85.0dip</dimen>
+    <item type="dimen" name="cui_main_menu_cell_width">@dimen/cui_grid_height_small</item>
+    <dimen name="cui_wallpaper_cell_height">96.0dip</dimen>
+    <item type="dimen" name="cui_wallpaper_cell_width">@dimen/cui_grid_height_large</item>
+    <dimen name="cui_widget_cell_height">96.0dip</dimen>
+    <item type="dimen" name="cui_widget_cell_width">@dimen/cui_grid_height_large</item>
+    <dimen name="desktop_cell_height">74.0dip</dimen>
+    <dimen name="desktop_cell_width">106.0dip</dimen>
+    <dimen name="desktop_cui_fab_horizontal_offset">0.0dip</dimen>
+    <dimen name="desktop_cui_fab_vertical_offset">-20.0dip</dimen>
+    <dimen name="desktop_page_switch_margin_right">110.0dip</dimen>
+    <dimen name="desktop_page_switch_nudge_offset">30.0dip</dimen>
+    <dimen name="home_default_navigation_bar_offset">42.0dip</dimen>
+    <dimen name="min_cell_height">74.0dip</dimen>
+    <dimen name="min_cell_width">106.0dip</dimen>
+    <item type="dimen" name="stage_breadth">@dimen/stage_cell_width</item>
+    <dimen name="stage_cell_height">59.0dip</dimen>
+    <dimen name="stage_cell_width">56.0dip</dimen>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Polder</item>
+        <item>Software</item>
+        <item>Huburan</item>
+        <item>Media</item>
+        <item>Paporit</item>
+        <item>Kasehatan</item>
+        <item>Utilitas</item>
+        <item>Warta</item>
+        <item>Fitness</item>
+        <item>Laden Google™</item>
+        <item>Jieun</item>
+        <item>Alat</item>
+        <item>Nu sanes</item>
+    </string-array>
+</resources>

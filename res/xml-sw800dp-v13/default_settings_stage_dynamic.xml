@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="1">
+    <groups type="stage-dynamic">
+        <group>
+            <groups type="folders">
+                <group>
+                    <setting key="name">Google</setting>
+                    <setting key="id">77</setting>
+                </group>
+                <groups type="activities">
+                    <group>
+                        <setting key="name">com.google.android.gm.ConversationListActivityGmail</setting>
+                        <setting key="package-name">com.google.android.gm</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.plus.phone.HomeActivity</setting>
+                        <setting key="package-name">com.google.android.apps.plus</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.android.music.activitymanagement.TopLevelActivity</setting>
+                        <setting key="package-name">com.google.android.music</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.youtube.videos.EntryPoint</setting>
+                        <setting key="package-name">com.google.android.videos</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.books.app.BooksActivity</setting>
+                        <setting key="package-name">com.google.android.apps.books</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.apps.dots.android.app.activity.CurrentsStartActivity</setting>
+                        <setting key="package-name">com.google.android.apps.magazines</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.gms.games.ui.destination.main.MainActivity</setting>
+                        <setting key="package-name">com.google.android.play.games</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.docs.app.NewMainProxyActivity</setting>
+                        <setting key="package-name">com.google.android.apps.docs</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.talk.SigningInActivity</setting>
+                        <setting key="package-name">com.google.android.talk</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.genie.geniewidget.activities.NewsActivity</setting>
+                        <setting key="package-name">com.google.android.apps.genie.geniewidget</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.keep.activities.BrowseActivity</setting>
+                        <setting key="package-name">com.google.android.keep</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.gms.app.settings.GoogleSettingsActivity</setting>
+                        <setting key="package-name">com.google.android.gms</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.googlequicksearchbox.VoiceSearchActivity</setting>
+                        <setting key="package-name">com.google.android.googlequicksearchbox</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.photos.home.HomeActivity</setting>
+                        <setting key="package-name">com.google.android.apps.photos</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                    <group>
+                        <setting key="name">com.google.android.apps.docs.app.NewMainProxyActivity</setting>
+                        <setting key="package-name">com.google.android.apps.docs.editors.docs</setting>
+                        <setting key="folder">77</setting>
+                    </group>
+                </groups>
+            </groups>
+            <groups type="activities">
+                <group>
+                    <setting key="name">.AssetBrowserActivity</setting>
+                    <setting key="package-name">com.android.vending</setting>
+                </group>
+                <group>
+                    <setting key="name">.LaunchActivity</setting>
+                    <setting key="package-name">com.android.calendar</setting>
+                </group>
+                <group>
+                    <setting key="name">.activity.Welcome</setting>
+                    <setting key="package-name">com.android.email</setting>
+                </group>
+            </groups>
+            <groups type="internal-functions">
+                <group>
+                    <setting key="type">search</setting>
+                </group>
+            </groups>
+            <groups type="activities">
+                <group>
+                    <setting key="name">.DialerEntryActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.socialphonebook</setting>
+                </group>
+                <group>
+                    <setting key="name">.ui.ConversationListActivity</setting>
+                    <setting key="package-name">com.sonyericsson.conversations</setting>
+                </group>
+                <group>
+                    <setting key="name">.LaunchActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.socialphonebook</setting>
+                </group>
+                <group>
+                    <setting key="name">.CameraActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.camera</setting>
+                </group>
+            </groups>
+        </group>
+    </groups>
+</settings>

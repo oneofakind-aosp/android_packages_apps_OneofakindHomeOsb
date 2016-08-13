@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>Папка</item>
+        <item>Друштвено</item>
+        <item>Забава</item>
+        <item>Медиуми</item>
+        <item>Омилени</item>
+        <item>Здравје</item>
+        <item>Алатки</item>
+        <item>Вести</item>
+        <item>Фитнес</item>
+        <item>Услуги на Google™</item>
+        <item>Креирај</item>
+        <item>Алатки</item>
+        <item>Друго</item>
+    </string-array>
+</resources>

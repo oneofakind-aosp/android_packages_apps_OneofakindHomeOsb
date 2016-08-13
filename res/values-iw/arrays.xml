@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_folder_name_default_txt">
+        <item>תיקייה</item>
+        <item>חברתי</item>
+        <item>בידור</item>
+        <item>מדיה</item>
+        <item>מועדפים</item>
+        <item>בריאות</item>
+        <item>תוכניות שירות</item>
+        <item>חדשות</item>
+        <item>התאמה</item>
+        <item>שירותים של Google™‎</item>
+        <item>צור</item>
+        <item>כלים</item>
+        <item>אחר</item>
+    </string-array>
+</resources>

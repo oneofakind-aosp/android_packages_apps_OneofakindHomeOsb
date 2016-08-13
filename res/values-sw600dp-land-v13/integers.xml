@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="apptray_grid_columns">6</integer>
+    <integer name="apptray_grid_rows">5</integer>
+    <integer name="apptray_item_text_lines">1</integer>
+    <integer name="desktop_grid_rows">5</integer>
+    <integer name="search_activity_grid_columns">10</integer>
+</resources>

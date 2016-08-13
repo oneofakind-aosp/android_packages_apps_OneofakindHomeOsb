@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/app_tray_menu_option_sort_mode" android:title="@string/app_tray_options_menu_sort_apps_item_txt" />
+    <item android:id="@id/app_tray_menu_option_manage_mode" android:title="@string/app_tray_options_menu_manage_apps_item_txt" />
+</menu>
